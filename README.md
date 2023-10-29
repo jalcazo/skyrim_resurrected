@@ -7,6 +7,10 @@ My modlist for Skyrim AE
   - 
   - a
 
+# Adult (NSFW)
+  - [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550)
+<img src="preview/statuettes/5.jpg"/>
+
 # Essential (many mods needs these)
   - [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
   - [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272)
