@@ -68,4 +68,4 @@ My modlist for Skyrim AE
   - [Achievements Mods Enabler SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/245)
 
 # Spanish translations (if you want to play it with spanish voices):
-  - temp.
+  - [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513)
