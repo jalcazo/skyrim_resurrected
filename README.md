@@ -38,7 +38,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [Female Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/85073)
   - [Gesture Animation Remix (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/64420)
   - [Conditional tavern cheering (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/63029)
-  - [DAR - Dynamic Swimming.](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description)
+  - [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description)
   - [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557)
 
 # Immersion
