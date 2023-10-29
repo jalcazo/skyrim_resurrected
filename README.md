@@ -84,9 +84,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 # Misc
   - [Achievements Mods Enabler SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/245)
 
-# Spanish translations (if you want to play it with spanish voices):
+# Spanish translations (if you want to play it with spanish texts & voices):
   - [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513)
   - [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628)
   - [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621)
   - [Herds SSE Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/13980)
   - [Unofficial Skyrim Special Edition Patch - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/73323)
+  - [Tactical Valtheim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42326)
