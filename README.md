@@ -12,6 +12,14 @@ My modlist for Skyrim AE
   - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
   - [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438)
 
+# Animations
+  - [Dynamic Animation Replacer (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/33746)
+  - [Male Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/89225)
+  - [Female Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/85073)
+  - [Gesture Animation Remix (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/64420)
+  - [Conditional tavern cheering (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/63029)
+  - [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557)
+
 # Immersion
   - [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270)
   - [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288)
