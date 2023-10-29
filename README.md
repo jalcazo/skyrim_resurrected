@@ -7,6 +7,17 @@ My modlist for Skyrim AE
 # GUI
   - [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=files).
 
+# Fixes
+  - [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
+  - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
+  - [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438)
+
+# Immersion
+  - [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270)
+  - [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288)
+  - [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808)
+  - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
+
 # Weather
   - [Volumetric Mists.](https://www.nexusmods.com/skyrimspecialedition/mods/29273)
   - [Obsidian Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/12125)
@@ -15,8 +26,8 @@ My modlist for Skyrim AE
   - [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094)
 
 # Creatures
-  -[Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338)
-  -[Grandiose Giants.](https://www.nexusmods.com/skyrimspecialedition/mods/23889)
+  - [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338)
+  - [Grandiose Giants.](https://www.nexusmods.com/skyrimspecialedition/mods/23889)
 
 # Sea and Water
   - [Depths of Skyrim - An Underwater Overhaul SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26913)
