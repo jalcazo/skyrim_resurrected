@@ -5,11 +5,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542)
 <img src="preview/gallows/4.jpg"/>
   - 
-  - a
+  - [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742)
 
 # Adult (NSFW)
   - [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550)
 <img src="preview/statuettes/5.jpg"/>
+  - [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198)
+  - 
 
 # Essential (many mods needs these)
   - [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
@@ -47,6 +49,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
   - [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
 
+# Shrines and statues
+  - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592)
+
+
 # Weather
   - [Volumetric Mists.](https://www.nexusmods.com/skyrimspecialedition/mods/29273)
   - [Obsidian Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/12125)
@@ -73,3 +79,5 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 # Spanish translations (if you want to play it with spanish voices):
   - [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513)
+  - [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628)
+  - [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621)
