@@ -2,7 +2,7 @@
 My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a collection on nexusmods with this modlist. Feel free to use the "Adult (NSFW)" section or not, please.
 
 # Shrines and statues
-  - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592)
+  - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
 <img src="preview/ryn_azuras/1.jpg"/>
 
   - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
