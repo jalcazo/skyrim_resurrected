@@ -3,7 +3,7 @@ My modlist for Skyrim AE
 
 # Grim and Gore
   - [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542)
-<img src="preview/gallows/1.jpg"/>
+<img src="preview/gallows/4.jpg"/>
   - 
   - a
 
@@ -68,4 +68,4 @@ My modlist for Skyrim AE
   - [Achievements Mods Enabler SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/245)
 
 # Spanish translations (if you want to play it with spanish voices):
-  - temp.
+  - [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513)
