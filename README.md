@@ -13,6 +13,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382)
   - [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101)
 
+# Animals
+  - [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880)
+<img src="preview/herds/1.jpg"/>
+
 # Essential (many mods needs these)
   - [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
   - [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272)
@@ -83,3 +87,4 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513)
   - [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628)
   - [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621)
+  - [Herds SSE Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/13980)
