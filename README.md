@@ -1,17 +1,15 @@
 # skyrim_resurrected (WIP)
 My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a collection on nexusmods with this modlist. Feel free to use the "Adult (NSFW)" section or not, please.
 
-# Grim and Gore
-  - [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542)
-<img src="preview/gallows/4.jpg"/>
-  - 
-  - [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742)
+# Shrines and statues
+  - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592)
+<img src="preview/ryn_azuras/1.jpg"/>
+  - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
 
-# Adult (NSFW)
-  - [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550)
-<img src="preview/statuettes/5.jpg"/>
-  - [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198)
-  - 
+# Towers and Ruins
+  - [Ryn's Broken Tower Redoubt](https://www.nexusmods.com/skyrimspecialedition/mods/102141)
+  - [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382)
+  - [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101)
 
 # Essential (many mods needs these)
   - [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
@@ -40,7 +38,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270)
   - [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288)
   - [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808)
-  - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
   - [Extended Encounters.](https://www.nexusmods.com/skyrimspecialedition/mods/44810)
 
 # Meshes/Models
@@ -49,11 +46,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
   - [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
 
-# Shrines and statues
-  - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592)
-<img src="preview/ryn_azuras/1.jpg"/>
-
-
 # Weather
   - [Volumetric Mists.](https://www.nexusmods.com/skyrimspecialedition/mods/29273)
   - [Obsidian Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/12125)
@@ -61,10 +53,11 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 # Towns and Cities
   - [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094)
 
-# Towers and Ruins
-  - [Ryn's Broken Tower Redoubt](https://www.nexusmods.com/skyrimspecialedition/mods/102141)
-  - [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382)
-  - [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101)
+# Grim and Gore
+  - [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542)
+<img src="preview/gallows/4.jpg"/>
+  - 
+  - [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742)
 
 # Creatures  
   - [Grandiose Giants.](https://www.nexusmods.com/skyrimspecialedition/mods/23889)
@@ -74,6 +67,12 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 # Dungeons
   - [Dungeons - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798)
+
+# Adult (NSFW)
+  - [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550)
+<img src="preview/statuettes/5.jpg"/>
+  - [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198)
+  - 
 
 # Misc
   - [Achievements Mods Enabler SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/245)
