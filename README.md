@@ -1,8 +1,14 @@
 # skyrim_resurrected (WIP)
 My modlist for Skyrim AE
 
-# Essential
+# Grim and Gore
+  - [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542)
+  - 
+
+# Essential (many mods needs these)
   - [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
+  - [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272)
+  - [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
 # GUI
   - [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=files)
@@ -55,3 +61,9 @@ My modlist for Skyrim AE
 
 # Dungeons
   - [Dungeons - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798)
+
+# Misc
+  - [Achievements Mods Enabler SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/245)
+
+# Spanish translations (if you want to play it with spanish voices):
+  - temp.
