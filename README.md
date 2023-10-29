@@ -3,7 +3,7 @@ My modlist for Skyrim AE
 
 # Grim and Gore
   - [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542)
-<img src="preview/Gallows of Skyrim SSE/Gallows of Skyrim SSE 1.jpg"/>
+<img src="preview/gallows/1.jpg"/>
   - 
   - a
 
