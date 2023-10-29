@@ -27,7 +27,13 @@ My modlist for Skyrim AE
   - [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288)
   - [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808)
   - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
+  - [Extended Encounters.](https://www.nexusmods.com/skyrimspecialedition/mods/44810)
+
+# Meshes/Models
   - [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527)
+  - [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338)
+  - [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
+  - [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
 
 # Weather
   - [Volumetric Mists.](https://www.nexusmods.com/skyrimspecialedition/mods/29273)
@@ -36,8 +42,12 @@ My modlist for Skyrim AE
 # Towns and Cities
   - [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094)
 
-# Creatures
-  - [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338)
+# Towers and Ruins
+  - [Ryn's Broken Tower Redoubt](https://www.nexusmods.com/skyrimspecialedition/mods/102141)
+  - [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382)
+  - [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101)
+
+# Creatures  
   - [Grandiose Giants.](https://www.nexusmods.com/skyrimspecialedition/mods/23889)
 
 # Sea and Water
