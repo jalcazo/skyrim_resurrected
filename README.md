@@ -1,5 +1,5 @@
 # skyrim_resurrected (WIP)
-My modlist for Skyrim AE
+My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a collection on nexusmods with this modlist. Feel free to use the "Adult (NSFW)" section or not, please.
 
 # Grim and Gore
   - [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542)
