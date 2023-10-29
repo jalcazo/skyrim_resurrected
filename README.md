@@ -4,7 +4,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592)
 <img src="preview/ryn_azuras/1.jpg"/>
+
   - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
+<img src="preview/daedric_shrines/1.jpg"/>
 
 # Towers and Ruins
   - [Ryn's Broken Tower Redoubt](https://www.nexusmods.com/skyrimspecialedition/mods/102141)
