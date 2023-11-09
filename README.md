@@ -32,7 +32,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563?tab=files) |
 
-[Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
+:tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8) :tv:
 
 # Creatures / Monsters
 
