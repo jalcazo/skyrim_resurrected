@@ -2,6 +2,8 @@
 
 My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Feel free to use the "Adult (NSFW)" section or not, please. Contact me at jaume.alcazo@gmail.com
 
+<img src="cover.jpg">
+
 # Essential (many mods need these)
 
 | Mod | Spanish translation |
