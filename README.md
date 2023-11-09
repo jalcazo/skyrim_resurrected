@@ -2,6 +2,7 @@
 My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a collection on nexusmods with this modlist. Feel free to use the "Adult (NSFW)" section or not, please.
 
 # Essential (many mods need these)
+
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
 | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
