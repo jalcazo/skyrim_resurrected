@@ -31,7 +31,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Pandorable's NPCs - Dawnguard (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files) | [Pandorable's NPCs - Dawnguard - Spanish Translation (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101056?tab=files) | 
 | [Dibella's Blessing.](https://www.nexusmods.com/skyrimspecialedition/mods/82606) (Apparance overhaul for 233 female characters from Skyrim). | [Dibella's Blessing - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/83704?tab=files) |
 
-<details><summary>Screenshots</summary> <img src="npcs/dibellas/markarth_bothela_eola.jpg"> <img src="npcs/dibellas/hroki_marise.jpg"> <img src="npcs/dibellas/karliah_voldsea.jpg"> </details>
+<details><summary>Screenshots for Dibella's Blessing (Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="npcs/dibellas/markarth_bothela_eola.jpg"> <img src="npcs/dibellas/hroki_marise.jpg"> <img src="npcs/dibellas/karliah_voldsea.jpg"> </details>
 
 
 | [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650?tab=files) | [RS Children Overhaul - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/47269?tab=files)
