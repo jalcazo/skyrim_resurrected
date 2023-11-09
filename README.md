@@ -10,12 +10,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | [Alternate Start - Live Another Life - Castellano con voces - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/65264?tab=files) (actualizado 24 junio 2023). |
 | [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Not needed. |
+| [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Not needed. |
   
 # Hunting
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) |
+| [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits, needs SPID essential mod, already installed before in this modlist). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) |
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
 | b | c |
 
