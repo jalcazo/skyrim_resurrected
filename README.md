@@ -115,12 +115,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <details><summary>Screenshots example for Folkvangr </summary> <img src="flora/folkvangr1.jpg"> <img src="flora/folkvangr2.jpg"> <img src="flora/folkvangr3.jpg"> <img src="flora/folkvangr4.jpg"> </details>
 
-# Misc
-
-| Mod | Spanish translation |
-|----------|----------|
-| [Cutting Room Floor - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/276) | [Cutting Room Floor - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/7238) |
-
 # Animations (OAR replaces DAR and it's fully compatible with DAR animations)
 
 | Mod | Spanish translation |
@@ -137,6 +131,12 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
 
 :tv: [Video review of EVG Conditional Idles](https://www.youtube.com/watch?v=XgtfmLYdNOk)
+
+# Misc
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Cutting Room Floor - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/276) | [Cutting Room Floor - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/7238) |
 
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
