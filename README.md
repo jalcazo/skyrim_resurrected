@@ -12,6 +12,12 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | [Alternate Start - Live Another Life - Castellano con voces - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/65264?tab=files) (actualizado 24 junio 2023). |
 | [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Not needed. |
 | [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Not needed. |
+
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
   
 # Hunting
 
