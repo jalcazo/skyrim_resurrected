@@ -31,8 +31,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files) | Not needed. |
+| [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | Not needed. |
 
-<details><summary>Screenshots examples </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> </details>
+<details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> </details>
 
 # Religion
 
@@ -94,7 +95,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <details><summary>Screenshots example for Folkvangr </summary> <img src="flora/folkvangr1.jpg"> <img src="flora/folkvangr2.jpg"> <img src="flora/folkvangr3.jpg"> <img src="flora/folkvangr4.jpg"> </details>
  
- ``` FINS AQUÍ 44 MODS, 9/11/23 🚧 ```
+ ``` FINS AQUÍ 45 MODS, 9/11/23 🚧 ```
 
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
