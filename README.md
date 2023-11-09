@@ -18,6 +18,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
 | b | c |
 
+FINS AQUÍ, 9 mods
+
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
 <img src="preview/ryn_azuras/1.jpg"/>
