@@ -14,7 +14,16 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Not needed. |
 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
 
-  
+# GUI
+| Mod | Spanish translation |
+| [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | [SkyUI - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95983?tab=files) |
+
+# NPC's
+
+| Mod | Spanish translation |
+|----------|----------|
+| [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650?tab=files) | [RS Children Overhaul - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/47269?tab=files)
+ 
 # Hunting
 
 | Mod | Spanish translation |
@@ -23,7 +32,12 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
 | [Hunting in Skyrim - A Hunting Guild SE](https://www.nexusmods.com/skyrimspecialedition/mods/10353) (adds a Hunting Guild, overhauls hunting experience, realistic animal skinning (like Red Dead Redemption), animal trapping, kill & stat tracking, new skills and abilities, new NPCs and locations, new dungeons, new weapons, etc.) | ``` TO BE DONE 🚧 ``` |
 
+# Expansions / DLC sized expansions
+  - [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) |
+    
+
  ``` FINS AQUÍ 13 MODS 🚧 ```
+
 
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
