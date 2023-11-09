@@ -85,7 +85,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 <details><summary>Screenshots example for Dibella's Blessing (here you have Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="npcs/dibellas/markarth_bothela_eola.jpg"> <img src="npcs/dibellas/hroki_marise.jpg"> <img src="npcs/dibellas/karliah_voldsea.jpg"> </details>
 
 
-| [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650?tab=files) | [RS Children Overhaul - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/47269?tab=files)
+| [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650?tab=files) | Spanish translation marked redundant by Vortex. |
 
 # Items
 
