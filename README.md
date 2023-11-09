@@ -121,18 +121,22 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Cutting Room Floor - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/276) | [Cutting Room Floor - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/7238) |
 
-# Animations (DAR, Dynamic Animation Replacer)
+# Animations (OAR replaces DAR and it's fully compatible with DAR animations)
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Dynamic Animation Replacer (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/33746) | Not needed. |
-| [EVG Conditional Idles (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | Not needed. |
+| [Open Animation Replacer (OAR).](https://www.nexusmods.com/skyrimspecialedition/mods/92109) (Full backwards compatibility with DAR). | Not needed. |
+| [Animation Queue Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/82395) (required by OAR). | Not needed. |
+| [Paired Animation Improvements.](https://www.nexusmods.com/skyrimspecialedition/mods/99621) | Not needed. |
+| [EVG Conditional Idles (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | [EVG Conditional Idles - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/66859) |
 | [Male Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/89225) | Not needed. |
 | [Female Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/85073) | Not needed. |
 | [Gesture Animation Remix (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Not needed. |
 | [Conditional tavern cheering (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Not needed. |
 | [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description) | Not needed. |
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
+
+[Video review of EVG Conditional Idles](https://www.youtube.com/watch?v=XgtfmLYdNOk)
 
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
