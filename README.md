@@ -121,6 +121,19 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Cutting Room Floor - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/276) | [Cutting Room Floor - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/7238) |
 
+# Animations (DAR, Dynamic Animation Replacer)
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Dynamic Animation Replacer (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/33746) | Not needed. |
+| [EVG Conditional Idles (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | Not needed. |
+| [Male Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/89225) | Not needed. |
+| [Female Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/85073) | Not needed. |
+| [Gesture Animation Remix (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Not needed. |
+| [Conditional tavern cheering (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Not needed. |
+| [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description) | Not needed. |
+| [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
+
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
 # Shrines and statues
@@ -146,16 +159,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
   - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
   - [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438)
-
-# Animations
-  - [Dynamic Animation Replacer (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/33746)
-  - [EVG Conditional Idles (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34006)
-  - [Male Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/89225)
-  - [Female Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/85073)
-  - [Gesture Animation Remix (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/64420)
-  - [Conditional tavern cheering (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/63029)
-  - [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description)
-  - [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557)
 
 # Immersion
   - [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270)
