@@ -24,6 +24,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Spanish translation |
 |----------|----------|
+| [Dibella's Blessing.](https://www.nexusmods.com/skyrimspecialedition/mods/82606) (Apparance overhaul for 233 female characters from Skyrim).
+| [Dibella's Blessing - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/83704?tab=files) |
+| [Pandorable's NPCs (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/19012) (A visual overhaul of 85 female NPCs). | [Pandorable's NPCs - Spanish Translation (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101061) |
+| [Pandorable's NPCs - Dawnguard (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files) | [Pandorable's NPCs - Dawnguard - Spanish Translation (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101056?tab=files) | 
 | [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650?tab=files) | [RS Children Overhaul - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/47269?tab=files)
  
 # Hunting
@@ -35,7 +39,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Hunting in Skyrim - A Hunting Guild SE](https://www.nexusmods.com/skyrimspecialedition/mods/10353) (adds a Hunting Guild, overhauls hunting experience, realistic animal skinning (like Red Dead Redemption), animal trapping, kill & stat tracking, new skills and abilities, new NPCs and locations, new dungeons, new weapons, etc.) | ``` TO BE DONE 🚧 ``` |
 
 # Expansions / DLC sized expansions
-  - [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) |
+| Mod | Spanish translation |
+|----------|----------|
+| [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | [Beyond Skyrim Bruma SPANISH (by Jaume y Rubenoky).](https://www.nexusmods.com/skyrimspecialedition/mods/14508?tab=files) |
     
 
  ``` FINS AQUÍ 13 MODS 🚧 ```
