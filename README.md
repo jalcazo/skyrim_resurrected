@@ -51,8 +51,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Bogmort - Mud Monsters of Morthal Swamp.](https://www.nexusmods.com/skyrimspecialedition/mods/22447) | [Bogmort - Mud Monsters of Morthal Swamp - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/70060) |
-| [Giants Overhaul- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/98581) | translation TODO |
-| [Sea Giants and Ice Titans- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/103285) | translation TODO |
+| [Giants Overhaul- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/98581) | ``` TO BE DONE 🚧 ``` |
+| [Sea Giants and Ice Titans- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/103285) | ``` TO BE DONE 🚧 ``` |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
@@ -60,10 +60,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Blaze Of Eventide.](https://www.nexusmods.com/skyrimspecialedition/mods/3178/) (unique horse). | todo |
-| [Zim's Aenbyr Custom Horse.](https://www.nexusmods.com/skyrimspecialedition/mods/76722) (unique horse). | todo |
-| [Aeonbarr - a Unique and Summonable Horse (CH-Friendly) For SE.](https://www.nexusmods.com/skyrimspecialedition/mods/38466) (unique horse). | todo |
-| [Witcher Horse Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/72490) | todo |
+| [Blaze Of Eventide.](https://www.nexusmods.com/skyrimspecialedition/mods/3178/) (unique horse). | ``` TO BE DONE 🚧 ``` |
+| [Zim's Aenbyr Custom Horse.](https://www.nexusmods.com/skyrimspecialedition/mods/76722) (unique horse). | ``` TO BE DONE 🚧 ``` |
+| [Aeonbarr - a Unique and Summonable Horse (CH-Friendly) For SE.](https://www.nexusmods.com/skyrimspecialedition/mods/38466) (unique horse). | ``` TO BE DONE 🚧 ``` |
+| [Witcher Horse Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/72490) | ``` TO BE DONE 🚧 ``` |
 
 <details><summary>Screenshots. </summary> <img src="animals/witcher_horse_expansion1.jpg"> <img src="animals/witcher_horse_expansion2.jpg"> <img src="animals/witcher_horse_expansion4.jpg"> <img src="animals/witcher_horse_expansion7.jpg"> <img src="animals/witcher_horse_expansion9.jpg"> </details>
 
