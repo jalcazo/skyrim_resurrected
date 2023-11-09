@@ -46,7 +46,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8) :tv:
 
-# Creatures / Monsters
+# Monsters
 
 | Mod | Spanish translation |
 |----------|----------|
@@ -55,6 +55,16 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Sea Giants and Ice Titans- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/103285) | translation TODO |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
+
+# Horses
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Blaze Of Eventide.](https://www.nexusmods.com/skyrimspecialedition/mods/3178/) (unique horse). | todo |
+| [Zim's Aenbyr Custom Horse.](https://www.nexusmods.com/skyrimspecialedition/mods/76722) | todo |
+| [Witcher Horse Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/72490) | todo |
+
+<details><summary>Screenshots. </summary> <img src="animals/witcher_horse_expansion1.jpg"> <img src="animals/witcher_horse_expansion2.jpg"> <img src="animals/witcher_horse_expansion3.jpg"> <img src="animals/witcher_horse_expansion4.jpg"> <img src="animals/witcher_horse_expansion5.jpg"> <img src="animals/witcher_horse_expansion6.jpg"> <img src="animals/witcher_horse_expansion7.jpg"> <img src="animals/witcher_horse_expansion8.jpg"> <img src="animals/witcher_horse_expansion9.jpg"> <img src="animals/witcher_horse_expansion10.jpg"> <img src="animals/witcher_horse_expansion11.jpg"> <img src="animals/witcher_horse_expansion12.jpg"> </details>
 
 # NPC's
 
@@ -98,7 +108,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <details><summary>Screenshots example for Folkvangr </summary> <img src="flora/folkvangr1.jpg"> <img src="flora/folkvangr2.jpg"> <img src="flora/folkvangr3.jpg"> <img src="flora/folkvangr4.jpg"> </details>
  
- ``` FINS AQUÍ 45 MODS, 9/11/23 🚧 ```
+ ``` FINS AQUÍ 46 MODS, 9/11/23 🚧 ```
 
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
