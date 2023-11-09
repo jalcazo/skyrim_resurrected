@@ -15,7 +15,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
 | [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) (SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events). | Not needed. |
-| [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Not needed. Remember that part2: "Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the SKSE64 plugin won't load." |
+| [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Not needed. Remember that part2: "Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the SKSE64 plugin won't load.". In my experience, SSE Engine Fixes fixed an error with the races description in one of my modded modlists. |
 
 # GUI
 
@@ -77,11 +77,20 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Hunting in Skyrim - A Hunting Guild SE](https://www.nexusmods.com/skyrimspecialedition/mods/10353) (adds a Hunting Guild, overhauls hunting experience, realistic animal skinning (like Red Dead Redemption), animal trapping, kill & stat tracking, new skills and abilities, new NPCs and locations, new dungeons, new weapons, etc.) | ``` TO BE DONE 🚧 ``` |
 
 # Expansions / DLC sized expansions
+
 | Mod | Spanish translation |
 |----------|----------|
 | [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | [Beyond Skyrim Bruma SPANISH (by Jaume y Rubenoky).](https://www.nexusmods.com/skyrimspecialedition/mods/14508?tab=files) |
-    
- ``` FINS AQUÍ 42 MODS, 9/11/23 🚧 ```
+
+# Flora
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Folkvangr - Grass and Landscape Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/44899) | Not needed. |
+
+<details><summary>Screenshots example for Folkvangr </summary> <img src="flora/folkvangr1.jpg"> <img src="flora/folkvangr2.jpg"> <img src="flora/folkvangr3.jpg"> <img src="flora/folkvangr4.jpg"> </details>
+ 
+ ``` FINS AQUÍ 44 MODS, 9/11/23 🚧 ```
 
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
