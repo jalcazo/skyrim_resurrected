@@ -27,8 +27,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Pandorable's NPCs (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/19012) (A visual overhaul of 85 female NPCs). | [Pandorable's NPCs - Spanish Translation (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101061) |
 
-<details><summary>Screenshots example for Dibella's Blessing (here you have Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="npcs/pandorables/zaria_aduri-sarethi.jpg"> </details>
+<details><summary>Screenshots example (here you have Zaria and Aduri Sarethi). </summary> <img src="npcs/pandorables/zaria_aduri-sarethi.jpg"> </details>
 
+| Mod | Spanish translation |
 |----------|----------|
 | [Pandorable's NPCs - males.](https://www.nexusmods.com/skyrimspecialedition/mods/42043) | FALTA |
 | [Pandorable's NPCs - males 2.](https://www.nexusmods.com/skyrimspecialedition/mods/50617) (Another 60 lads). | [Pandorable's NPCs - males 2 - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/101485) |
