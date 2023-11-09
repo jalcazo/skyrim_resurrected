@@ -26,6 +26,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563?tab=files) |
 
+# Creatures / Monsters
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Bogmort - Mud Monsters of Morthal Swamp.](https://www.nexusmods.com/skyrimspecialedition/mods/22447) | [Bogmort - Mud Monsters of Morthal Swamp - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/70060) |
+| [Grandiose Giants.](https://www.nexusmods.com/skyrimspecialedition/mods/23889) | a |
+
 
 # NPC's
 
@@ -123,9 +130,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 <img src="preview/gallows/4.jpg"/>
   - 
   - [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742)
-
-# Creatures  
-  - [Grandiose Giants.](https://www.nexusmods.com/skyrimspecialedition/mods/23889)
 
 # Sea and Water
   - [Depths of Skyrim - An Underwater Overhaul SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26913)
