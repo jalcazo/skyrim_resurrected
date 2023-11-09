@@ -19,7 +19,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits, needs SPID essential mod, already installed before in this modlist). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) |
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
-| b | c |
+| [Hunting in Skyrim - A Hunting Guild SE](https://www.nexusmods.com/skyrimspecialedition/mods/10353) (adds a Hunting Guild, overhauls hunting experience, realistic animal skinning (like Red Dead Redemption), animal trapping, kill & stat tracking, new skills and abilities, new NPCs and locations, new dungeons, new weapons, etc.) | <strong style="color: red;">TO BE DONE</strong> |
 
 FINS AQUÍ, 9 mods
 
