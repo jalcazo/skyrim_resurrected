@@ -15,7 +15,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
 
 # GUI
+
 | Mod | Spanish translation |
+|----------|----------|
 | [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | [SkyUI - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95983?tab=files) |
 
 # NPC's
