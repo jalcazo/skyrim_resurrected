@@ -61,7 +61,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Blaze Of Eventide.](https://www.nexusmods.com/skyrimspecialedition/mods/3178/) (unique horse). | todo |
-| [Zim's Aenbyr Custom Horse.](https://www.nexusmods.com/skyrimspecialedition/mods/76722) | todo |
+| [Zim's Aenbyr Custom Horse.](https://www.nexusmods.com/skyrimspecialedition/mods/76722) (unique horse). | todo |
+| [Aeonbarr - a Unique and Summonable Horse (CH-Friendly) For SE.](https://www.nexusmods.com/skyrimspecialedition/mods/38466) (unique horse). | todo |
 | [Witcher Horse Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/72490) | todo |
 
 <details><summary>Screenshots. </summary> <img src="animals/witcher_horse_expansion1.jpg"> <img src="animals/witcher_horse_expansion2.jpg"> <img src="animals/witcher_horse_expansion4.jpg"> <img src="animals/witcher_horse_expansion7.jpg"> <img src="animals/witcher_horse_expansion9.jpg"> </details>
@@ -85,7 +86,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 
 | [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650?tab=files) | [RS Children Overhaul - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/47269?tab=files)
- 
+
+# Items
+
+| Mod | Spanish translation |
+|----------|----------|
+| [The Elder Scrolls Online Imports.](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | ``` TO BE DONE 🚧 ``` |
+
 # Hunting
 
 | Mod | Spanish translation |
@@ -107,8 +114,14 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Folkvangr - Grass and Landscape Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/44899) | Not needed. |
 
 <details><summary>Screenshots example for Folkvangr </summary> <img src="flora/folkvangr1.jpg"> <img src="flora/folkvangr2.jpg"> <img src="flora/folkvangr3.jpg"> <img src="flora/folkvangr4.jpg"> </details>
- 
- ``` FINS AQUÍ 46 MODS, 9/11/23 🚧 ```
+
+# Misc
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Cutting Room Floor - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/276) | [Cutting Room Floor - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/7238) |
+
+ ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
