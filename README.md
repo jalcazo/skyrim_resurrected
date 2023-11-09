@@ -8,7 +8,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379) (be sure to check if you install the version for [Steam](https://store.steampowered.com/sub/626153/) or for [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)!). | Not needed. |
+| [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379) (be sure to check if you install the version for [Steam](https://store.steampowered.com/sub/626153/) or for [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)!). | PARA EVITAR QUE SKSE DE VORTEX CAMBIE EL IDIOMA A ENGLISH HAY QUE BAJARLO E INSTALARLO MANUALMENTE DE [AQUÍ](https://skse.silverlock.org/) |
 | [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files) (be sure to pick Anniversary Edition AE or Special Edition SE!) | Not needed. |
 | [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | [Alternate Start - Live Another Life - Castellano con voces - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/65264?tab=files) (actualizado 24 junio 2023). |
@@ -131,12 +131,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
 
 :tv: [Video review of EVG Conditional Idles](https://www.youtube.com/watch?v=XgtfmLYdNOk)
-
-# Misc
-
-| Mod | Spanish translation |
-|----------|----------|
-| [Cutting Room Floor - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/276) | [Cutting Room Floor - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/7238) |
 
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
