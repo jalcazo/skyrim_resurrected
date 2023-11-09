@@ -13,12 +13,18 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Not needed. |
 | [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Not needed. |
 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
+| [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
+| [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) (SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events). | Not needed. |
+
 
 # GUI
 
 | Mod | Spanish translation |
 |----------|----------|
 | [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | [SkyUI - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95983?tab=files) |
+| [moreHUD SE.](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | [moreHUD - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/80137?tab=files) |
+
+<details><summary>Screenshots moreHUD. </summary> <img src="gui/morehud1.jpg"> <img src="gui/morehud2.jpg"> <img src="gui/morehud3.jpg"> </details>
 
 # Religion
 
@@ -31,7 +37,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Bogmort - Mud Monsters of Morthal Swamp.](https://www.nexusmods.com/skyrimspecialedition/mods/22447) | [Bogmort - Mud Monsters of Morthal Swamp - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/70060) |
-| [Grandiose Giants.](https://www.nexusmods.com/skyrimspecialedition/mods/23889) | a |
+| [Giants Overhaul- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/98581) | translation TODO |
+| [Sea Giants and Ice Titans- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/103285) | translation TODO |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
