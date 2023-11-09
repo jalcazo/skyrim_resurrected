@@ -7,7 +7,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379) (be sure to check if you install the version for [Steam](https://store.steampowered.com/sub/626153/) or for [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)!). | Not needed. |
 | [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files) (be sure to pick Anniversary Edition AE or Special Edition SE!) | Not needed. |
-| [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | Row 3, Col 2 |
+| [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | aaaa |
 | [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | aaa |
   
