@@ -2,6 +2,12 @@
 My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a collection on nexusmods with this modlist. Feel free to use the "Adult (NSFW)" section or not, please.
 
 # Essential (many mods need these)
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+
   - [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379) (be sure to check if you install the version for Steam or for GOG!).
   - [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files) (be sure to pick Anniversary Edition AE or Special Edition SE!)
   - [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266)
