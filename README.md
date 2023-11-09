@@ -64,7 +64,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Zim's Aenbyr Custom Horse.](https://www.nexusmods.com/skyrimspecialedition/mods/76722) | todo |
 | [Witcher Horse Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/72490) | todo |
 
-<details><summary>Screenshots. </summary> <img src="animals/witcher_horse_expansion1.jpg"> <img src="animals/witcher_horse_expansion2.jpg"> <img src="animals/witcher_horse_expansion3.jpg"> <img src="animals/witcher_horse_expansion4.jpg"> <img src="animals/witcher_horse_expansion5.jpg"> <img src="animals/witcher_horse_expansion6.jpg"> <img src="animals/witcher_horse_expansion7.jpg"> <img src="animals/witcher_horse_expansion8.jpg"> <img src="animals/witcher_horse_expansion9.jpg"> <img src="animals/witcher_horse_expansion10.jpg"> <img src="animals/witcher_horse_expansion11.jpg"> <img src="animals/witcher_horse_expansion12.jpg"> </details>
+<details><summary>Screenshots. </summary> <img src="animals/witcher_horse_expansion1.jpg"> <img src="animals/witcher_horse_expansion2.jpg"> <img src="animals/witcher_horse_expansion4.jpg"> <img src="animals/witcher_horse_expansion7.jpg"> <img src="animals/witcher_horse_expansion9.jpg"> </details>
 
 # NPC's
 
