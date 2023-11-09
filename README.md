@@ -6,7 +6,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
   - [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266)
   - [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272)
-  - [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805) 
+  - [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) 
+
+# Hunting
+  - [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable).
 
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
