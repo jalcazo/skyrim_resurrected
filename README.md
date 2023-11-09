@@ -33,6 +33,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Bogmort - Mud Monsters of Morthal Swamp.](https://www.nexusmods.com/skyrimspecialedition/mods/22447) | [Bogmort - Mud Monsters of Morthal Swamp - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/70060) |
 | [Grandiose Giants.](https://www.nexusmods.com/skyrimspecialedition/mods/23889) | a |
 
+<details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
 # NPC's
 
