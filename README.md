@@ -1,6 +1,13 @@
 # skyrim_resurrected (WIP)
 My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a collection on nexusmods with this modlist. Feel free to use the "Adult (NSFW)" section or not, please.
 
+# Essential (many mods needs these)
+  - [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
+  - [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
+  - [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+  - [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272)
+  - [Base Object Swapper](
+
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
 <img src="preview/ryn_azuras/1.jpg"/>
@@ -16,12 +23,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 # Animals
   - [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880)
 <img src="preview/herds/1.jpg"/>
-
-# Essential (many mods needs these)
-  - [Skyrim Script Extender (SKSE64).](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
-  - [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272)
-  - [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
-  - [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266)
 
 # GUI
   - [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=files)
