@@ -44,7 +44,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563?tab=files) |
 
-:tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8) :tv:
+:tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
 # Monsters
 
@@ -136,7 +136,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description) | Not needed. |
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
 
-[Video review of EVG Conditional Idles](https://www.youtube.com/watch?v=XgtfmLYdNOk)
+:tv: [Video review of EVG Conditional Idles](https://www.youtube.com/watch?v=XgtfmLYdNOk)
 
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
