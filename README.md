@@ -28,7 +28,11 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 # Meshes
 
+| Mod | Spanish translation |
+|----------|----------|
 | [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files) | Not needed. |
+
+<details><summary>Screenshots examples </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> </details>
 
 # Religion
 
