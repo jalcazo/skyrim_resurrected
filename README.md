@@ -108,12 +108,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <details><summary>Screenshots example for Dibella's Blessing (here you have Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="npcs/dibellas/markarth_bothela_eola.jpg"> <img src="npcs/dibellas/hroki_marise.jpg"> <img src="npcs/dibellas/karliah_voldsea.jpg"> </details>
 
-# Quality of life
-
-| Mod | Spanish translation |
-|----------|----------|
-| [Torch Key.](https://www.nexusmods.com/skyrimspecialedition/mods/19692) (default hotkey "Y") | to be done . |
-
 # Items
 
 | Mod | Spanish translation |
