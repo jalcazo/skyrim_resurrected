@@ -17,6 +17,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
 | [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) (SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events). | Not needed. |
+| [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Not needed. |
 
 # Fixes / helpers
 
@@ -38,6 +39,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [moreHUD SE.](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | [moreHUD - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/80137?tab=files) |
 | [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Not needed. |
 | [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
+| [moreHUD Inventory Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/18619) | Not needed. |
 
 <details><summary>Screenshots moreHUD. </summary> <img src="gui/morehud1.jpg"> <img src="gui/morehud2.jpg"> <img src="gui/morehud3.jpg"> </details>
 
@@ -58,8 +60,17 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Reflection - Level Up Messages.](https://www.nexusmods.com/skyrimspecialedition/mods/1188) | [Reflection - Level Up Messages Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/58831) |
 | [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563?tab=files) |
 | [Wet and Cold SE.](https://www.nexusmods.com/skyrimspecialedition/mods/644/) | [Wet and Cold - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1448) |
+| [Security Overhaul SKSE - Lock Variations.](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Not needed. |
+| [Security Overhaul SKSE - Regional Locks.](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | Not needed. |
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
+
+# Towns / Cities
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
+| [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
 
 # Monsters
 
@@ -142,8 +153,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Conditional tavern cheering (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Not needed. |
 | [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description) | Not needed. |
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
+| [Draugr One-handed Animation (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/74685) | Not needed. |
 
-:tv: [Video review of EVG Conditional Idles](https://www.youtube.com/watch?v=XgtfmLYdNOk)
+:tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk)
+:tv: [Video of Draugr One-handed Animation (DAR).](https://www.youtube.com/watch?v=RxSSYnSiIbU)
 
 # Map
 
@@ -175,6 +188,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Celtic Music in Skyrim - SE.](https://www.nexusmods.com/skyrimspecialedition/mods/2980?tab=files) | Not needed. |
+| [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | Not needed. |
 
 # Character creation / presets
 
@@ -184,6 +198,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [VHR - Vanilla Hair Replacer.](https://www.nexusmods.com/skyrimspecialedition/mods/25574) | Not needed. |
 | [Imperious - Races of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1315) | [Imperious - Races of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/4893) |
 | [Xenius Character Enhancement Complete.](https://www.nexusmods.com/skyrimspecialedition/mods/36985) | Not needed. |
+
+# Textures
+| Mod | Spanish translation |
+|----------|----------|
+| [Iconic's Spiders of Skyrim Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/89960) | Not needed. |
+| [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | Not needed. |
+| [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | Not needed. |
 
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
