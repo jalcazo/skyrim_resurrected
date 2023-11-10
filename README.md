@@ -139,9 +139,15 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Spanish translation |
 |----------|----------|
+| [Flat World Map Framework (FWMF).](https://www.nexusmods.com/skyrimspecialedition/mods/29932) (This mod changes default 3D Skyrim map to a flat one). | Not needed. Framework for all below. |
 | [Skyrim Paper Map by Caro Tuts for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/62705?tab=files) | Not needed. |
 | [Skuldafn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/73489) | todo |
 | [Beyond Skyrim Bruma Paper Map by Mirhayasu for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/64037) | Not needed. |
+| [Dayspring Canyon Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/61917) | todo |
+| [Forgotten Vale Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/54628) | Not needed. |
+| [Soul Cairn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/55387) | todo |
+| [Blackreach Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/53878?tab=files) | todo |
+
 
 
 
