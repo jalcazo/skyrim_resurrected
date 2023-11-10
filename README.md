@@ -17,7 +17,20 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
 | [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) (SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events). | Not needed. |
+
+# Fixes / helpers
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Face Discoloration Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/42441) | Not needed. |
+| [Assorted mesh fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Not needed. |
+| [Actor Limit Fix.](ttps://www.nexusmods.com/skyrimspecialedition/mods/32349) | Not needed. |
+| [Scrambled Bugs.](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | Not needed. |
+| [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Not needed. |
+| [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Not needed. |
 | [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Not needed. Remember that part2: "Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the SKSE64 plugin won't load.". In my experience, SSE Engine Fixes fixed an error with the races description in one of my modded modlists. |
+
+
 
 # GUI
 
@@ -58,6 +71,15 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Sea Giants and Ice Titans- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/103285) | ``` TO BE DONE 🚧 ``` |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
+
+# Weather
+| Mod | Spanish translation |
+|----------|----------|
+| [Cathedral Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | [Cathedral Weathers and Seasons - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86719) |
+
+video review of cathedral weathers (comparison) https://www.youtube.com/watch?v=p_CMoTK-8bM
+
+
 
 # Horses
 
