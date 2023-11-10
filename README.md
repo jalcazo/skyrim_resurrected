@@ -164,7 +164,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 # Immersion
 | Mod | Spanish translation |
 |----------|----------|
-[ [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270) | a |
+| [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270) | a |
 | [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288) | b |
 | [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808) | c |
 | [Extended Encounters.](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | d |
