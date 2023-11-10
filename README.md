@@ -30,8 +30,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Not needed. |
 | [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Not needed. Remember that part2: "Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the SKSE64 plugin won't load.". In my experience, SSE Engine Fixes fixed an error with the races description in one of my modded modlists. |
 
-
-
 # GUI
 
 | Mod | Spanish translation |
@@ -118,14 +116,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [The Elder Scrolls Online Imports.](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | ``` TO BE DONE 🚧 ``` |
 
-# Hunting
-
-| Mod | Spanish translation |
-|----------|----------|
-| [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits, needs SPID essential mod, already installed before in this modlist). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) |
-| [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
-| [Hunting in Skyrim - A Hunting Guild SE](https://www.nexusmods.com/skyrimspecialedition/mods/10353) (adds a Hunting Guild, overhauls hunting experience, realistic animal skinning (like Red Dead Redemption), animal trapping, kill & stat tracking, new skills and abilities, new NPCs and locations, new dungeons, new weapons, etc.) | ``` TO BE DONE 🚧 ``` |
-
 # Expansions / DLC sized expansions
 
 | Mod | Spanish translation |
@@ -171,7 +161,15 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Blackreach Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/53878?tab=files) | todo |
 
 
-
+# Immersion
+| Mod | Spanish translation |
+|----------|----------|
+[ [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270) | a |
+| [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288) | b |
+| [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808) | c |
+| [Extended Encounters.](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | d |
+| [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits, needs SPID essential mod, already installed before in this modlist). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) |
+| [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
 
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
@@ -198,12 +196,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
   - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
   - [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438)
-
-# Immersion
-  - [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270)
-  - [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288)
-  - [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808)
-  - [Extended Encounters.](https://www.nexusmods.com/skyrimspecialedition/mods/44810)
 
 # Meshes/Models
   - [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527)
