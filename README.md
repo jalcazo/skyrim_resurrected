@@ -196,7 +196,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Better Male Presets.](https://www.nexusmods.com/skyrimspecialedition/mods/2001) | Not needed. GOOD looking vanilla default presets replacer! | 
-| [VHR - Vanilla Hair Replacer.](https://www.nexusmods.com/skyrimspecialedition/mods/25574) | Not needed. |
 | [Imperious - Races of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1315) | [Imperious - Races of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/4893) |
 | [Xenius Character Enhancement Complete.](https://www.nexusmods.com/skyrimspecialedition/mods/36985) | Not needed. |
 
