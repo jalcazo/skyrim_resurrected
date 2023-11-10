@@ -217,7 +217,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <details><summary>Screenshots. </summary> <img src="preview/gallows/4.jpg"/> </details>
 
- ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
+ ``` FINS AQUÍ INSTAL·LAT 🚧 ```
 
 # Shrines and statues
   - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
