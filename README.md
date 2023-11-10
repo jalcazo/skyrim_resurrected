@@ -201,11 +201,21 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Xenius Character Enhancement Complete.](https://www.nexusmods.com/skyrimspecialedition/mods/36985) | Not needed. |
 
 # Textures
+
 | Mod | Spanish translation |
 |----------|----------|
 | [Iconic's Spiders of Skyrim Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/89960) | Not needed. |
 | [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | Not needed. |
 | [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | Not needed. |
+
+# Grim and Gore
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542) | [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513) |
+| [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742) | [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628) |
+
+<details><summary>Screenshots. </summary> <img src="preview/gallows/4.jpg"/> </details>
 
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
@@ -246,12 +256,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 # Towns and Cities
   - [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094)
 
-# Grim and Gore
-  - [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542)
-<img src="preview/gallows/4.jpg"/>
-  - 
-  - [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742)
-
 # Sea and Water
   - [Depths of Skyrim - An Underwater Overhaul SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26913)
 
@@ -264,11 +268,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   - [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198)
   - 
 
-# Misc
-  - [Achievements Mods Enabler SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/245)
-
 # Spanish translations (if you want to play it with spanish texts & voices):
-  - [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513)
+
   - [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628)
   - [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621)
   - [Herds SSE Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/13980)
