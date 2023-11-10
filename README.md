@@ -25,6 +25,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | [SkyUI - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95983?tab=files) |
 | [moreHUD SE.](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | [moreHUD - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/80137?tab=files) |
+| [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Not needed. |
+| [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
 
 <details><summary>Screenshots moreHUD. </summary> <img src="gui/morehud1.jpg"> <img src="gui/morehud2.jpg"> <img src="gui/morehud3.jpg"> </details>
 
@@ -38,10 +40,11 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> </details>
 
-# Religion
+# Immersion
 
 | Mod | Spanish translation |
 |----------|----------|
+| [Reflection - Level Up Messages.](https://www.nexusmods.com/skyrimspecialedition/mods/1188) | [Reflection - Level Up Messages Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/58831) |
 | [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563?tab=files) |
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
@@ -105,7 +108,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | [Beyond Skyrim Bruma SPANISH (by Jaume y Rubenoky).](https://www.nexusmods.com/skyrimspecialedition/mods/14508?tab=files) |
+| [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | [Beyond Skyrim Bruma SPANISH (by Jaume y Rubenoky).](https://www.nexusmods.com/skyrimspecialedition/mods/14508?tab=files) | a | b |
 
 # Flora
 
@@ -131,6 +134,16 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
 
 :tv: [Video review of EVG Conditional Idles](https://www.youtube.com/watch?v=XgtfmLYdNOk)
+
+# Map
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Skyrim Paper Map by Caro Tuts for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/62705?tab=files) | Not needed. |
+| [Skuldafn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/73489) | todo |
+| [Beyond Skyrim Bruma Paper Map by Mirhayasu for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/64037) | Not needed. |
+
+
 
  ``` FINS AQUÍ 53 MODS, 9/11/23 🚧 ```
 
