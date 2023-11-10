@@ -45,7 +45,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files) | Not needed. |
+| [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | Not needed. |
 | [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | Not needed. |
 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | Not needed. |
 
