@@ -18,6 +18,11 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
 | [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) (SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events). | Not needed. |
 | [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Not needed. |
+| [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Not needed. |
+| [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Not needed. |
+| [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
+| [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." |
+
 
 # Fixes / helpers
 
@@ -54,6 +59,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | Not needed. |
 | [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | Not needed. |
 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | Not needed. |
+| [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | Not needed. |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> </details>
 
@@ -70,8 +76,6 @@ review of apocalypse
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Reflection - Level Up Messages.](https://www.nexusmods.com/skyrimspecialedition/mods/1188) | [Reflection - Level Up Messages Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/58831) |
-| [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563?tab=files) |
 | [Wet and Cold SE.](https://www.nexusmods.com/skyrimspecialedition/mods/644/) | [Wet and Cold - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1448) |
 | [Security Overhaul SKSE - Lock Variations.](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Not needed. |
 | [Security Overhaul SKSE - Regional Locks.](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | Not needed. |
@@ -153,6 +157,15 @@ review of apocalypse
 | Mod | Spanish translation |
 |----------|----------|
 | [The Elder Scrolls Online Imports.](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | ``` TODO. TO BE DONE 🚧 ``` |
+
+# Roleplaying, RPG
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Ordinator - Perks of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1137) | [Ordinator - Perks of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/30246) |
+| [Reflection - Level Up Messages.](https://www.nexusmods.com/skyrimspecialedition/mods/1188) | [Reflection - Level Up Messages Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/58831) |
+| [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563?tab=files) |
+
 
 # Expansions / DLC sized expansions
 
