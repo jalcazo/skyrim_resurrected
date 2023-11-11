@@ -31,6 +31,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Not needed. |
 | [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Not needed. Remember that part2: "Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the SKSE64 plugin won't load.". In my experience, SSE Engine Fixes fixed an error with the races description in one of my modded modlists. |
 | [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | Not needed. |
+| [WIDeadBodyCleanupScript Crash Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/62413) | Not needed. |
+| [CritterSpawn Congestion Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | Not needed. |
 
 # GUI
 
@@ -92,6 +94,7 @@ review of apocalypse
 | [Majestic Mountains - More Accurate Collisions.](https://www.nexusmods.com/skyrimspecialedition/mods/65042) | Not needed. |
 | [Skyrim 3D Rocks.](https://www.nexusmods.com/skyrimspecialedition/mods/17732) | Not needed. |
 | [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) (required by Majestic mountains!) | Not needed. |
+| [The Marshlands.](https://www.nexusmods.com/skyrimspecialedition/mods/23062) | Not needed. |
 
 # Monsters
 
@@ -182,6 +185,7 @@ review of apocalypse
 | [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description) | Not needed. |
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
 | [Draugr One-handed Animation (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/74685) | Not needed. |
+| [Comprehensive First Person Animation Overhaul - CFPAO.](https://www.nexusmods.com/skyrimspecialedition/mods/87169) | Not needed. |
 
 :tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk)
 
@@ -211,6 +215,9 @@ review of apocalypse
 | [Extended Encounters.](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | d |
 | [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits, needs SPID essential mod, already installed before in this modlist). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) |
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
+| [Fast Travel for Survival Mode.](https://www.nexusmods.com/skyrimspecialedition/mods/21067) | Not needed. |
+| [Destructible Skyrim - Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/77568) | Not needed. |
+
 
 # Audio
 
