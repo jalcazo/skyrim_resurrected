@@ -25,7 +25,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|
 | [Face Discoloration Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/42441) | Not needed. |
 | [Assorted mesh fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Not needed. |
-| [Actor Limit Fix.](ttps://www.nexusmods.com/skyrimspecialedition/mods/32349) | Not needed. |
+| [Actor Limit Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/32349) | Not needed. |
 | [Scrambled Bugs.](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | Not needed. |
 | [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Not needed. |
 | [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Not needed. |
