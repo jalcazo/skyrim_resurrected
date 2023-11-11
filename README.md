@@ -269,7 +269,7 @@ review of apocalypse
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon) | [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621) |
+| [Ryn's Azura's Shrine (Flagged as ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon) | [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621) |
 
 <details><summary>Screenshots. </summary> <img src="preview/ryn_azuras/1.jpg"/> </details>
 
