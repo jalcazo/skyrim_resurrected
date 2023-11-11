@@ -21,8 +21,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Not needed. |
 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Not needed. |
 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
-| [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) "SKSE plugin that disable NPC combat AI temporarily during the loading screen moment, to prevent the circumstances of enemies attacking player while the game is still in black screen state and player control disabled."
- | Not needed. Furthermore: "Original mod is not required." |
+| [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." |
 
 
 # Fixes / helpers
