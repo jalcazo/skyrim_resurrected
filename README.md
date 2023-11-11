@@ -30,6 +30,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Not needed. |
 | [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Not needed. |
 | [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Not needed. Remember that part2: "Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the SKSE64 plugin won't load.". In my experience, SSE Engine Fixes fixed an error with the races description in one of my modded modlists. |
+| [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | Not needed. |
 
 # GUI
 
@@ -39,7 +40,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Not needed. |
 | [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
 | [TrueHUD - HUD Additions.](https://www.nexusmods.com/skyrimspecialedition/mods/62775) | [TrueHUD - HUD Additions - Spanish - Castellano - Español.](https://www.nexusmods.com/skyrimspecialedition/mods/93935) |
-
+| [The Elder Scrolls Legends - Loading Screens.](https://www.nexusmods.com/skyrimspecialedition/mods/37929) | [The Elder Scrolls Legends - Loading Screens - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/89506) |
 
 # Meshes
 
@@ -48,6 +49,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | Not needed. |
 | [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | Not needed. |
 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | Not needed. |
+| [Skyrim 3D Rocks.](https://www.nexusmods.com/skyrimspecialedition/mods/17732) | Not needed. |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> </details>
 
@@ -126,6 +128,11 @@ review of apocalypse
 | [Dibella's Blessing.](https://www.nexusmods.com/skyrimspecialedition/mods/82606) (Apparance overhaul for 233 female characters from Skyrim). | [Dibella's Blessing - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/83704?tab=files) |
 
 <details><summary>Screenshots example for Dibella's Blessing (here you have Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="npcs/dibellas/markarth_bothela_eola.jpg"> <img src="npcs/dibellas/hroki_marise.jpg"> <img src="npcs/dibellas/karliah_voldsea.jpg"> </details>
+
+| Mod | Spanish translation |
+|----------|----------|
+| [KS Hairdos SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/6817) | Not needed. |
+| [Guards Armor Replacer SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/22671) | [Guards Armor Replacer SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/31889) |
 
 # Items
 
