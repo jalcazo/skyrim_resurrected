@@ -265,12 +265,15 @@ review of apocalypse
 | [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382) |  ``` TODO. TO BE DONE 🚧 ``` |
 | [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101) | [Tactical Valtheim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42326) |
 
+# Shrines and statues
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon) | [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621) |
+
+<details><summary>Screenshots. </summary> <img src="preview/ryn_azuras/1.jpg"/> </details>
 
  ``` FINS AQUÍ INSTAL·LAT 🚧 ```
-
-# Shrines and statues
-  - [Ryn's Azura's Shrine.](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon).
-<img src="preview/ryn_azuras/1.jpg"/>
 
   - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
 <img src="preview/daedric_shrines/1.jpg"/>
@@ -314,8 +317,6 @@ review of apocalypse
 
 # Spanish translations (if you want to play it with spanish texts & voices):
 
-  - [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628)
-  - [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621)
-  - [Herds SSE Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/13980)
+    - [Herds SSE Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/13980)
   - [Unofficial Skyrim Special Edition Patch - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/73323)
   
