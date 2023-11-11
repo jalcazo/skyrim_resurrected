@@ -257,6 +257,15 @@ review of apocalypse
 
 <details><summary>Screenshots. </summary> <img src="preview/gallows/4.jpg"/> </details>
 
+# Towers and Ruins
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Ryn's Broken Tower Redoubt](https://www.nexusmods.com/skyrimspecialedition/mods/102141) | a |
+| [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382) |  a |
+| [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101) | [Tactical Valtheim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42326) |
+
+
  ``` FINS AQUÍ INSTAL·LAT 🚧 ```
 
 # Shrines and statues
@@ -265,11 +274,6 @@ review of apocalypse
 
   - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
 <img src="preview/daedric_shrines/1.jpg"/>
-
-# Towers and Ruins
-  - [Ryn's Broken Tower Redoubt](https://www.nexusmods.com/skyrimspecialedition/mods/102141)
-  - [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382)
-  - [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101)
 
 # Animals
   - [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880)
@@ -314,4 +318,4 @@ review of apocalypse
   - [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621)
   - [Herds SSE Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/13980)
   - [Unofficial Skyrim Special Edition Patch - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/73323)
-  - [Tactical Valtheim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42326)
+  
