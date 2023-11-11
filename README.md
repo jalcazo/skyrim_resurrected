@@ -36,12 +36,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | [SkyUI - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95983?tab=files) |
-| [moreHUD SE.](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | [moreHUD - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/80137?tab=files) |
 | [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Not needed. |
 | [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
-| [moreHUD Inventory Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/18619) | Not needed. |
-
-<details><summary>Screenshots moreHUD. </summary> <img src="gui/morehud1.jpg"> <img src="gui/morehud2.jpg"> <img src="gui/morehud3.jpg"> </details>
 
 # Meshes
 
