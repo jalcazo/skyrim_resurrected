@@ -53,6 +53,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 # Magic
 
+| Mod | Spanish translation |
+|----------|----------|
+| [Apocalypse - Magic of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1090) | [Apocalypse - Magic of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/29642) |
+|
+
+review of apocalypse
+
 # Immersion
 
 | Mod | Spanish translation |
