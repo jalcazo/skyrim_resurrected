@@ -47,7 +47,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 - Tested and discarded:
   -	Morehud. TRUEHUD IS 1000 TIMES BETTER!!!! (11/11/23 Jaume).
 
-
 # Meshes
 
 | Mod | Spanish translation |
@@ -204,7 +203,6 @@ review of apocalypse
 | [Soul Cairn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/55387) | ``` TODO. TO BE DONE 🚧 ``` |
 | [Blackreach Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/53878?tab=files) | ``` TODO. TO BE DONE 🚧 ``` |
 
-
 # Immersion
 
 | Mod | Spanish translation |
@@ -272,6 +270,14 @@ review of apocalypse
 | [Ryn's Azura's Shrine (Flagged as ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon) | [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621) |
 
 <details><summary>Screenshots. </summary> <img src="preview/ryn_azuras/1.jpg"/> </details>
+
+# Collectibles
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Additional Hearthfire Dolls.](https://www.nexusmods.com/skyrimspecialedition/mods/46930) (Adds 41 collectible special variants of the Hearthfire doll). | [Additional Hearthfire Dolls SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/47410) |
+
+<details><summary>Screenshots. </summary> <img src="collectibles/dolls1.jpg"/> <img src="collectibles/dolls2.jpg"/> <img src="collectibles/dolls3.jpg"/> <img src="collectibles/dolls4.jpg"/> <img src="collectibles/dolls5.jpg"/> <img src="collectibles/dolls6.jpg"/> <img src="collectibles/dolls7.jpg"/> </details>
 
  ``` FINS AQUÍ INSTAL·LAT 🚧 ```
 
