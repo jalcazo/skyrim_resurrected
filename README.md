@@ -49,7 +49,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | Not needed. |
 | [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | Not needed. |
 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | Not needed. |
-| [Skyrim 3D Rocks.](https://www.nexusmods.com/skyrimspecialedition/mods/17732) | Not needed. |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> </details>
 
@@ -80,6 +79,15 @@ review of apocalypse
 |----------|----------|
 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
+
+# Landscape
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Majestic Mountains.](https://www.nexusmods.com/skyrimspecialedition/mods/11052) | Not needed. |
+| [Majestic Mountains - More Accurate Collisions.](https://www.nexusmods.com/skyrimspecialedition/mods/65042) | Not needed. |
+| [Skyrim 3D Rocks.](https://www.nexusmods.com/skyrimspecialedition/mods/17732) | Not needed. |
+| [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) (required by Majestic mountains!) | Not needed. |
 
 # Monsters
 
