@@ -261,7 +261,7 @@ review of apocalypse
 
 | Mod | Spanish translation |
 |----------|----------|
-| [Ryn's Broken Tower Redoubt](https://www.nexusmods.com/skyrimspecialedition/mods/102141) | a |
+| [Ryn's Broken Tower Redoubt.](https://www.nexusmods.com/skyrimspecialedition/mods/102141) (Flagged as ESL). | [Ryn's Broken Tower Redoubt - Spanish Translation.(https://www.nexusmods.com/skyrimspecialedition/mods/102797) |
 | [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382) |  ``` TODO. TO BE DONE 🚧 ``` |
 | [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101) | [Tactical Valtheim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42326) |
 
