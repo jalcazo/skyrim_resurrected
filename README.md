@@ -137,6 +137,7 @@ review of apocalypse
 
 | Mod | Spanish translation |
 |----------|----------|
+| [Skyrim Sewers 4.](https://www.nexusmods.com/skyrimspecialedition/mods/9320) | [Skyrim Sewers 4 - Spanish Translation by Zedox.](https://www.nexusmods.com/skyrimspecialedition/mods/100402 |
 | [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | [Beyond Skyrim Bruma SPANISH (by Jaume y Rubenoky).](https://www.nexusmods.com/skyrimspecialedition/mods/14508?tab=files) | a | b |
 
 # Flora
@@ -214,6 +215,12 @@ review of apocalypse
 | [Iconic's Spiders of Skyrim Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/89960) | Not needed. |
 | [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | Not needed. |
 | [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | Not needed. |
+
+# Dungeons
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Unique Vampire Dens SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/14762) (Adds six new, unique, hidden vampire dens in various cities around the world). | [Unique Vampire Dens SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/43686) |
 
 # Grim and Gore
 
