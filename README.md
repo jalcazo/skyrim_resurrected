@@ -23,7 +23,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
 | [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." |
 
-
 # Fixes / helpers
 
 | Mod | Spanish translation |
@@ -48,6 +47,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
 | [TrueHUD - HUD Additions.](https://www.nexusmods.com/skyrimspecialedition/mods/62775) | [TrueHUD - HUD Additions - Spanish - Castellano - Español.](https://www.nexusmods.com/skyrimspecialedition/mods/93935) |
 | [The Elder Scrolls Legends - Loading Screens.](https://www.nexusmods.com/skyrimspecialedition/mods/37929) | [The Elder Scrolls Legends - Loading Screens - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/89506) |
+| [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/90526) | Not needed. |
+| [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/89823) | Not needed. |
 
 - Tested and discarded:
   -	Morehud. TRUEHUD IS 1000 TIMES BETTER!!!! (11/11/23 Jaume).
@@ -252,6 +253,14 @@ review of apocalypse
 | [Iconic's Spiders of Skyrim Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/89960) | Not needed. |
 | [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | Not needed. |
 | [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | Not needed. |
+| [Whiterun Doors and Gate 2K.](Mesh improvements and retexture of vanilla Whiterun doors and main gate - no ESP.) | Not needed. |
+| [Fortified and Animated Fort Doors SE.](New door meshes and textures with custom animations and matching sounds for all the forts in Skyrim.) | Not needed. |
+
+# Parallax textures
+
+| Mod | Spanish translation |
+|----------|----------|
+| [The Omnibus - Terrain Complex Parallax AiO.](https://www.nexusmods.com/skyrimspecialedition/mods/83011) | Not needed. |
 
 # Dungeons
 
