@@ -61,6 +61,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | Not needed. |
 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | Not needed. |
 | [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | Not needed. |
+| [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | Not needed. |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> </details>
 
@@ -307,6 +308,9 @@ review of apocalypse
 | Mod | Spanish translation |
 |----------|----------|
 | [Additional Hearthfire Dolls.](https://www.nexusmods.com/skyrimspecialedition/mods/46930) (Adds 41 collectible special variants of the Hearthfire doll). | [Additional Hearthfire Dolls SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/47410) |
+| [Skyrims Unique Treasures.](https://www.nexusmods.com/skyrimspecialedition/mods/5261) | [Skyrim Unique Treasures SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/48368) |
+| [New Treasure Hunt SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/19469) ((Adds 13 new hand-drawn treasure maps and treasures hidden across Skyrim SE.) | [New Treasure Hunt SSE. - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85024) |
+| [Each Stone of Barenziah Gives You a Bonus (ESLified).](https://www.nexusmods.com/skyrimspecialedition/mods/37122) | Not needed. |
 
 <details><summary>Screenshots. </summary> <img src="collectibles/dolls1.jpg"/> <img src="collectibles/dolls2.jpg"/> <img src="collectibles/dolls3.jpg"/> <img src="collectibles/dolls4.jpg"/> <img src="collectibles/dolls5.jpg"/> <img src="collectibles/dolls6.jpg"/> <img src="collectibles/dolls7.jpg"/> </details>
 
@@ -328,7 +332,6 @@ review of apocalypse
   - [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438)
 
 # Meshes/Models
-  - [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527)
   - [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338)
   - [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
   - [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
