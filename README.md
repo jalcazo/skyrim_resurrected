@@ -62,6 +62,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | Not needed. |
 | [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | Not needed. |
 | [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | Not needed. |
+| [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> </details>
 
@@ -120,7 +121,7 @@ review of apocalypse
 | [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) (required by Majestic mountains!) | Not needed. |
 | [The Marshlands.](https://www.nexusmods.com/skyrimspecialedition/mods/23062) | Not needed. |
 
-# Monsters
+# Monsters / Creatures
 
 | Mod | Spanish translation |
 |----------|----------|
@@ -128,6 +129,7 @@ review of apocalypse
 | [Giants Overhaul- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/98581) | ``` TO BE DONE 🚧 ``` |
 | [Sea Giants and Ice Titans- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/103285) | ``` TO BE DONE 🚧 ``` |
 | [Bone Colossus- Mihail Monsters and Animals (SE-AE version) (''undead'').](https://www.nexusmods.com/skyrimspecialedition/mods/24521) | [Bone Colossus- Mihail Monsters and Animals (SE-AE version) - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42742) ]
+| [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338) | Not needed. |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
@@ -258,7 +260,14 @@ review of apocalypse
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
 | [Fast Travel for Survival Mode.](https://www.nexusmods.com/skyrimspecialedition/mods/21067) | Not needed. |
 | [Destructible Skyrim - Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/77568) | Not needed. |
+| [Rich Skyrim Merchants.](https://www.nexusmods.com/skyrimspecialedition/mods/1772) | Not needed. |
 
+# Interiors
+
+| Mod | Spanish translation |
+|----------|----------|
+| JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the spanish one, or the name of the door will be overriden! [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
+FALTA WARMAIDEN.
 
 # Audio
 
@@ -283,6 +292,12 @@ review of apocalypse
 | [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | Not needed. |
 | [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | Not needed. |
 | [Whiterun Doors and Gate 2K.](Mesh improvements and retexture of vanilla Whiterun doors and main gate - no ESP.) | Not needed. |
+
+# Forts
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Nirvana's Fort Greymoor (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/89380) | Not needed. |
 | [Fortified and Animated Fort Doors SE.](New door meshes and textures with custom animations and matching sounds for all the forts in Skyrim.) | Not needed. |
 
 # Parallax textures
@@ -350,8 +365,8 @@ review of apocalypse
   - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
   - [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438)
 
-# Meshes/Models
-  - [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338)
+# Meshes / Models
+
   - [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
   - [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
 
