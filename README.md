@@ -42,7 +42,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Spanish translation |
 |----------|----------|
-| [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | [SkyUI - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95983?tab=files) |
+| [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Not needed. Gives problems (Jaume 14/11/23). |
 | [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Not needed. |
 | [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
 | [TrueHUD - HUD Additions.](https://www.nexusmods.com/skyrimspecialedition/mods/62775) | [TrueHUD - HUD Additions - Spanish - Castellano - Español.](https://www.nexusmods.com/skyrimspecialedition/mods/93935) |
@@ -89,6 +89,7 @@ review of apocalypse
 |----------|----------|
 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
+| [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
 
 # Landscape
 
@@ -112,6 +113,7 @@ review of apocalypse
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
 # Weather
+
 | Mod | Spanish translation |
 |----------|----------|
 | [Cathedral Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | [Cathedral Weathers and Seasons - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86719) |
@@ -199,10 +201,17 @@ review of apocalypse
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
 | [Draugr One-handed Animation (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/74685) | Not needed. |
 | [Comprehensive First Person Animation Overhaul - CFPAO.](https://www.nexusmods.com/skyrimspecialedition/mods/87169) | Not needed. |
+| [Customizable Faster Woodcutting Animation - OAR or DAR.](https://www.nexusmods.com/skyrimspecialedition/mods/73857) | Not needed. "Speeds up the wood chopping animation. 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90% faster versions. Chopping sound is played in the correct frames.)" |
 
 :tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk)
 
 :tv: [Video of Draugr One-handed Animation (DAR).](https://www.youtube.com/watch?v=RxSSYnSiIbU)
+
+# Hunting / fauna / wildlife
+
+| [Animallica SE - Skyrim Wildlife Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20456) | [Animallica SE - Skyrim Wildlife Overhaul Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/20590) |
+| [Fluffworks (Fluffy Animals).](https://www.nexusmods.com/skyrimspecialedition/mods/56361) | Not needed. Better looking fur in animals. |
+| [Fluffworks (Fluffy Animals) - Domestic Goat with Bell.](https://www.nexusmods.com/skyrimspecialedition/mods/64744) | Not needed. |
 
 # Map
 
