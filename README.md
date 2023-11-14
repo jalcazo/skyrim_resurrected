@@ -21,6 +21,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Not needed. |
 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Not needed. |
 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
+| [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Not needed. |
 
 # Fixes / helpers
 
@@ -72,6 +73,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 review of apocalypse
 
+# Survival
+
+| [Campfire - Complete Camping System.](https://www.nexusmods.com/skyrimspecialedition/mods/667) | [Campfire - Complete Camping System - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1676) |
+
 # Combat
 
 | Mod | Spanish translation |
@@ -79,6 +84,7 @@ review of apocalypse
 | [Valhalla Combat.](https://www.nexusmods.com/skyrimspecialedition/mods/64741) | Not needed. |
 | [Locational Damage(SKSE Plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/46932) | Not needed. ((This mod makes it possible to do extra damage and stagger etc. effect depending on the body part when the attack hits the actor. No ESP file.) |
 | | [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." 
+| [Dynamic Impact - Slash Effects X.](https://www.nexusmods.com/skyrimspecialedition/mods/86071) | Not needed. |
 
 # Immersion
 
@@ -125,12 +131,13 @@ review of apocalypse
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
-# Weather
+# Weather / fog / fogs / mists
 
 | Mod | Spanish translation |
 |----------|----------|
 | [Cathedral Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | [Cathedral Weathers and Seasons - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86719) |
 | [Morning Fogs SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/21436) | Not needed. |
+| [Volumetric Mists.](https://www.nexusmods.com/skyrimspecialedition/mods/29273) | Not needed. |
 
 :tv: [Video review of Cathedral Weathers (comparison with other weathers)](https://www.youtube.com/watch?v=p_CMoTK-8bM)
 
