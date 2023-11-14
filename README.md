@@ -21,7 +21,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Not needed. |
 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Not needed. |
 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
-| [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." |
 
 # Fixes / helpers
 
@@ -70,9 +69,16 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Apocalypse - Magic of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1090) | [Apocalypse - Magic of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/29642) |
-|
 
 review of apocalypse
+
+# Combat
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Valhalla Combat.](https://www.nexusmods.com/skyrimspecialedition/mods/64741) | Not needed. |
+| [Locational Damage(SKSE Plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/46932) | Not needed. ((This mod makes it possible to do extra damage and stagger etc. effect depending on the body part when the attack hits the actor. No ESP file.) |
+| | [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." 
 
 # Immersion
 
@@ -91,6 +97,12 @@ review of apocalypse
 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
+
+# Lighting
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Enhanced Lights and FX.](https://www.nexusmods.com/skyrimspecialedition/mods/2424) | (indispensable in Skyrim, in Fallout 4 no). |
 
 # Landscape
 
