@@ -94,7 +94,7 @@ review of apocalypse
 | [Wet and Cold SE.](https://www.nexusmods.com/skyrimspecialedition/mods/644/) | todo | [Wet and Cold - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1448) |
 | [Security Overhaul SKSE - Lock Variations.](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | todo | Not needed. |
 | [Security Overhaul SKSE - Regional Locks.](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | todo | Not needed. |
-
+| [Hunters Not Bandits. (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/1547) | (NPC's will not use taunts or insults when fighting animals. Especially hunters will behave in a more realistic manner, as well as fixing odd behaviors where enemies wish you a good morning and other unfitting dialogues right after they killed you.) | [Hunters Not Bandits Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/6028)
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
@@ -115,13 +115,14 @@ review of apocalypse
 
 # Landscape
 
-| Mod | Spanish translation |
-|----------|----------|
-| [Majestic Mountains.](https://www.nexusmods.com/skyrimspecialedition/mods/11052) | Not needed. |
-| [Majestic Mountains - More Accurate Collisions.](https://www.nexusmods.com/skyrimspecialedition/mods/65042) | Not needed. |
-| [Skyrim 3D Rocks.](https://www.nexusmods.com/skyrimspecialedition/mods/17732) | Not needed. |
-| [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) (required by Majestic mountains!) | Not needed. |
-| [The Marshlands.](https://www.nexusmods.com/skyrimspecialedition/mods/23062) | Not needed. |
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Majestic Mountains.](https://www.nexusmods.com/skyrimspecialedition/mods/11052) | todo | Not needed. |
+| [Majestic Mountains - More Accurate Collisions.](https://www.nexusmods.com/skyrimspecialedition/mods/65042) | todo | Not needed. |
+| [Skyrim 3D Rocks.](https://www.nexusmods.com/skyrimspecialedition/mods/17732) | todo | Not needed. |
+| [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) (required by Majestic mountains!) | todo | Not needed. |
+| [The Marshlands.](https://www.nexusmods.com/skyrimspecialedition/mods/23062) | todo | Not needed. |
+| [Immersive Shortcuts of Skyrim SE AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104702) | todo | Not needed. |
 
 # Monsters / Creatures
 
@@ -184,15 +185,6 @@ review of apocalypse
 | Mod | Spanish translation |
 |----------|----------|
 | [The Elder Scrolls Online Imports.](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | ``` TODO. TO BE DONE 🚧 ``` |
-
-# Roleplaying, RPG
-
-| Mod | Spanish translation |
-|----------|----------|
-| [Ordinator - Perks of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1137) | [Ordinator - Perks of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/30246) |
-| [Reflection - Level Up Messages.](https://www.nexusmods.com/skyrimspecialedition/mods/1188) | [Reflection - Level Up Messages Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/58831) |
-| [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563?tab=files) |
-
 
 # Expansions / DLC sized expansions
 
@@ -277,27 +269,31 @@ review of apocalypse
 
 # Audio / SFX
 
-| Mod | Spanish translation |
-|----------|----------|
-| [Celtic Music in Skyrim - SE.](https://www.nexusmods.com/skyrimspecialedition/mods/2980?tab=files) | Not needed. |
-| [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | Not needed. |
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Celtic Music in Skyrim - SE.](https://www.nexusmods.com/skyrimspecialedition/mods/2980?tab=files) | todo | Not needed. |
+| [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | todo | Not needed. |
 
-# Character creation / presets
+# Character creation / presets / roleplaying / RPG
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Better Male Presets.](https://www.nexusmods.com/skyrimspecialedition/mods/2001) | Not needed. GOOD looking vanilla default presets replacer! | 
 | [Imperious - Races of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1315) | [Imperious - Races of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/4893) |
 | [Xenius Character Enhancement Complete.](https://www.nexusmods.com/skyrimspecialedition/mods/36985) | Not needed. |
+| [Ordinator perks for NPCs.](https://www.nexusmods.com/skyrimspecialedition/mods/42022) | todo | Not needed. |
+| [Ordinator - Perks of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1137) | todo | [Ordinator - Perks of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/30246) |
+| [Reflection - Level Up Messages.](https://www.nexusmods.com/skyrimspecialedition/mods/1188) | todo | [Reflection - Level Up Messages Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/58831) |
+| [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | todo | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563) |
 
 # Textures
 
-| Mod | Spanish translation |
-|----------|----------|
-| [Iconic's Spiders of Skyrim Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/89960) | Not needed. |
-| [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | Not needed. |
-| [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | Not needed. |
-| [Whiterun Doors and Gate 2K.](Mesh improvements and retexture of vanilla Whiterun doors and main gate - no ESP.) | Not needed. |
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Iconic's Spiders of Skyrim Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/89960) | todo | Not needed. |
+| [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | todo |Not needed. |
+| [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | todo | Not needed. |
+| [Whiterun Doors and Gate 2K.](Mesh improvements and retexture of vanilla Whiterun doors and main gate - no ESP.) | todo | Not needed. |
 
 # Forts
 
