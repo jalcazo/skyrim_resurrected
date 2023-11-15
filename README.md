@@ -267,10 +267,12 @@ review of apocalypse
 
 # Interiors
 
-| Mod | Spanish translation |
-|----------|----------|
-| JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the spanish one, or the name of the door will be overriden! [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
-FALTA WARMAIDEN.
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the spanish one, or the name of the door will be overriden! | [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
+| [JK's Dragonsreach.](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | todo. | [JK's Dragonsreach - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37336) |
+
+FALTA WARMAIDEN a whiterun.
 
 # Audio
 
