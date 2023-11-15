@@ -25,23 +25,23 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 # Fixes / helpers
 
-| Mod | Spanish translation |
-|----------|----------|
-| [Face Discoloration Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/42441) | Not needed. |
-| [Assorted mesh fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Not needed. |
-| [Actor Limit Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/32349) | Not needed. |
-| [Scrambled Bugs.](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | Not needed. |
-| [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Not needed. |
-| [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Not needed. |
-| [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Not needed. Remember that part2: "Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the SKSE64 plugin won't load.". In my experience, SSE Engine Fixes fixed an error with the races description in one of my modded modlists. |
-| [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | Not needed. |
-| [WIDeadBodyCleanupScript Crash Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/62413) | Not needed. |
-| [CritterSpawn Congestion Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | Not needed. |
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Face Discoloration Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/42441) | Eliminates the dreaded "dark face" issue that occurs when the game encounters FaceGen errors. | Not needed. |
+| [Assorted mesh fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly. | Not needed. |
+| [Actor Limit Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/32349) | Increases the number of actors that can move, make facial expressions, and have their lips synced to their voice lines at any given time. | Not needed. |
+| [Scrambled Bugs.](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | A collection of engine bug fixes and patches. | Not needed. |
+| [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Simplifies the creation of Mod Configuration Menus. | Not needed. |
+| [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Fixes "mfg" console command and adds some more fixes. | Not needed. |
+| [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | skse64 plugin to fix various issues with the Skyrim Special Edition engine. | Not needed. Remember that part2: "Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the SKSE64 plugin won't load.". In my experience, SSE Engine Fixes fixed an error with the races description in one of my modded modlists. |
+| [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | SKSE plugin which fixes auroras getting stuck when transitioning between worldspaces. | Not needed. |
+| [WIDeadBodyCleanupScript Crash Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/62413) | Fixes a rare crash when saving due to wideadbodycleanupscript. | Not needed. |
+| [CritterSpawn Congestion Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | A fix for the bug spawner, clogging your script engine, causing stacks to be dumped and bugs to be spawned. | Not needed. |
 
 # GUI
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Not needed. Gives problems (Jaume 14/11/23). |
 | [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Not needed. |
 | [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
