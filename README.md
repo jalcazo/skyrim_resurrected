@@ -42,10 +42,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Not needed. Gives problems (Jaume 14/11/23). |
-| [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Not needed. |
-| [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
-| [TrueHUD - HUD Additions.](https://www.nexusmods.com/skyrimspecialedition/mods/62775) | [TrueHUD - HUD Additions - Spanish - Castellano - Español.](https://www.nexusmods.com/skyrimspecialedition/mods/93935) |
+| [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Elegant, PC-friendly interface mod with many advanced features. | Not needed. Gives problems (Jaume 14/11/23). |
+| [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Adds a looting menu akin to the one present in Fallout 4. | Not needed. |
+| [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Retexture of Quick Loot to match SkyUI's colour scheme. | Not needed. |
+| [TrueHUD - HUD Additions.](https://www.nexusmods.com/skyrimspecialedition/mods/62775) | Impressive HUD: <br> <img src="gui/truehud.jpg">  [TrueHUD - HUD Additions - Spanish - Castellano - Español.](https://www.nexusmods.com/skyrimspecialedition/mods/93935) |
 | [The Elder Scrolls Legends - Loading Screens.](https://www.nexusmods.com/skyrimspecialedition/mods/37929) | [The Elder Scrolls Legends - Loading Screens - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/89506) |
 | [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/90526) | Not needed. |
 | [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/89823) | Not needed. |
