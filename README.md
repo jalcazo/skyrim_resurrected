@@ -6,23 +6,22 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 # Essential (many mods need these)
 
-| Mod | Spanish translation |
-|----------|----------|
-| Skyrim Script Extender (SKSE64). (be sure to check if you install the version for [Steam](https://store.steampowered.com/sub/626153/) or for [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)!). | Para evitar que SKSE64 de Vortex Nexusmods **CAMBIE EL IDIOMA A ENGLISH** hay que primero [instalarlo de Vortex](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files) y luego bajarlo e instalarlo manualmente de [AQUÍ](https://skse.silverlock.org/) (comprobado 10/11/23). |
-| [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files) (be sure to pick Anniversary Edition AE or Special Edition SE!) | Not needed. |
-| [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
-| [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | [Alternate Start - Live Another Life - Castellano con voces - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/65264?tab=files) (actualizado 24 junio 2023). |
-| [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Not needed. |
-| [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Not needed. |
-| [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
-| [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
-| [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) (SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events). | Not needed. |
-| [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Not needed. |
-| [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Not needed. |
-| [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Not needed. |
-| [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
-| [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." |
-
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| Skyrim Script Extender (SKSE64). (be sure to check if you install the version for [Steam](https://store.steampowered.com/sub/626153/) or for [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)!). | Essential. A lot of good mods use this as a base. | Para evitar que SKSE64 de Vortex Nexusmods **CAMBIE EL IDIOMA A ENGLISH** hay que primero [instalarlo de Vortex](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files) y luego bajarlo e instalarlo manualmente de [AQUÍ](https://skse.silverlock.org/) (comprobado 10/11/23). |
+| [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Be sure to pick Anniversary Edition AE or Special Edition SE! | Not needed. |
+| [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | Corrects a lot of bugs. | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
+| [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | Alternative starts, skip the standard vanilla or do it, as you wish. | [Alternate Start - Live Another Life - Castellano con voces - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/65264?tab=files) (actualizado 24 junio 2023). |
+| [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Used by a lot of mods to swap some items in the world. | Not needed. |
+| [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | SKSE plugin that is used add spells/perks/items/shouts, etc. to the NPCs. | Not needed. |
+| [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Nice body, UNP alternative gives nudes when looting females (not males), and it's kinda gross. | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
+| [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Obviously we want our Steam achievements. <img src="achievements/achievements.png"> | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
+| [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. | Not needed. |
+| [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Allow mods filtering the inventory by keyword. | Not needed. |
+| [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Distributes keywords to weapons/armor/magic effects/ingestibles,etc..  | Not needed. |
+| [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Allows Papyrus scripts to be aware and also allows other DLLs to support zmerge merges.  | Not needed. |
+| [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | Inserts interesting information, including item icons, into inventory interface. | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
+| [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
 
 # Fixes / helpers
 
@@ -43,11 +42,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod | Spanish translation |
 |----------|----------|
-| [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | [SkyUI - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95983?tab=files) |
+| [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Not needed. Gives problems (Jaume 14/11/23). |
 | [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Not needed. |
 | [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Not needed. |
 | [TrueHUD - HUD Additions.](https://www.nexusmods.com/skyrimspecialedition/mods/62775) | [TrueHUD - HUD Additions - Spanish - Castellano - Español.](https://www.nexusmods.com/skyrimspecialedition/mods/93935) |
 | [The Elder Scrolls Legends - Loading Screens.](https://www.nexusmods.com/skyrimspecialedition/mods/37929) | [The Elder Scrolls Legends - Loading Screens - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/89506) |
+| [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/90526) | Not needed. |
+| [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/89823) | Not needed. |
 
 - Tested and discarded:
   -	Morehud. TRUEHUD IS 1000 TIMES BETTER!!!! (11/11/23 Jaume).
@@ -60,6 +61,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | Not needed. |
 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | Not needed. |
 | [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | Not needed. |
+| [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | Not needed. |
+| [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> </details>
 
@@ -68,9 +71,21 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Apocalypse - Magic of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1090) | [Apocalypse - Magic of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/29642) |
-|
 
 review of apocalypse
+
+# Survival
+
+| [Campfire - Complete Camping System.](https://www.nexusmods.com/skyrimspecialedition/mods/667) | [Campfire - Complete Camping System - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1676) |
+
+# Combat
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Valhalla Combat.](https://www.nexusmods.com/skyrimspecialedition/mods/64741) | Not needed. |
+| [Locational Damage(SKSE Plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/46932) | Not needed. ((This mod makes it possible to do extra damage and stagger etc. effect depending on the body part when the attack hits the actor. No ESP file.) |
+| | [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." 
+| [Dynamic Impact - Slash Effects X.](https://www.nexusmods.com/skyrimspecialedition/mods/86071) | Not needed. |
 
 # Immersion
 
@@ -88,6 +103,13 @@ review of apocalypse
 |----------|----------|
 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
+| [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
+
+# Lighting
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Enhanced Lights and FX.](https://www.nexusmods.com/skyrimspecialedition/mods/2424) | (indispensable in Skyrim, in Fallout 4 no). |
 
 # Landscape
 
@@ -99,7 +121,7 @@ review of apocalypse
 | [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) (required by Majestic mountains!) | Not needed. |
 | [The Marshlands.](https://www.nexusmods.com/skyrimspecialedition/mods/23062) | Not needed. |
 
-# Monsters
+# Monsters / Creatures
 
 | Mod | Spanish translation |
 |----------|----------|
@@ -107,14 +129,17 @@ review of apocalypse
 | [Giants Overhaul- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/98581) | ``` TO BE DONE 🚧 ``` |
 | [Sea Giants and Ice Titans- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/103285) | ``` TO BE DONE 🚧 ``` |
 | [Bone Colossus- Mihail Monsters and Animals (SE-AE version) (''undead'').](https://www.nexusmods.com/skyrimspecialedition/mods/24521) | [Bone Colossus- Mihail Monsters and Animals (SE-AE version) - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42742) ]
+| [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338) | Not needed. |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
-# Weather
+# Weather / fog / fogs / mists
+
 | Mod | Spanish translation |
 |----------|----------|
 | [Cathedral Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | [Cathedral Weathers and Seasons - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86719) |
 | [Morning Fogs SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/21436) | Not needed. |
+| [Volumetric Mists.](https://www.nexusmods.com/skyrimspecialedition/mods/29273) | Not needed. |
 
 :tv: [Video review of Cathedral Weathers (comparison with other weathers)](https://www.youtube.com/watch?v=p_CMoTK-8bM)
 
@@ -198,10 +223,17 @@ review of apocalypse
 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
 | [Draugr One-handed Animation (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/74685) | Not needed. |
 | [Comprehensive First Person Animation Overhaul - CFPAO.](https://www.nexusmods.com/skyrimspecialedition/mods/87169) | Not needed. |
+| [Customizable Faster Woodcutting Animation - OAR or DAR.](https://www.nexusmods.com/skyrimspecialedition/mods/73857) | Not needed. "Speeds up the wood chopping animation. 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90% faster versions. Chopping sound is played in the correct frames.)" |
 
 :tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk)
 
 :tv: [Video of Draugr One-handed Animation (DAR).](https://www.youtube.com/watch?v=RxSSYnSiIbU)
+
+# Hunting / fauna / wildlife
+
+| [Animallica SE - Skyrim Wildlife Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20456) | [Animallica SE - Skyrim Wildlife Overhaul Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/20590) |
+| [Fluffworks (Fluffy Animals).](https://www.nexusmods.com/skyrimspecialedition/mods/56361) | Not needed. Better looking fur in animals. |
+| [Fluffworks (Fluffy Animals) - Domestic Goat with Bell.](https://www.nexusmods.com/skyrimspecialedition/mods/64744) | Not needed. |
 
 # Map
 
@@ -228,7 +260,14 @@ review of apocalypse
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
 | [Fast Travel for Survival Mode.](https://www.nexusmods.com/skyrimspecialedition/mods/21067) | Not needed. |
 | [Destructible Skyrim - Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/77568) | Not needed. |
+| [Rich Skyrim Merchants.](https://www.nexusmods.com/skyrimspecialedition/mods/1772) | Not needed. |
 
+# Interiors
+
+| Mod | Spanish translation |
+|----------|----------|
+| JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the spanish one, or the name of the door will be overriden! [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
+FALTA WARMAIDEN.
 
 # Audio
 
@@ -252,6 +291,20 @@ review of apocalypse
 | [Iconic's Spiders of Skyrim Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/89960) | Not needed. |
 | [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | Not needed. |
 | [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | Not needed. |
+| [Whiterun Doors and Gate 2K.](Mesh improvements and retexture of vanilla Whiterun doors and main gate - no ESP.) | Not needed. |
+
+# Forts
+
+| Mod | Spanish translation |
+|----------|----------|
+| [Nirvana's Fort Greymoor (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/89380) | Not needed. |
+| [Fortified and Animated Fort Doors SE.](New door meshes and textures with custom animations and matching sounds for all the forts in Skyrim.) | Not needed. |
+
+# Parallax textures
+
+| Mod | Spanish translation |
+|----------|----------|
+| [The Omnibus - Terrain Complex Parallax AiO.](https://www.nexusmods.com/skyrimspecialedition/mods/83011) | Not needed. |
 
 # Dungeons
 
@@ -289,6 +342,9 @@ review of apocalypse
 | Mod | Spanish translation |
 |----------|----------|
 | [Additional Hearthfire Dolls.](https://www.nexusmods.com/skyrimspecialedition/mods/46930) (Adds 41 collectible special variants of the Hearthfire doll). | [Additional Hearthfire Dolls SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/47410) |
+| [Skyrims Unique Treasures.](https://www.nexusmods.com/skyrimspecialedition/mods/5261) | [Skyrim Unique Treasures SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/48368) |
+| [New Treasure Hunt SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/19469) ((Adds 13 new hand-drawn treasure maps and treasures hidden across Skyrim SE.) | [New Treasure Hunt SSE. - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85024) |
+| [Each Stone of Barenziah Gives You a Bonus (ESLified).](https://www.nexusmods.com/skyrimspecialedition/mods/37122) | Not needed. |
 
 <details><summary>Screenshots. </summary> <img src="collectibles/dolls1.jpg"/> <img src="collectibles/dolls2.jpg"/> <img src="collectibles/dolls3.jpg"/> <img src="collectibles/dolls4.jpg"/> <img src="collectibles/dolls5.jpg"/> <img src="collectibles/dolls6.jpg"/> <img src="collectibles/dolls7.jpg"/> </details>
 
@@ -309,9 +365,8 @@ review of apocalypse
   - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
   - [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438)
 
-# Meshes/Models
-  - [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527)
-  - [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338)
+# Meshes / Models
+
   - [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
   - [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
 
