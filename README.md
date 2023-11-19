@@ -265,6 +265,8 @@ review of apocalypse
 | [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Used by a lot of mods to swap some items in the world. | Not needed. |
 | [Destructible Skyrim - Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/77568) | "Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!" | [Destructible Skyrim - Base Object Swapper SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104800) |
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) | Makes all hawks that can't be shot shootable instead. | Not needed. |
+| [Creation Club Basket Distribution - Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/74577) | Integrates the baskets from Bloodchill Manor, Hendraheim, Myrwatch Tower, Shadowfoot Sanctum and Tundra Homestead to Skyrim holds. Also includes additional baskets to cover the variations that doesn't exist in the original Cleation Club plugins. | Not needed. |
+| Bruma Clutter for Skyrim Imperials - Base Object Swapper (BOS).](https://www.nexusmods.com/skyrimspecialedition/mods/74178) | "Beyond Skyrim Bruma includes many imperial themed items that you can't find in Skyrim without an integration patch. This mod replaces many items from Skyrim for their Bruma counterparts only in imperial houses. Now you can feel like imperials have their own culture and that they're not just smaller nords." | Not needed. |
 
 # Interiors
 
