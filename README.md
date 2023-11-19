@@ -260,6 +260,8 @@ review of apocalypse
 
 # Base Object Swapper (BOS)
 
+<img src="base_object_swapper/logo.jpg">
+
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
 | [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Used by a lot of mods to swap some items in the world. | Not needed. |
