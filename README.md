@@ -12,7 +12,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Be sure to pick Anniversary Edition AE or Special Edition SE! | Not needed. |
 | [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | Corrects a lot of bugs. | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | Alternative starts, skip the standard vanilla or do it, as you wish. | [Alternate Start - Live Another Life - Castellano con voces - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/65264?tab=files) (actualizado 24 junio 2023). |
-| [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Used by a lot of mods to swap some items in the world. | Not needed. |
 | [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | SKSE plugin that is used add spells/perks/items/shouts, etc. to the NPCs. | Not needed. |
 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Nice body, UNP alternative gives nudes when looting females (not males), and it's kinda gross. | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Obviously we want our Steam achievements back!<br> <img src="achievements/achievements.png"> | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
@@ -134,6 +133,7 @@ review of apocalypse
 | [Bone Colossus- Mihail Monsters and Animals (SE-AE version) (''undead'').](https://www.nexusmods.com/skyrimspecialedition/mods/24521) | [Bone Colossus- Mihail Monsters and Animals (SE-AE version) - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42742) ]
 | [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338) | Not needed. |
 | [Absolute Arachnophobia.](https://www.nexusmods.com/skyrimspecialedition/mods/24058) | Replaces the vanilla Frostbite Spider skeleton with a custom skeleton, transforming the Spiders into Arachnophobic nightmares! No ESP. | Not needed. |
+| [Draugr Warhounds - Deadly Draugr Companions.](https://www.nexusmods.com/skyrimspecialedition/mods/82350) | todo | todo |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
@@ -248,17 +248,23 @@ review of apocalypse
 
 # Immersion
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Flying Crows SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/49270) | a |
 | [Nocturnal Moths.](https://www.nexusmods.com/skyrimspecialedition/mods/68288) | b |
 | [Footprints.](https://www.nexusmods.com/skyrimspecialedition/mods/3808) | c |
 | [Extended Encounters.](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | d |
 | [Immersive Death Cycle (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/97048) (See dead animals decay over time, eventually turning into bones. Super lite and without any vanilla edits, needs SPID essential mod, already installed before in this modlist). | [Immersive Death Cycle - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/97175) |
-| [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) (Makes all hawks that can't be shot shootable). | Not needed. |
 | [Fast Travel for Survival Mode.](https://www.nexusmods.com/skyrimspecialedition/mods/21067) | Not needed. |
-| [Destructible Skyrim - Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/77568) | Not needed. |
 | [Rich Skyrim Merchants.](https://www.nexusmods.com/skyrimspecialedition/mods/1772) | Not needed. |
+
+# Base Object Swapper (BOS)
+
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Used by a lot of mods to swap some items in the world. | Not needed. |
+| [Destructible Skyrim - Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/77568) | "Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!" | [Destructible Skyrim - Base Object Swapper SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104800) |
+| [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) | Makes all hawks that can't be shot shootable instead. | Not needed. |
 
 # Interiors
 
