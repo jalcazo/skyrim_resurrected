@@ -125,7 +125,7 @@ review of apocalypse
 |----------|----------|----------|
 | [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | todo | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563) |
 | [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394) | todo | Not needed. |
-| [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772) | todo | todo |
+| [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772) | todo | [Daedric Shrines - All in One - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94183) |
 
 <details><summary>Screenshots of the Daedrid Shrines.</summary> <img src="religion/daedric_shrines/1.jpg"/> <img src="religion/daedric_shrines/2.jpg"/> <img src="religion/daedric_shrines/3.jpg"/> <img src="religion/daedric_shrines/4.jpg"/> <img src="religion/daedric_shrines/5.jpg"/> <img src="religion/daedric_shrines/6.jpg"/> </details>
 
