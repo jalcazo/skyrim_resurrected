@@ -38,6 +38,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [CritterSpawn Congestion Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | A fix for the bug spawner, clogging your script engine, causing stacks to be dumped and bugs to be spawned. | Not needed. |
 | [NPC AI Process Position Fix - NG.](https://www.nexusmods.com/skyrimspecialedition/mods/69326) | Skyrim's engine has a limitation where it can only update an NPC’s AI process position for one hour at most if that NPC is loaded in currently loaded cells (a high AI Process one). | Not needed. |
 | [High Gate Ruins Puzzle Reset Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/53643) | Fixes High Gate Ruins puzzle not resetting properly, blocking off half the dungeon on subsequent visits. | Not needed. |
+| [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Collection of fixes, tweaks, and performance improvements for Skyrim's script engine. 100% configurable. Install/Uninstall anytime. | Not needed. |
 
 # GUI
 
@@ -280,6 +281,7 @@ review of apocalypse
 | JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the spanish one, or the name of the door will be overriden! | [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
 | [JK's Dragonsreach.](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Famous palace in Whiterun. | [JK's Dragonsreach - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37336) |
 | [JK's Warmaiden's.](https://www.nexusmods.com/skyrimspecialedition/mods/33685) | Famous shop in Whiterun. | [JK's Warmaiden's - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37364) |
+| [Snazzy Interiors - Vittoria Vici's House.](https://www.nexusmods.com/skyrimspecialedition/mods/100475) | Complete overhaul of Vittoria Vici's house in Solitude. ESL flagged. | [Snazzy Interiors - Vittoria Vici's House - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/102908) |
 
 # Audio / SFX
 
@@ -309,6 +311,7 @@ review of apocalypse
 | [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | todo | Not needed. |
 | [Whiterun Doors and Gate 2K.](Mesh improvements and retexture of vanilla Whiterun doors and main gate - no ESP.) | todo | Not needed. |
 | [Enhanced Blood Textures.](https://www.nexusmods.com/skyrimspecialedition/mods/2357) | Esstential! | Not needed. |
+| [Better Dwemer Spider Textures.](https://www.nexusmods.com/skyrimspecialedition/mods/3049) | todo | Not needed. |
 
 # Forts
 
