@@ -39,6 +39,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [NPC AI Process Position Fix - NG.](https://www.nexusmods.com/skyrimspecialedition/mods/69326) | Skyrim's engine has a limitation where it can only update an NPC’s AI process position for one hour at most if that NPC is loaded in currently loaded cells (a high AI Process one). | Not needed. |
 | [High Gate Ruins Puzzle Reset Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/53643) | Fixes High Gate Ruins puzzle not resetting properly, blocking off half the dungeon on subsequent visits. | Not needed. |
 | [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Collection of fixes, tweaks, and performance improvements for Skyrim's script engine. 100% configurable. Install/Uninstall anytime. | Not needed. |
+| [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | - | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
+| [UIExtensions.](https://www.nexusmods.com/skyrimspecialedition/mods/17561) | Adds various custom menus to Skyrim for modder use. | [UIExtensions - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/89636) |
+| [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | [Tavern AI Fix - Spanish Castellano Español](https://www.nexusmods.com/skyrimspecialedition/mods/94086) |
+| [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 
 # GUI
 
@@ -51,6 +55,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [The Elder Scrolls Legends - Loading Screens.](https://www.nexusmods.com/skyrimspecialedition/mods/37929) | 110 high quality and lore friendly artworks for loading screens. | [The Elder Scrolls Legends - Loading Screens - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/89506) |
 | [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/90526) | Icons and colors for alchemical ingredients. | Not needed. |
 | [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/89823) | Icons and colors for food and other ingestible items. | Not needed. |
+| [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428) | Navigate all message boxes with the Left/Right and Activate (E) keys. Also fixes the clickable area of buttons so they are easier to select with the mouse. | Not needed. |
+| [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429) | todo | Not needed. |
+| [Constructible Object Custom Keyword System.](https://www.nexusmods.com/skyrimspecialedition/mods/81409) | Improves the usability of the Constructible Object Menu with SkyUI with an extensible keyword-based category system. | [Crafting Categories for SkyUI - Constructible Object Custom Keyword System -Spanish - Español - Castellano.](https://www.nexusmods.com/skyrimspecialedition/mods/93728) |
 
 - Tested and discarded:
   -	Morehud. TRUEHUD IS 1000 TIMES BETTER!!!! (11/11/23 Jaume).
@@ -76,6 +83,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 review of apocalypse
 
+# Water
+| [Cathedral - 3D Rocky Shores.](https://www.nexusmods.com/skyrimspecialedition/mods/33474) |  A performance-neutral mod makes shorelines appear rocky and 3-dimensional. | Not needed. |
+
 # Survival
 
 | [Campfire - Complete Camping System.](https://www.nexusmods.com/skyrimspecialedition/mods/667) | [Campfire - Complete Camping System - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1676) |
@@ -97,6 +107,7 @@ review of apocalypse
 | [Security Overhaul SKSE - Lock Variations.](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | todo | Not needed. |
 | [Security Overhaul SKSE - Regional Locks.](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | todo | Not needed. |
 | [Hunters Not Bandits. (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/1547) | (NPC's will not use taunts or insults when fighting animals. Especially hunters will behave in a more realistic manner, as well as fixing odd behaviors where enemies wish you a good morning and other unfitting dialogues right after they killed you.) | [Hunters Not Bandits Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/6028)
+[Favorite Misc Items.](https://www.nexusmods.com/skyrimspecialedition/mods/42750) | SKSE plugin that allows you to favorite books/soul gems/keys and other misc items. | Not needed. |
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
@@ -126,6 +137,11 @@ review of apocalypse
 | [The Marshlands.](https://www.nexusmods.com/skyrimspecialedition/mods/23062) | todo | Not needed. |
 | [Immersive Shortcuts of Skyrim SE AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104702) | todo | Not needed. |
 | [Natural Waterfalls - Dragonborn.](https://www.nexusmods.com/skyrimspecialedition/mods/103170) | Natural Waterfalls. Now on Solstheim. | [Natural Waterfalls - Dragonborn - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/104871) |
+
+# Alchemy
+
+| [Apothecary - An Alchemy Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/52130) | Apothecary is a complete overhaul of Skyrim’s alchemy system designed to balance existing options while adding powerful new effects to the game. | [Apothecary - An Alchemy Overhaul - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/52197) |
+| [Harvest Overhaul Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/2398) | 3 Red Mountain Flower for pick instead of one, for instance. | [Harvest Overhaul Redone - Now with creatures Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/7139) |
 
 # Monsters / Creatures
 
@@ -367,6 +383,11 @@ review of apocalypse
 | [Each Stone of Barenziah Gives You a Bonus (ESLified).](https://www.nexusmods.com/skyrimspecialedition/mods/37122) | Not needed. |
 
 <details><summary>Screenshots. </summary> <img src="collectibles/dolls1.jpg"/> <img src="collectibles/dolls2.jpg"/> <img src="collectibles/dolls3.jpg"/> <img src="collectibles/dolls4.jpg"/> <img src="collectibles/dolls5.jpg"/> <img src="collectibles/dolls6.jpg"/> <img src="collectibles/dolls7.jpg"/> </details>
+
+# Quests
+
+| [Caught Red Handed - Quest Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/65708) | Mind your own business, Svana. Everyone should be allowed to practice the "Dibellan" arts free of shame! Expands this misc quest with some new... interesting outcomes.  | [Caught Red Handed - Quest Expansion ES.](https://www.nexusmods.com/skyrimspecialedition/mods/76989) | 
+
 
  ``` FINS AQUÍ INSTAL·LAT 🚧 ```
 
