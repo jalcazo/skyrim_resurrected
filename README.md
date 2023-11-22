@@ -43,7 +43,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | [Tavern AI Fix - Spanish Castellano Español](https://www.nexusmods.com/skyrimspecialedition/mods/94086) |
 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
-| [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261) | todo | Not needed. |
 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag imatges baixades a github | Not needed. |
 
 
