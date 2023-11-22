@@ -43,6 +43,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [UIExtensions.](https://www.nexusmods.com/skyrimspecialedition/mods/17561) | Adds various custom menus to Skyrim for modder use. | [UIExtensions - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/89636) |
 | [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | [Tavern AI Fix - Spanish Castellano Español](https://www.nexusmods.com/skyrimspecialedition/mods/94086) |
 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
+| [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
 
 # GUI
 
@@ -122,8 +123,8 @@ review of apocalypse
 
 # Towns / Cities / Places / Villages
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
@@ -131,9 +132,9 @@ review of apocalypse
 
 # Lighting
 
-| Mod | Spanish translation |
-|----------|----------|
-| [Enhanced Lights and FX.](https://www.nexusmods.com/skyrimspecialedition/mods/2424) | (indispensable in Skyrim, in Fallout 4 no). |
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Enhanced Lights and FX.](https://www.nexusmods.com/skyrimspecialedition/mods/2424) | (indispensable in Skyrim, in Fallout 4 no). | Not needed. |
 
 # Landscape
 
@@ -263,7 +264,7 @@ review of apocalypse
 | [Riding Animation Overhaul - RAO (OAR - DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/102881) | Not needed. |
 | [Dynamic Feminine Female Modesty Animations (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/104374) | todo | Not needed. |
 
-:tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk)
+:tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk) <br>
 :tv: [Video of Draugr One-handed Animation (DAR).](https://www.youtube.com/watch?v=RxSSYnSiIbU)
 
 # Animals / Hunting / fauna / wildlife
@@ -273,7 +274,7 @@ review of apocalypse
 | [Animallica SE - Skyrim Wildlife Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20456) | [Animallica SE - Skyrim Wildlife Overhaul Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/20590) |
 | [Fluffworks (Fluffy Animals).](https://www.nexusmods.com/skyrimspecialedition/mods/56361) | Not needed. Better looking fur in animals. |
 | [Fluffworks (Fluffy Animals) - Domestic Goat with Bell.](https://www.nexusmods.com/skyrimspecialedition/mods/64744) | Not needed. |
-| [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880) | - | - |
+| [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880) | - | [Herds SSE SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/13980) (Translation by the great and only Mansadum!) |
 
 <img src="preview/herds/1.jpg"/>
 
@@ -427,18 +428,13 @@ review of apocalypse
 <img src="preview/daedric_shrines/1.jpg"/>
 
 # Fixes
-  - [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
   - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
-  - [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438)
+  
 
 # Meshes / Models
 
   - [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
   - [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
-
-# Weather
-  - [Volumetric Mists.](https://www.nexusmods.com/skyrimspecialedition/mods/29273)
-  - [Obsidian Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/12125)
 
 # Towns and Cities
   - [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094)
