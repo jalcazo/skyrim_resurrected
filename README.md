@@ -91,7 +91,7 @@ review of apocalypse
 | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|
 | [Cathedral - 3D Rocky Shores.](https://www.nexusmods.com/skyrimspecialedition/mods/33474) |  A performance-neutral mod makes shorelines appear rocky and 3-dimensional. | Not needed. |
-| [Depths of Skyrim - An Underwater Overhaul SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26913) | todo | todo |
+| [Depths of Skyrim - An Underwater Overhaul SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26913) | todo | [Depths of Skyrim - An Underwater Overhaul SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/36347) |
 
 # Survival
 
@@ -124,6 +124,9 @@ review of apocalypse
 |----------|----------|----------|
 | [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | todo | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563) |
 | [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394) | todo | Not needed. |
+| [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772) | todo | todo |
+
+<img src="preview/daedric_shrines/1.jpg"/>
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
@@ -431,20 +434,12 @@ review of apocalypse
 
  ``` FINS AQUÍ INSTAL·LAT 🚧 ```
 
-  - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
-<img src="preview/daedric_shrines/1.jpg"/>
-
 # Fixes
   - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
   
-
 # Meshes / Models
 
-  - [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
   - [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
-
-# Towns and Cities
-  - [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094)
 
 # Adult (NSFW)
   - [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550)
