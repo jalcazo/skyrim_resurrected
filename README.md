@@ -149,8 +149,17 @@ review of apocalypse
 
 # Alchemy
 
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Apothecary - An Alchemy Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/52130) | Apothecary is a complete overhaul of Skyrim’s alchemy system designed to balance existing options while adding powerful new effects to the game. | [Apothecary - An Alchemy Overhaul - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/52197) |
 | [Harvest Overhaul Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/2398) | 3 Red Mountain Flower for pick instead of one, for instance. | [Harvest Overhaul Redone - Now with creatures Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/7139) |
+
+# Elianora Mods
+
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Breezehome.](https://www.nexusmods.com/skyrimspecialedition/mods/2829) | Mod overhauls the iconic Whiterun player home to be worthy of the thane of Whiterun. | [Breezehome Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/5651) |
+
 
 # Monsters / Creatures
 
@@ -168,8 +177,8 @@ review of apocalypse
 
 # Weather / fog / fogs / mists
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Cathedral Weathers and Seasons.](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | [Cathedral Weathers and Seasons - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86719) |
 | [Morning Fogs SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/21436) | Not needed. |
 | [Volumetric Mists.](https://www.nexusmods.com/skyrimspecialedition/mods/29273) | Not needed. |
@@ -178,8 +187,8 @@ review of apocalypse
 
 # Horses
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Blaze Of Eventide.](https://www.nexusmods.com/skyrimspecialedition/mods/3178/) (unique horse). | ``` TO BE DONE 🚧 ``` |
 | [Zim's Aenbyr Custom Horse.](https://www.nexusmods.com/skyrimspecialedition/mods/76722) (unique horse). | ``` TO BE DONE 🚧 ``` |
 | [Aeonbarr - a Unique and Summonable Horse (CH-Friendly) For SE.](https://www.nexusmods.com/skyrimspecialedition/mods/38466) (unique horse). | ``` TO BE DONE 🚧 ``` |
@@ -189,14 +198,14 @@ review of apocalypse
 
 # NPC's
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Pandorable's NPCs (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/19012) (A visual overhaul of 85 female NPCs). | [Pandorable's NPCs - Spanish Translation (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101061) |
 
 <details><summary>Screenshots example (here you have Zaria and Aduri Sarethi). </summary> <img src="npcs/pandorables/zaria_aduri-sarethi.jpg"> </details>
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Pandorable's NPCs - males.](https://www.nexusmods.com/skyrimspecialedition/mods/42043) | FALTA |
 | [Pandorable's NPCs - males 2.](https://www.nexusmods.com/skyrimspecialedition/mods/50617) (Another 60 lads). | [Pandorable's NPCs - males 2 - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/101485) |
 | [Pandorable's NPCs - Dawnguard (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files) | [Pandorable's NPCs - Dawnguard - Spanish Translation (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101056?tab=files) | 
@@ -205,36 +214,38 @@ review of apocalypse
 
 <details><summary>Screenshots example for Dibella's Blessing (here you have Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="npcs/dibellas/markarth_bothela_eola.jpg"> <img src="npcs/dibellas/hroki_marise.jpg"> <img src="npcs/dibellas/karliah_voldsea.jpg"> </details>
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [KS Hairdos SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/6817) | Not needed. |
 | [Guards Armor Replacer SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/22671) | [Guards Armor Replacer SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/31889) |
 
 # Items
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [The Elder Scrolls Online Imports.](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | ``` TODO. TO BE DONE 🚧 ``` |
 
 # Expansions / DLC sized expansions
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Skyrim Sewers 4.](https://www.nexusmods.com/skyrimspecialedition/mods/9320) | [Skyrim Sewers 4 - Spanish Translation by Zedox.](https://www.nexusmods.com/skyrimspecialedition/mods/100402 |
 | [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | [Beyond Skyrim Bruma SPANISH (by Jaume y Rubenoky).](https://www.nexusmods.com/skyrimspecialedition/mods/14508?tab=files) | a | b |
 
 # Flora
 
-| Mod | Spanish translation |
-|----------|----------|
-| [Folkvangr - Grass and Landscape Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/44899) | Not needed. |
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Folkvangr - Grass and Landscape Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/44899) | - | Not needed. |
+| [Kemper's Lavender Field Tundra (RED VERSION)](https://www.nexusmods.com/skyrimspecialedition/mods/104103) | - | Not needed. |
+| [Kempers Lavender Tundra - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/105128) | - | Not needed. |
 
 <details><summary>Screenshots example for Folkvangr </summary> <img src="flora/folkvangr1.jpg"> <img src="flora/folkvangr2.jpg"> <img src="flora/folkvangr3.jpg"> <img src="flora/folkvangr4.jpg"> </details>
 
 # Animations (OAR replaces DAR and it's fully compatible with DAR animations)
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Open Animation Replacer (OAR).](https://www.nexusmods.com/skyrimspecialedition/mods/92109) (Full backwards compatibility with DAR). | Not needed. |
 | [Animation Queue Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/82395) (required by OAR). | Not needed. |
 | [Paired Animation Improvements.](https://www.nexusmods.com/skyrimspecialedition/mods/99621) | Not needed. |
@@ -253,19 +264,23 @@ review of apocalypse
 | [Dynamic Feminine Female Modesty Animations (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/104374) | todo | Not needed. |
 
 :tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk)
-
 :tv: [Video of Draugr One-handed Animation (DAR).](https://www.youtube.com/watch?v=RxSSYnSiIbU)
 
-# Hunting / fauna / wildlife
+# Animals / Hunting / fauna / wildlife
 
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Animallica SE - Skyrim Wildlife Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20456) | [Animallica SE - Skyrim Wildlife Overhaul Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/20590) |
 | [Fluffworks (Fluffy Animals).](https://www.nexusmods.com/skyrimspecialedition/mods/56361) | Not needed. Better looking fur in animals. |
 | [Fluffworks (Fluffy Animals) - Domestic Goat with Bell.](https://www.nexusmods.com/skyrimspecialedition/mods/64744) | Not needed. |
+| [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880) | - | - |
+
+<img src="preview/herds/1.jpg"/>
 
 # Map
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Flat World Map Framework (FWMF).](https://www.nexusmods.com/skyrimspecialedition/mods/29932) (This mod changes default 3D Skyrim map to a flat one). | Not needed. Framework for all below. |
 | [Skyrim Paper Map by Caro Tuts for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/62705?tab=files) | Not needed. |
 | [Skuldafn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/73489) | ``` TODO. TO BE DONE 🚧 ``` |
@@ -404,18 +419,12 @@ review of apocalypse
 [Bards College Excavation.](https://www.nexusmods.com/skyrimspecialedition/mods/36950) | Adds a bard excavation to Dead Men's Respite after completing Tending the Flames, with 2 unique bard NPCs, fully voiced dialogue and a repeatable quest. | [Bards College Excavation - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37377) |
 | [Civil War Lines Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | ESL flagged. Adds new lines to Imperials and Stormcloaks, giving them more personality and making them react to current events, their environment, the player, their enemies, their friends and more. | [Civil War Lines Expansion - ESPAÑOL SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/80389) |
 | [Dwemer Colosseum SE](https://www.nexusmods.com/skyrimspecialedition/mods/4435) | todo | [Dwemer Colosseum SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/52158) |
+| [Helgen Reborn.](https://www.nexusmods.com/skyrimspecialedition/mods/5673) | Cool rebuiling of Helgen. | traduir jo amb veus elevenlabs ai |
 
  ``` FINS AQUÍ INSTAL·LAT 🚧 ```
 
   - [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
 <img src="preview/daedric_shrines/1.jpg"/>
-
-# Animals
-  - [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880)
-<img src="preview/herds/1.jpg"/>
-
-# GUI
-  - [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=files)
 
 # Fixes
   - [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
