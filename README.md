@@ -33,9 +33,11 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Simplifies the creation of Mod Configuration Menus. | Not needed. |
 | [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Fixes "mfg" console command and adds some more fixes. | Not needed. |
 | [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Fixes various issues with the Skyrim SE (and AE) engine. | Not needed. Remember that part2: **"Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager.** This is required or the SKSE64 plugin won't load.". In my experience, SSE Engine Fixes fixed an error with the races description in one of my modded modlists. |
-| [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | SKSE plugin which fixes auroras getting stuck when transitioning between worldspaces. | Not needed. |
+| [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | SKSE plugin which fixes auroras getting stuck when transitioning between world spaces. | Not needed. |
 | [WIDeadBodyCleanupScript Crash Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/62413) | Fixes a rare crash when saving due to wideadbodycleanupscript. | Not needed. |
 | [CritterSpawn Congestion Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | A fix for the bug spawner, clogging your script engine, causing stacks to be dumped and bugs to be spawned. | Not needed. |
+| [NPC AI Process Position Fix - NG.](https://www.nexusmods.com/skyrimspecialedition/mods/69326) | Skyrim's engine has a limitation where it can only update an NPC’s AI process position for one hour at most if that NPC is loaded in currently loaded cells (a high AI Process one). | Not needed. |
+| [High Gate Ruins Puzzle Reset Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/53643) | Fixes High Gate Ruins puzzle not resetting properly, blocking off half the dungeon on subsequent visits. | Not needed. |
 
 # GUI
 
@@ -122,6 +124,7 @@ review of apocalypse
 | [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) (required by Majestic mountains!) | todo | Not needed. |
 | [The Marshlands.](https://www.nexusmods.com/skyrimspecialedition/mods/23062) | todo | Not needed. |
 | [Immersive Shortcuts of Skyrim SE AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104702) | todo | Not needed. |
+| [Natural Waterfalls - Dragonborn.](https://www.nexusmods.com/skyrimspecialedition/mods/103170) | Natural Waterfalls. Now on Solstheim. | [Natural Waterfalls - Dragonborn - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/104871) |
 
 # Monsters / Creatures
 
@@ -305,6 +308,7 @@ review of apocalypse
 | [Deathbell HD - All-New Textures (2K-1K).](https://www.nexusmods.com/skyrimspecialedition/mods/10755) | todo |Not needed. |
 | [Better Chests.](https://www.nexusmods.com/skyrimspecialedition/mods/71680) | todo | Not needed. |
 | [Whiterun Doors and Gate 2K.](Mesh improvements and retexture of vanilla Whiterun doors and main gate - no ESP.) | todo | Not needed. |
+| [Enhanced Blood Textures.](https://www.nexusmods.com/skyrimspecialedition/mods/2357) | Esstential! | Not needed. |
 
 # Forts
 
