@@ -71,7 +71,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | See screenshots below. | [Better Blended Mushrooms SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104808) |
 | [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | See screenshots below. | Not needed. |
 | [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | See screenshots below. | Not needed. |
-| [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) |
+| [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) | [ElSopa - Training Dummies Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/102948) | todo | Not needed. |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> </details>
 
@@ -328,30 +328,34 @@ review of apocalypse
 | [Whiterun Doors and Gate 2K.](Mesh improvements and retexture of vanilla Whiterun doors and main gate - no ESP.) | todo | Not needed. |
 | [Enhanced Blood Textures.](https://www.nexusmods.com/skyrimspecialedition/mods/2357) | Esstential! | Not needed. |
 | [Better Dwemer Spider Textures.](https://www.nexusmods.com/skyrimspecialedition/mods/3049) | todo | Not needed. |
+| [CleverCharff's Bruma.](https://www.nexusmods.com/skyrimspecialedition/mods/41316) | Replaces textures for the city of Bruma in Beyond Skyrim Bruma. All exteriors and interiors within the city walls. | Not needed. |
+| [Frankly HD Thieves Guild Armors.](https://www.nexusmods.com/skyrimspecialedition/mods/19953) | - | Not needed. |
+| [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873) | This mod replaces and adds more unique and diverse textures, than the usual 3 used by the vanilla game, to spider webs, cobwebs and egg sacs placements throughout the entire game world.  | Not needed. |
+| [Frankly HD Dawnguard Armor and Weapons.](https://www.nexusmods.com/skyrimspecialedition/mods/19663) | "High resolution (4k and 2k available) retexture of Dawnguard's armor and weapons (the faction, not DLC)." | Not needed. |
+| [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699) | "High quality retexture of Miraak's gear available at 2k and 4k resolution." (and some cool outfit variants) | Not needed. |
+| [RUSTIC WINDOWS - Special Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/1937) | todo | Not needed. |
+| [RUSTIC SPRIGGAN - Special Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/18107) | todo | Not needed. |
+| [MAMMOTH.](https://www.nexusmods.com/skyrimspecialedition/mods/6127) | todo | Not needed. |
+| [RUSTIC DEATH HOUND and GARGOYLE - Special Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/17740) | todo | Not needed. |
+| [Dwemer Tech Glowmapped.](https://www.nexusmods.com/skyrimspecialedition/mods/47802) | todo | Not needed. |
 
 # Forts
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Nirvana's Fort Greymoor (ESL flagged).](https://www.nexusmods.com/skyrimspecialedition/mods/89380) | Not needed. |
 | [Fortified and Animated Fort Doors SE.](New door meshes and textures with custom animations and matching sounds for all the forts in Skyrim.) | Not needed. |
 
-# Parallax textures
-
-| Mod | Spanish translation |
-|----------|----------|
-| [The Omnibus - Terrain Complex Parallax AiO.](https://www.nexusmods.com/skyrimspecialedition/mods/83011) | Not needed. |
-
 # Dungeons
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Unique Vampire Dens SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/14762) (Adds six new, unique, hidden vampire dens in various cities around the world). | [Unique Vampire Dens SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/43686) |
 
 # Grim and Gore
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542) | [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513) |
 | [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742) | [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628) |
 
@@ -359,24 +363,24 @@ review of apocalypse
 
 # Towers and Ruins
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Ryn's Broken Tower Redoubt.](https://www.nexusmods.com/skyrimspecialedition/mods/102141) (Flagged as ESL). | [Ryn's Broken Tower Redoubt - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/102797) |
 | [Nordic Ruins of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/20382) |  ``` TODO. TO BE DONE 🚧 ``` |
 | [Tactical Valtheim.](https://www.nexusmods.com/skyrimspecialedition/mods/9101) | [Tactical Valtheim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/42326) |
 
 # Shrines and statues
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Ryn's Azura's Shrine (Flagged as ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon) | [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621) |
 
 <details><summary>Screenshots. </summary> <img src="preview/ryn_azuras/1.jpg"/> </details>
 
 # Collectibles
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Additional Hearthfire Dolls.](https://www.nexusmods.com/skyrimspecialedition/mods/46930) (Adds 41 collectible special variants of the Hearthfire doll). | [Additional Hearthfire Dolls SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/47410) |
 | [Skyrims Unique Treasures.](https://www.nexusmods.com/skyrimspecialedition/mods/5261) | [Skyrim Unique Treasures SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/48368) |
 | [New Treasure Hunt SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/19469) ((Adds 13 new hand-drawn treasure maps and treasures hidden across Skyrim SE.) | [New Treasure Hunt SSE. - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85024) |
@@ -386,7 +390,11 @@ review of apocalypse
 
 # Quests
 
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Caught Red Handed - Quest Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/65708) | Mind your own business, Svana. Everyone should be allowed to practice the "Dibellan" arts free of shame! Expands this misc quest with some new... interesting outcomes.  | [Caught Red Handed - Quest Expansion ES.](https://www.nexusmods.com/skyrimspecialedition/mods/76989) | 
+[Bards College Excavation.](https://www.nexusmods.com/skyrimspecialedition/mods/36950) | Adds a bard excavation to Dead Men's Respite after completing Tending the Flames, with 2 unique bard NPCs, fully voiced dialogue and a repeatable quest. | [Bards College Excavation - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37377) |
+| [Civil War Lines Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | ESL flagged. Adds new lines to Imperials and Stormcloaks, giving them more personality and making them react to current events, their environment, the player, their enemies, their friends and more. | [Civil War Lines Expansion - ESPAÑOL SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/80389) |
 
 
  ``` FINS AQUÍ INSTAL·LAT 🚧 ```
