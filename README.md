@@ -45,6 +45,21 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
 
+# Meshes
+
+| Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | See screenshots below. | Not needed. |
+| [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | See screenshots below. | Not needed. |
+| [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | See screenshots below. | [Better Blended Mushrooms SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104808) |
+| [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | See screenshots below. | Not needed. |
+| [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | See screenshots below. | Not needed. |
+| [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) | [ElSopa - Training Dummies Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/102948) | todo | Not needed. |
+| [JS Solitude Sewer Cover SE.](https://www.nexusmods.com/skyrimspecialedition/mods/104980) | A 3D remake of the Solitude Sewer Cover. Comes in 1k, 2k and 4k (recommended) versions. No ESP. | Not needed. |
+| [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946) | This mod adds new faces for dremora, including female ones. | todo |
+
+<details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> </details>
+
 # GUI
 
 | Mod | Brief explanation | Spanish translation |
@@ -62,21 +77,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 - Tested and discarded:
   -	Morehud. TRUEHUD IS 1000 TIMES BETTER!!!! (11/11/23 Jaume).
-
-# Meshes
-
-| Mod |  Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | See screenshots below. | Not needed. |
-| [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | See screenshots below. | Not needed. |
-| [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | See screenshots below. | [Better Blended Mushrooms SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104808) |
-| [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | See screenshots below. | Not needed. |
-| [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | See screenshots below. | Not needed. |
-| [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) | [ElSopa - Training Dummies Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/102948) | todo | Not needed. |
-| [JS Solitude Sewer Cover SE.](https://www.nexusmods.com/skyrimspecialedition/mods/104980) | A 3D remake of the Solitude Sewer Cover. Comes in 1k, 2k and 4k (recommended) versions. No ESP. | Not needed. |
-| [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946) | todo | todo |
-
-<details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> </details>
 
 # Magic / Spells
 
