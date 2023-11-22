@@ -285,7 +285,7 @@ review of apocalypse
 | [Animallica SE - Skyrim Wildlife Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20456) | [Animallica SE - Skyrim Wildlife Overhaul Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/20590) |
 | [Fluffworks (Fluffy Animals).](https://www.nexusmods.com/skyrimspecialedition/mods/56361) | Not needed. Better looking fur in animals. |
 | [Fluffworks (Fluffy Animals) - Domestic Goat with Bell.](https://www.nexusmods.com/skyrimspecialedition/mods/64744) | Not needed. |
-| [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880) | - | [Herds SSE SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/13980) (Translation by the great and only Mansadum!) |
+| [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880) | Adds dynamic herders with their animals and camps to Skyrim, purchasable & milkable cows & goats, and more. | [Herds SSE SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/13980) (Translation by the great and only Mansadum!) |
 
 <img src="preview/herds/1.jpg"/>
 
@@ -438,7 +438,7 @@ review of apocalypse
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550) | todo | todo |
+| [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550) | todo | [PsBoss's Statuettes Ver. Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95066) |
 
 <details><summary>Screenshots.</summary> <img src="preview/statuettes/5.jpg"/> </details>
 
