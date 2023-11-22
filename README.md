@@ -126,7 +126,7 @@ review of apocalypse
 | [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394) | todo | Not needed. |
 | [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772) | todo | todo |
 
-<img src="preview/daedric_shrines/1.jpg"/>
+<details><summary>Screenshots of the Daedrid Shrines.</summary> <img src="religion/daedric_shrines/1.jpg"/> <img src="religion/daedric_shrines/2.jpg"/> <img src="religion/daedric_shrines/3.jpg"/> <img src="religion/daedric_shrines/4.jpg"/> <img src="religion/daedric_shrines/5.jpg"/> <img src="religion/daedric_shrines/6.jpg"/> </details>
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
