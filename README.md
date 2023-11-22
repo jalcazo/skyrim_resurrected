@@ -375,6 +375,7 @@ review of apocalypse
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
 | [Unique Vampire Dens SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/14762) (Adds six new, unique, hidden vampire dens in various cities around the world). | [Unique Vampire Dens SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/43686) |
+| [Dungeons - Revisited.](https://www.nexusmods.com/skyrimspecialedition/mods/51798) | todo | todo |
 
 # Grim and Gore
 
@@ -442,17 +443,10 @@ review of apocalypse
 # Sea and Water
   - [Depths of Skyrim - An Underwater Overhaul SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26913)
 
-# Dungeons
-  - [Dungeons - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798)
 
 # Adult (NSFW)
   - [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550)
 <img src="preview/statuettes/5.jpg"/>
   - [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198)
-  - 
 
-# Spanish translations (if you want to play it with spanish texts & voices):
-
-    - [Herds SSE Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/13980)
-  - [Unofficial Skyrim Special Edition Patch - Castellano con voces - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/73323)
   
