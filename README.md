@@ -44,6 +44,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | [Tavern AI Fix - Spanish Castellano Español](https://www.nexusmods.com/skyrimspecialedition/mods/94086) |
 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
+| [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261) | todo | Not needed. |
 
 # Meshes
 
@@ -432,12 +433,12 @@ review of apocalypse
 | [Civil War Lines Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | ESL flagged. Adds new lines to Imperials and Stormcloaks, giving them more personality and making them react to current events, their environment, the player, their enemies, their friends and more. | [Civil War Lines Expansion - ESPAÑOL SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/80389) |
 | [Dwemer Colosseum SE](https://www.nexusmods.com/skyrimspecialedition/mods/4435) | todo | [Dwemer Colosseum SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/52158) |
 | [Helgen Reborn.](https://www.nexusmods.com/skyrimspecialedition/mods/5673) | Cool rebuiling of Helgen. | traduir jo amb veus elevenlabs ai |
-
- ``` FINS AQUÍ INSTAL·LAT 🚧 ```
-
-# Fixes
-  - [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
-  
+ 
 # Adult (NSFW)
-  - [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550)
-<img src="preview/statuettes/5.jpg"/>
+
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550) | todo | todo |
+
+<details><summary>Screenshots.</summary> <img src="preview/statuettes/5.jpg"/> </details>
+
