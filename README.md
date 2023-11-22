@@ -79,24 +79,30 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 # Magic / Spells
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Apocalypse - Magic of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1090) | [Apocalypse - Magic of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/29642) |
 | [Inferno - Fire Effects Redux.](https://www.nexusmods.com/skyrimspecialedition/mods/29316) | Spiritual successor to the original Ultimate HD Fire Effects﻿ mod with improved meshes and textures! | Not needed. |
 
 review of apocalypse
 
-# Water
+# Sea, shores, rivers and water
+
+| Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Cathedral - 3D Rocky Shores.](https://www.nexusmods.com/skyrimspecialedition/mods/33474) |  A performance-neutral mod makes shorelines appear rocky and 3-dimensional. | Not needed. |
+| [Depths of Skyrim - An Underwater Overhaul SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26913) | todo | todo |
 
 # Survival
 
+| Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Campfire - Complete Camping System.](https://www.nexusmods.com/skyrimspecialedition/mods/667) | [Campfire - Complete Camping System - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1676) |
 
 # Combat
 
-| Mod | Spanish translation |
-|----------|----------|
+| Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|
 | [Valhalla Combat.](https://www.nexusmods.com/skyrimspecialedition/mods/64741) | Not needed. |
 | [Locational Damage(SKSE Plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/46932) | Not needed. ((This mod makes it possible to do extra damage and stagger etc. effect depending on the body part when the attack hits the actor. No ESP file.) |
 | | [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." 
@@ -440,13 +446,6 @@ review of apocalypse
 # Towns and Cities
   - [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094)
 
-# Sea and Water
-  - [Depths of Skyrim - An Underwater Overhaul SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26913)
-
-
 # Adult (NSFW)
   - [PsBoss's Statuettes](https://www.nexusmods.com/skyrimspecialedition/mods/66550)
 <img src="preview/statuettes/5.jpg"/>
-  - [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198)
-
-  
