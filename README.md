@@ -17,7 +17,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Obviously we want our Steam achievements back!<br> <img src="achievements/achievements.png"> | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
 | [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. | Not needed. |
 | [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Allow mods filtering the inventory by keyword. | Not needed. |
-| [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Distributes keywords to weapons/armor/magic effects/ingestibles,etc..  | Not needed. |
+| [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Distributes keywords to different objects.  | Not needed. |
 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Allows Papyrus scripts to be aware and also allows other DLLs to support zmerge merges.  | Not needed. |
 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | Inserts interesting information, including item icons, into inventory interface. | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
@@ -39,13 +39,21 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [NPC AI Process Position Fix - NG.](https://www.nexusmods.com/skyrimspecialedition/mods/69326) | Skyrim's engine has a limitation where it can only update an NPC’s AI process position for one hour at most if that NPC is loaded in currently loaded cells (a high AI Process one). | Not needed. |
 | [High Gate Ruins Puzzle Reset Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/53643) | Fixes High Gate Ruins puzzle not resetting properly, blocking off half the dungeon on subsequent visits. | Not needed. |
 | [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Collection of fixes, tweaks, and performance improvements for Skyrim's script engine. 100% configurable. Install/Uninstall anytime. | Not needed. |
-| [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | - | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
 | [UIExtensions.](https://www.nexusmods.com/skyrimspecialedition/mods/17561) | Adds various custom menus to Skyrim for modder use. | [UIExtensions - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/89636) |
 | [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | [Tavern AI Fix - Spanish Castellano Español](https://www.nexusmods.com/skyrimspecialedition/mods/94086) |
 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
 | [Bug Fixes SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33261) | todo | Not needed. |
 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag imatges baixades a github | Not needed. |
+
+
+# Armor, armors
+
+| Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
+| [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | - | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
+| [Guards Armor Replacer SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/22671) | [Guards Armor Replacer SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/31889) |
 
 # Meshes
 
@@ -235,7 +243,6 @@ review of apocalypse
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
 | [KS Hairdos SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/6817) | Not needed. |
-| [Guards Armor Replacer SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/22671) | [Guards Armor Replacer SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/31889) |
 
 # Items
 
