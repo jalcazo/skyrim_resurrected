@@ -72,6 +72,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | See screenshots below. | Not needed. |
 | [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | See screenshots below. | Not needed. |
 | [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) | [ElSopa - Training Dummies Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/102948) | todo | Not needed. |
+| [JS Solitude Sewer Cover SE.](https://www.nexusmods.com/skyrimspecialedition/mods/104980) | A 3D remake of the Solitude Sewer Cover. Comes in 1k, 2k and 4k (recommended) versions. No ESP. | Not needed. |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> </details>
 
@@ -80,6 +81,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Mod | Spanish translation |
 |----------|----------|
 | [Apocalypse - Magic of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1090) | [Apocalypse - Magic of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/29642) |
+| [Inferno - Fire Effects Redux.](https://www.nexusmods.com/skyrimspecialedition/mods/29316) | Spiritual successor to the original Ultimate HD Fire Effects﻿ mod with improved meshes and textures! | Not needed. |
 
 review of apocalypse
 
@@ -108,6 +110,13 @@ review of apocalypse
 | [Security Overhaul SKSE - Regional Locks.](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | todo | Not needed. |
 | [Hunters Not Bandits. (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/1547) | (NPC's will not use taunts or insults when fighting animals. Especially hunters will behave in a more realistic manner, as well as fixing odd behaviors where enemies wish you a good morning and other unfitting dialogues right after they killed you.) | [Hunters Not Bandits Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/6028)
 [Favorite Misc Items.](https://www.nexusmods.com/skyrimspecialedition/mods/42750) | SKSE plugin that allows you to favorite books/soul gems/keys and other misc items. | Not needed. |
+
+# Religion
+
+| Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|
+| [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | todo | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563) |
+| [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394) | todo | Not needed. |
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
@@ -316,7 +325,6 @@ review of apocalypse
 | [Ordinator perks for NPCs.](https://www.nexusmods.com/skyrimspecialedition/mods/42022) | todo | Not needed. |
 | [Ordinator - Perks of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/1137) | todo | [Ordinator - Perks of Skyrim SPANISH TRANSLATION.](https://www.nexusmods.com/skyrimspecialedition/mods/30246) |
 | [Reflection - Level Up Messages.](https://www.nexusmods.com/skyrimspecialedition/mods/1188) | todo | [Reflection - Level Up Messages Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/58831) |
-| [Wintersun - Faiths of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/22506) | todo | [Wintersun - Faiths of Skyrim Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/22563) |
 
 # Textures
 
@@ -395,7 +403,7 @@ review of apocalypse
 | [Caught Red Handed - Quest Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/65708) | Mind your own business, Svana. Everyone should be allowed to practice the "Dibellan" arts free of shame! Expands this misc quest with some new... interesting outcomes.  | [Caught Red Handed - Quest Expansion ES.](https://www.nexusmods.com/skyrimspecialedition/mods/76989) | 
 [Bards College Excavation.](https://www.nexusmods.com/skyrimspecialedition/mods/36950) | Adds a bard excavation to Dead Men's Respite after completing Tending the Flames, with 2 unique bard NPCs, fully voiced dialogue and a repeatable quest. | [Bards College Excavation - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37377) |
 | [Civil War Lines Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | ESL flagged. Adds new lines to Imperials and Stormcloaks, giving them more personality and making them react to current events, their environment, the player, their enemies, their friends and more. | [Civil War Lines Expansion - ESPAÑOL SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/80389) |
-
+| [Dwemer Colosseum SE](https://www.nexusmods.com/skyrimspecialedition/mods/4435) | todo | [Dwemer Colosseum SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/52158) |
 
  ``` FINS AQUÍ INSTAL·LAT 🚧 ```
 
