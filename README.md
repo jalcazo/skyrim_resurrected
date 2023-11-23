@@ -193,6 +193,7 @@ review of apocalypse
 | [Absolute Arachnophobia.](https://www.nexusmods.com/skyrimspecialedition/mods/24058) | Replaces the vanilla Frostbite Spider skeleton with a custom skeleton, transforming the Spiders into Arachnophobic nightmares! No ESP. | Not needed. |
 | [Draugr Warhounds - Deadly Draugr Companions.](https://www.nexusmods.com/skyrimspecialedition/mods/82350) | todo | todo |
 | [Haugbui - A Draugr Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/26188) | A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies. | [Haugbui - A Draugr Overhaul SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/105396/) |
+| [Giants Overhaul- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/98581) | Complete overhaul of the vanilla Giants, diversifying the appearance of the males, and adding several variants of Giantesses and also a juvenile version. It never made sense that all Giants were male and looked exactly the same, so this mod is here to solve this problem once and for all. |[Giants Overhaul (se-ae) SPANISH by Jaume](https://www.nexusmods.com/skyrimspecialedition/mods/105400/) |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
