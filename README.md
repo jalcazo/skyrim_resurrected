@@ -192,6 +192,7 @@ review of apocalypse
 | [Falmer Overhaul - New models and textures.](https://www.nexusmods.com/skyrimspecialedition/mods/86338) | Not needed. |
 | [Absolute Arachnophobia.](https://www.nexusmods.com/skyrimspecialedition/mods/24058) | Replaces the vanilla Frostbite Spider skeleton with a custom skeleton, transforming the Spiders into Arachnophobic nightmares! No ESP. | Not needed. |
 | [Draugr Warhounds - Deadly Draugr Companions.](https://www.nexusmods.com/skyrimspecialedition/mods/82350) | todo | todo |
+| [Haugbui - A Draugr Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/26188) | A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies. | [Haugbui - A Draugr Overhaul SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/105396/) |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
