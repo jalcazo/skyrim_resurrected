@@ -389,6 +389,7 @@ review of apocalypse
 |----------|----------|----------|
 | [Unique Vampire Dens SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/14762) (Adds six new, unique, hidden vampire dens in various cities around the world). | [Unique Vampire Dens SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/43686) |
 | [Dungeons - Revisited.](https://www.nexusmods.com/skyrimspecialedition/mods/51798) | todo | todo |
+| Bleak Falls Barrow Revisited. | ONLY INSTALL THE SPANISH VERSION! If you install both, and overwrite with spanish then the door name is incorrect. Jaume 14/11/23. You only need this one. | [Bleak falls barrow - Revisited-Spanish by xlwarrior.](https://www.nexusmods.com/skyrimspecialedition/mods/43163) |
 
 # Grim and Gore
 
