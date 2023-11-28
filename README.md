@@ -439,6 +439,9 @@ review of apocalypse
 | [Civil War Lines Expansion.](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | ESL flagged. Adds new lines to Imperials and Stormcloaks, giving them more personality and making them react to current events, their environment, the player, their enemies, their friends and more. | [Civil War Lines Expansion - ESPAÑOL SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/80389) |
 | [Dwemer Colosseum SE](https://www.nexusmods.com/skyrimspecialedition/mods/4435) | todo | [Dwemer Colosseum SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/52158) |
 | [Helgen Reborn.](https://www.nexusmods.com/skyrimspecialedition/mods/5673) | Cool rebuiling of Helgen. | traduir jo amb veus elevenlabs ai |
+| [Boethiah for Good Guys.](https://www.nexusmods.com/skyrimspecialedition/mods/329) | Complete Boethiah's quest without betraying a friend. | todo |
+| [Dark Brotherhood for Good Guys.](https://www.nexusmods.com/skyrimspecialedition/mods/519) | Ever wanted to be a "good guy" and still go through the Dark Brotherhood quest line? | [Dark Brotherhood For Good Guys - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/44817) |
+| [The Paarthurnax Dilemma.](https://www.nexusmods.com/skyrimspecialedition/mods/365) | Small expansion on the quest the Blades give you concerning Paarthurnax. | [The Paarthurnax Dilemma (SSE) en Castellano.](https://www.nexusmods.com/skyrimspecialedition/mods/39876) Con este mod de inmersión podremos juzgar y decidir que hacer con la vida de Paarthurnax a través de una misión en la que el Sangre de Dragón deberá asumir las consecuencias, sean buenas o malas. |
  
 # Adult (NSFW)
 
