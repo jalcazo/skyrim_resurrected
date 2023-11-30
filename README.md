@@ -54,9 +54,12 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
-| [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | - | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
-| [Guards Armor Replacer SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/22671) | [Guards Armor Replacer SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/31889) |
+| 1 | [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
+| 2 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Fixes bugs and inconsistencies for Skyrim's weapons, armor, clothing, jewelry, and clutter items. | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
+| 3 | [Sons of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/68656) | Replacer for guards of all cities. | [Sons of Skyrim - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86018) | 4 | [Sons of Skyrim desaturated **4k textures**]( | Pick 4k textures. Pick Survival Warm keyword. | Not needed. |
+| Total in this category: | 4 mods | | |
+
+<details><summary>Screenshots examples.</summary> <img src="armor/yalda.jpg"> <img src="armor/sons_of_skyrim1.jpg"> <img src="armor/sons_of_skyrim2.jpg"> <img src="armor/sons_of_skyrim3.jpg"> <img src="armor/sons_of_skyrim4.jpg"> <img src="armor/sons_of_skyrim5.jpg"> <img src="armor/sons_of_skyrim6.jpg"> <img src="armor/sons_of_skyrim7.jpg"> <img src="armor/sons_of_skyrim8.jpg"> <img src="armor/sons_of_skyrim9.jpg"> <img src="armor/sons_of_skyrim10.jpg"> <img src="armor/sons_of_skyrim11.jpg"> </details>
 
 # Meshes
 
