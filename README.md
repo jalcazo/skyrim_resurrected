@@ -54,9 +54,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
-| [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | - | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
-| [Guards Armor Replacer SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/22671) | [Guards Armor Replacer SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/31889) |
+| 1 | [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
+| 2 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | - | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
+| 3 | [Guards Armor Replacer SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/22671) | [Guards Armor Replacer SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/31889) |
+| Total in this category: | 3 mods | | |
 
 # Meshes
 
