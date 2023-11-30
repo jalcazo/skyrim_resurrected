@@ -48,7 +48,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 18 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
 | Total in this category: | 18 mods | | |
 
-imatges baixades a github
+<img src="fixes/recursion_monitor1.jpg"> <img src="fixes/recursion_monitor2.jpg">
 
 # Armor, armors
 
