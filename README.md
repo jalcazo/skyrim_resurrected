@@ -129,7 +129,7 @@ review of apocalypse
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| 1 | [Scared of Shootings - NPCs react to aiming bows](https://www.nexusmods.com/skyrimspecialedition/mods/105622) | NPCs will react to aiming bows and crossbows by complaining, fleeing, attacking, and reporting you to the guards. :tv: [Reviewed here by Master Cheesey.](https://www.youtube.com/watch?v=J0388aeYHng) | **Uses vanilla voices**. Not needed. |
+| 1 | [Scared of Shootings - NPCs react to aiming bows](https://www.nexusmods.com/skyrimspecialedition/mods/105622) | NPCs will react to aiming bows and crossbows by complaining, fleeing, attacking, and reporting you to the guards. <br> :tv: [Reviewed here by Master Cheesey.](https://www.youtube.com/watch?v=J0388aeYHng) | **Uses vanilla voices**. Not needed. |
 | 2 | [Wet and Cold SE.](https://www.nexusmods.com/skyrimspecialedition/mods/644/) | todo | [Wet and Cold - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1448) |
 | 3 | [Security Overhaul SKSE - Lock Variations.](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | todo | Not needed. |
 | 4 | [Security Overhaul SKSE - Regional Locks.](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | todo | Not needed. |
