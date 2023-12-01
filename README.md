@@ -46,7 +46,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 16 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 | 17 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
 | 18 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
-| Total in this category: | 18 mods | | |
+| 19 | [Delete Hawk Nests.](https://www.nexusmods.com/skyrimspecialedition/mods/105994) | Deletes the floating hawk nests caused by forest mods by replacing the mesh. No world edits. | Not needed. |
+| Total in this category: | 19 mods | | |
 
 <img src="fixes/recursion_monitor1.jpg"> <img src="fixes/recursion_monitor2.jpg">
 
@@ -386,6 +387,7 @@ review of apocalypse
 | [MAMMOTH.](https://www.nexusmods.com/skyrimspecialedition/mods/6127) | todo | Not needed. |
 | [RUSTIC DEATH HOUND and GARGOYLE - Special Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/17740) | todo | Not needed. |
 | [Dwemer Tech Glowmapped.](https://www.nexusmods.com/skyrimspecialedition/mods/47802) | todo | Not needed. |
+| [Kanjs - Master Spell Tomes.](https://www.nexusmods.com/skyrimspecialedition/mods/105990) | Remeshes and retexture of The Master Spell Tomes up to 4K with some animated emissive light. | Not needed. |
 
 # Forts
 
