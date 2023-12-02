@@ -46,34 +46,41 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 16 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 | 17 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
 | 18 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
-| Total in this category: | 18 mods | | |
+| 19 | [Delete Hawk Nests.](https://www.nexusmods.com/skyrimspecialedition/mods/105994) | Deletes the floating hawk nests caused by forest mods by replacing the mesh. No world edits. | Not needed. |
+| 20 | [Light Limit Fix. ](https://www.nexusmods.com/skyrimspecialedition/mods/99548) | [Requires Community Shaders.], [requires d3dcompiler](https://www.nexusmods.com/skyrimspecialedition/mods/31963) Unlimited dynamic light sources such as torches and magic lights.
+Doubled the portal-strict light limit (7 to 15). Split meshes are no longer required. Contact shadows for all lights. Shadows for first-person torches and light spells. |
+| 21 | [Community Shaders.](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. Also fixes bugs. [Requires Auto Parallax.]([Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473)) | SKSE plugin which automatically disables parallax on meshes that have missing height textures or conflict with single-pass shaders. | Not needed. |
+| 22 | [Auto Parallax.](https://www.nexusmods.com/skyrimspecialedition/mods/79473) | todo | Not needed. |
+| 23 | [d3dcompiler.](https://www.nexusmods.com/skyrimspecialedition/mods/31963) | Injects fixed parallax shaders into Skyrim SE/AE. **MANUAL INSTALLATION** | Not needed. It's just a .dll in the folder of the game. |
+| Total in this category: | 23 mods | | |
 
 <img src="fixes/recursion_monitor1.jpg"> <img src="fixes/recursion_monitor2.jpg">
 
 # Armor, armors
 
-| Mod |  Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
 | 1 | [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
 | 2 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Fixes bugs and inconsistencies for Skyrim's weapons, armor, clothing, jewelry, and clutter items. | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
-| 3 | [Sons of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/68656) | Replacer for guards of all cities. | [Sons of Skyrim - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86018) | 4 | [Sons of Skyrim desaturated **4k textures**]( | Pick 4k textures. Pick Survival Warm keyword. | Not needed. |
+| 3 | [Sons of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/68656) | Replacer for guards of all cities. | [Sons of Skyrim - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86018) | | 4 | [Sons of Skyrim desaturated **4k textures**]( | Pick 4k textures. Pick the Survival Warm keyword. | Not needed. |
 | Total in this category: | 4 mods | | |
 
 <details><summary>Screenshots examples.</summary> <img src="armor/yalda.jpg"> <img src="armor/sons_of_skyrim1.jpg"> <img src="armor/sons_of_skyrim2.jpg"> <img src="armor/sons_of_skyrim3.jpg"> <img src="armor/sons_of_skyrim4.jpg"> <img src="armor/sons_of_skyrim5.jpg"> <img src="armor/sons_of_skyrim6.jpg"> <img src="armor/sons_of_skyrim7.jpg"> <img src="armor/sons_of_skyrim8.jpg"> <img src="armor/sons_of_skyrim9.jpg"> <img src="armor/sons_of_skyrim10.jpg"> <img src="armor/sons_of_skyrim11.jpg"> </details>
 
 # Meshes
 
-| Mod |  Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | See screenshots below. | Not needed. |
-| [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | See screenshots below. | Not needed. |
-| [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | See screenshots below. | [Better Blended Mushrooms SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104808) |
-| [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | See screenshots below. | Not needed. |
-| [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | See screenshots below. | Not needed. |
-| [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) | [ElSopa - Training Dummies Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/102948) | todo | Not needed. |
-| [JS Solitude Sewer Cover SE.](https://www.nexusmods.com/skyrimspecialedition/mods/104980) | A 3D remake of the Solitude Sewer Cover. Comes in 1k, 2k and 4k (recommended) versions. No ESP. | Not needed. |
-| [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946) | This mod adds new faces for dremora, including female ones. | todo |
-| [ALT - Barrels.](https://www.nexusmods.com/skyrimspecialedition/mods/95475) | todo | [ALT - Barrels - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/95824) |
+| Number | Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | See screenshots below. | Not needed. |
+| 2 | [Thrones of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | See screenshots below. | Not needed. |
+| 3 | [Renthal's waterwheel HD.](https://www.nexusmods.com/skyrimspecialedition/mods/26567) | See screenshots below. | Not needed. |
+| 4 | [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | See screenshots below. | Not needed. |
+| 5 | [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) | [ElSopa - Training Dummies Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/102948) | todo | Not needed. |
+| 6 | [JS Solitude Sewer Cover SE.](https://www.nexusmods.com/skyrimspecialedition/mods/104980) | A 3D remake of the Solitude Sewer Cover. Comes in 1k, 2k, and 4k (recommended) versions. No ESP. | Not needed. |
+| 7 | [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946) | This mod adds new faces for Dremora, including female ones. | todo |
+| 8 | [Sconces of Skyrim - Markarth Braziers Improved.](https://www.nexusmods.com/skyrimspecialedition/mods/67386) | Requires SMIM. | Not needed. |
+| 9 | [SMIM - Static Mesh Improvement Mod.](https://www.nexusmods.com/skyrimspecialedition/mods/659) | Install the EVERYTHING version. | Not needed. |
+| Total in this category: | 7 mods | | |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> </details>
 
@@ -126,15 +133,16 @@ review of apocalypse
 | | [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. Furthermore: "Original mod is not required." 
 | [Dynamic Impact - Slash Effects X.](https://www.nexusmods.com/skyrimspecialedition/mods/86071) | Not needed. |
 
-# Immersion / Misc
+# Immersion
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Wet and Cold SE.](https://www.nexusmods.com/skyrimspecialedition/mods/644/) | todo | [Wet and Cold - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1448) |
-| [Security Overhaul SKSE - Lock Variations.](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | todo | Not needed. |
-| [Security Overhaul SKSE - Regional Locks.](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | todo | Not needed. |
-| [Hunters Not Bandits. (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/1547) | Hunters will behave in a more realistic manner, as well as fixing odd behaviors where enemies wish you a good morning and other unfitting dialogues right after they killed you. | [Hunters Not Bandits Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/6028)
-[Favorite Misc Items.](https://www.nexusmods.com/skyrimspecialedition/mods/42750) | SKSE plugin that allows you to favorite books/soul gems/keys and other misc items. | Not needed. |
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Scared of Shootings - NPCs react to aiming bows](https://www.nexusmods.com/skyrimspecialedition/mods/105622) | NPCs will react to aiming bows and crossbows by complaining, fleeing, attacking, and reporting you to the guards. <br> :tv: [Reviewed here by Master Cheesey.](https://www.youtube.com/watch?v=J0388aeYHng) | **Uses vanilla voices**. Not needed. |
+| 2 | [Wet and Cold SE.](https://www.nexusmods.com/skyrimspecialedition/mods/644/) | todo | [Wet and Cold - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/1448) |
+| 3 | [Security Overhaul SKSE - Lock Variations.](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | todo | Not needed. |
+| 4 | [Security Overhaul SKSE - Regional Locks.](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | todo | Not needed. |
+| 5 | [Hunters Not Bandits. (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/1547) | Hunters will behave in a more realistic manner, as well as fixing odd behaviors where enemies wish you a good morning and other unfitting dialogues right after they killed you. | [Hunters Not Bandits Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/6028)
+| 6 | [Favorite Misc Items.](https://www.nexusmods.com/skyrimspecialedition/mods/42750) | SKSE plugin that allows you to favorite books/soul gems/keys and other misc items. | Not needed. |
 
 # Religion
 
@@ -150,12 +158,16 @@ review of apocalypse
 
 # Towns / Cities / Places / Villages
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
-| [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
-| [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
-| [The Great Town of Karthwasten SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33032) | [The Great Town of Karthwasten SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41399) |
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
+| 2 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
+| 3 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
+| 4 | [The Great Town of Karthwasten SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33032) | [The Great Town of Karthwasten SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41399) |
+| 5 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) |
+| Total in this category: | 5 mods | | |
+
+<details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
 # Lighting
 
@@ -279,27 +291,24 @@ review of apocalypse
 
 # Animations (OAR replaces DAR and it's fully compatible with DAR animations)
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Open Animation Replacer (OAR).](https://www.nexusmods.com/skyrimspecialedition/mods/92109) (Full backwards compatibility with DAR). | Not needed. |
-| [Animation Queue Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/82395) (required by OAR). | Not needed. |
-| [Paired Animation Improvements.](https://www.nexusmods.com/skyrimspecialedition/mods/99621) | Not needed. |
-| [EVG Conditional Idles (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | [EVG Conditional Idles - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/66859) |
-| [Male Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/89225) | Not needed. |
-| [Female Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/85073) | Not needed. |
-| [Gesture Animation Remix (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Not needed. ("Adds over 50 dialogue gesture animation variants according to NPCs personality, role in society and by armor type. Works with custom followers and NPC from mods as well as vanilla"). |
-| [Conditional tavern cheering (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Not needed. |
-| [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description) | Not needed. |
-| [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Not needed. |
-| [Draugr One-handed Animation (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/74685) | Not needed. |
-| [Comprehensive First Person Animation Overhaul - CFPAO.](https://www.nexusmods.com/skyrimspecialedition/mods/87169) | Not needed. |
-| [Customizable Faster Woodcutting Animation - OAR or DAR.](https://www.nexusmods.com/skyrimspecialedition/mods/73857) | Not needed. "Speeds up the wood chopping animation. 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90% faster versions. Chopping sound is played in the correct frames.)" |
-| [Dynamic Torch Idle Animations (OAR).](https://www.nexusmods.com/skyrimspecialedition/mods/103080) |  
-| [Riding Animation Overhaul - RAO (OAR - DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/102881) | Not needed. |
-| [Dynamic Feminine Female Modesty Animations (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/104374) | todo | Not needed. |
-
-:tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk) <br>
-:tv: [Video of Draugr One-handed Animation (DAR).](https://www.youtube.com/watch?v=RxSSYnSiIbU)
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Open Animation Replacer (OAR).](https://www.nexusmods.com/skyrimspecialedition/mods/92109) | Full backward compatibility with DAR. | Not needed. |
+| 2 | [Animation Queue Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/82395) (required by OAR). | todo | Not needed. |
+| 3 | [Paired Animation Improvements.](https://www.nexusmods.com/skyrimspecialedition/mods/99621) | todo | Not needed. |
+| 4 | [EVG Conditional Idles (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | :tv: [Video review of EVG Conditional Idles.](https://www.youtube.com/watch?v=XgtfmLYdNOk) |[EVG Conditional Idles - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/66859) |
+| 5 | [Male Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/89225) | todo | Not needed. |
+| 6 | [Female Player Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/85073) | todo | Not needed. |
+| 7 | [Gesture Animation Remix (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Adds over 50 dialogue gesture animation variants according to NPC's personality, role in society, and by armor type. Works with custom followers and NPC from mods as well as vanilla. | Not needed. |
+| 8 | [Conditional tavern cheering (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | todo | Not needed. |
+| 9 | [Dynamic Swimming (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/34853?tab=description) | todo | Not needed. |
+| 10 | [Lively Children Animations (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | todo | Not needed. |
+| 11 | [Draugr One-handed Animation (DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/74685) | :tv: [Video of Draugr One-handed Animation (DAR).](https://www.youtube.com/watch?v=RxSSYnSiIbU) | Not needed. |
+| 12 | [Comprehensive First Person Animation Overhaul - CFPAO.](https://www.nexusmods.com/skyrimspecialedition/mods/87169) | todo | Not needed. |
+| 13 | [Customizable Faster Woodcutting Animation - OAR or DAR.](https://www.nexusmods.com/skyrimspecialedition/mods/73857) | todo | Not needed. "Speeds up the wood chopping animation. 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90% faster versions. Chopping sound is played in the correct frames.)" |
+| 14 | [Dynamic Torch Idle Animations (OAR).](https://www.nexusmods.com/skyrimspecialedition/mods/103080) | todo | Not needed. | 
+| 15 | [Riding Animation Overhaul - RAO (OAR - DAR).](https://www.nexusmods.com/skyrimspecialedition/mods/102881) | todo | Not needed. |
+| 16 | [Dynamic Feminine Female Modesty Animations (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/104374) | todo | Not needed. |
 
 # Map
 
@@ -333,7 +342,8 @@ review of apocalypse
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
 | [Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/60805) (needs [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)). | Used by a lot of mods to swap some items in the world. | Not needed. |
-| [Destructible Skyrim - Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/77568) | "Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!" | [Destructible Skyrim - Base Object Swapper SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104800) |
+| 1 | [Better Blended Mushrooms.](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | See screenshots below. | [Better Blended Mushrooms SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104808) |
+| 2 | [Destructible Skyrim - Base Object Swapper.](https://www.nexusmods.com/skyrimspecialedition/mods/77568) | "Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!" | [Destructible Skyrim - Base Object Swapper SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104800) |
 | [Hawk Patch - Base Object Swapper Remake.](https://www.nexusmods.com/skyrimspecialedition/mods/71546?tab=description) | Makes all hawks that can't be shot shootable instead. | Not needed. |
 | [Creation Club Basket Distribution - Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/74577) | Integrates the baskets from Bloodchill Manor, Hendraheim, Myrwatch Tower, Shadowfoot Sanctum and Tundra Homestead to Skyrim holds. Also includes additional baskets to cover the variations that doesn't exist in the original Cleation Club plugins. | Not needed. |
 | Bruma Clutter for Skyrim Imperials - Base Object Swapper (BOS).](https://www.nexusmods.com/skyrimspecialedition/mods/74178) | "Beyond Skyrim Bruma includes many imperial themed items that you can't find in Skyrim without an integration patch. This mod replaces many items from Skyrim for their Bruma counterparts only in imperial houses. Now you can feel like imperials have their own culture and that they're not just smaller nords." | Not needed. |
@@ -346,6 +356,7 @@ review of apocalypse
 | [JK's Dragonsreach.](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Famous palace in Whiterun. | [JK's Dragonsreach - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37336) |
 | [JK's Warmaiden's.](https://www.nexusmods.com/skyrimspecialedition/mods/33685) | Famous shop in Whiterun. | [JK's Warmaiden's - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37364) |
 | [Snazzy Interiors - Vittoria Vici's House.](https://www.nexusmods.com/skyrimspecialedition/mods/100475) | Complete overhaul of Vittoria Vici's house in Solitude. ESL flagged. | [Snazzy Interiors - Vittoria Vici's House - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/102908) |
+| [JK's Arnleif and Sons Trading Company.](https://www.nexusmods.com/skyrimspecialedition/mods/54166) | Markarth shop overhaul. | [JK's Arnleif and Sons Trading Company - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85994) |
 
 # Audio / SFX
 
@@ -385,6 +396,8 @@ review of apocalypse
 | [MAMMOTH.](https://www.nexusmods.com/skyrimspecialedition/mods/6127) | todo | Not needed. |
 | [RUSTIC DEATH HOUND and GARGOYLE - Special Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/17740) | todo | Not needed. |
 | [Dwemer Tech Glowmapped.](https://www.nexusmods.com/skyrimspecialedition/mods/47802) | todo | Not needed. |
+| [Kanjs - Master Spell Tomes.](https://www.nexusmods.com/skyrimspecialedition/mods/105990) | Remeshes and retexture of The Master Spell Tomes up to 4K with some animated emissive light. | Not needed. |
+| [Skyland - Markarth.](https://www.nexusmods.com/skyrimspecialedition/mods/64785) | Complete texture overhaul of high-quality textures featuring dark old stone carvings, metalwork, dungeons, and more. Using real-world references of Mayan ruins and old Nordic carvings, this is the most realistic Markarth texture overhaul. | Not needed. |
 
 # Forts
 
