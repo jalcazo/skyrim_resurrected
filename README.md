@@ -395,6 +395,7 @@ review of apocalypse
 | [RUSTIC DEATH HOUND and GARGOYLE - Special Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/17740) | todo | Not needed. |
 | [Dwemer Tech Glowmapped.](https://www.nexusmods.com/skyrimspecialedition/mods/47802) | todo | Not needed. |
 | [Kanjs - Master Spell Tomes.](https://www.nexusmods.com/skyrimspecialedition/mods/105990) | Remeshes and retexture of The Master Spell Tomes up to 4K with some animated emissive light. | Not needed. |
+| [Skyland - Markarth.](https://www.nexusmods.com/skyrimspecialedition/mods/64785) | Complete texture overhaul of high-quality textures featuring dark old stone carvings, metalwork, dungeons, and more. Using real-world references of Mayan ruins and old Nordic carvings, this is the most realistic Markarth texture overhaul. | Not needed. |
 
 # Forts
 
