@@ -80,6 +80,7 @@ Doubled the portal-strict light limit (7 to 15). Split meshes are no longer requ
 | 7 | [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946) | This mod adds new faces for Dremora, including female ones. | todo |
 | 8 | [Sconces of Skyrim - Markarth Braziers Improved.](https://www.nexusmods.com/skyrimspecialedition/mods/67386) | Requires SMIM. | Not needed. |
 | 9 | [SMIM - Static Mesh Improvement Mod.](https://www.nexusmods.com/skyrimspecialedition/mods/659) | Install the EVERYTHING version. | [Static Mesh Improvement Mod - Spanish Castellano Espanol.](https://www.nexusmods.com/skyrimspecialedition/mods/94137) (Uploaded 24 Jun 2023) |
+| 10 | [Kanjs - Bird Nests and Eggs - up to 4k.](https://www.nexusmods.com/skyrimspecialedition/mods/64905) | Retexture and remesh of all bird nests and eggs. | Not needed. |
 | Total in this category: | 9 mods | | |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> </details>
@@ -165,7 +166,8 @@ review of apocalypse
 | 3 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
 | 4 | [The Great Town of Karthwasten SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33032) | [The Great Town of Karthwasten SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41399) |
 | 5 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) |
-| Total in this category: | 5 mods | | |
+| 6 | [SKY CITY - Markarth Rising.](https://www.nexusmods.com/skyrimspecialedition/mods/22482) | Overhaul of Markarth. | todo, russian translation available |
+| Total in this category: | 6 mods | | |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
