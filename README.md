@@ -10,7 +10,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|----------|----------|
 | 1 | Skyrim Script Extender (SKSE64). (be sure to check if you install the version for [Steam](https://store.steampowered.com/sub/626153/) or for [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)!). | Essential. A lot of good mods use this as a base. | Para evitar que SKSE64 de Vortex Nexusmods **CAMBIE EL IDIOMA A ENGLISH** hay que primero [instalarlo de Vortex](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files) y luego bajarlo e instalarlo manualmente de [AQUÍ](https://skse.silverlock.org/) (comprobado 10/11/23). |
 | 2 | [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Be sure to pick Anniversary Edition AE or Special Edition SE! | Not needed. |
-|3 | [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | Corrects a lot of bugs. | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
+| 3 | [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | Corrects a lot of bugs. | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
 | 4 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | Alternative starts, skip the standard vanilla or do it, as you wish. | [Alternate Start - Live Another Life - Castellano con voces - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/65264?tab=files) (actualizado 24 junio 2023). |
 | 5 | [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | SKSE plugin that is used add spells/perks/items/shouts, etc. to the NPCs. | Not needed. |
 | 6 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Nice body, UNP alternative gives nudes when looting females (not males), and it's kinda un-inmersive if you are doing a SFW playthrough. | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
@@ -45,15 +45,17 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 15 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 | 16 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
 | 17 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
-| 18 | [Delete Hawk Nests.](https://www.nexusmods.com/skyrimspecialedition/mods/105994) | Deletes the floating hawk nests caused by forest mods by replacing the mesh. No world edits. | Not needed. |
-| 19 | [Light Limit Fix. ](https://www.nexusmods.com/skyrimspecialedition/mods/99548) | [Requires Community Shaders.], [requires d3dcompiler](https://www.nexusmods.com/skyrimspecialedition/mods/31963) Unlimited dynamic light sources such as torches and magic lights.
+| 18 | [Light Limit Fix. ](https://www.nexusmods.com/skyrimspecialedition/mods/99548) | [Requires Community Shaders.], [requires d3dcompiler](https://www.nexusmods.com/skyrimspecialedition/mods/31963) Unlimited dynamic light sources such as torches and magic lights.
 Doubled the portal-strict light limit (7 to 15). Split meshes are no longer required. Contact shadows for all lights. Shadows for first-person torches and light spells. |
-| 20 | [Community Shaders.](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. Also fixes bugs. [Requires Auto Parallax.]([Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473)) | SKSE plugin which automatically disables parallax on meshes that have missing height textures or conflict with single-pass shaders. | Not needed. |
-| 21 | [Auto Parallax.](https://www.nexusmods.com/skyrimspecialedition/mods/79473) | todo | Not needed. |
-| 22 | [d3dcompiler.](https://www.nexusmods.com/skyrimspecialedition/mods/31963) | Injects fixed parallax shaders into Skyrim SE/AE. **MANUAL INSTALLATION** | Not needed. It's just a .dll in the folder of the game. |
-| Total in this category: | 22 mods | | |
+| 19 | [Community Shaders.](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. Also fixes bugs. [Requires Auto Parallax.]([Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473)) | SKSE plugin which automatically disables parallax on meshes that have missing height textures or conflict with single-pass shaders. | Not needed. |
+| 20 | [Auto Parallax.](https://www.nexusmods.com/skyrimspecialedition/mods/79473) | todo | Not needed. |
+| 21 | [d3dcompiler.](https://www.nexusmods.com/skyrimspecialedition/mods/31963) | Injects fixed parallax shaders into Skyrim SE/AE. **MANUAL INSTALLATION** | Not needed. It's just a .dll in the folder of the game. |
+| Total in this category: | 21 mods | | |
 
 <img src="fixes/recursion_monitor1.jpg"> <img src="fixes/recursion_monitor2.jpg">
+
+- Tested and discarded:
+    - Delete hawk nests. Causes purple textures on regular nests.
 
 # Armor, armors
 
