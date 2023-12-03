@@ -29,30 +29,29 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | [Face Discoloration Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/42441) | Eliminates the dreaded "dark face" issue that occurs when the game encounters FaceGen errors. | Not needed. |
-| 2 | [Assorted mesh fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Fixes various issues with vanilla Skyrim meshes that cause them to render incorrectly. | Not needed. |
-| 3 | [Actor Limit Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/32349) | Increases the number of actors that can move, make facial expressions, and have their lips synced to their voice lines at any given time. | Not needed. |
-| 4 | [Scrambled Bugs.](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | A collection of engine bug fixes and patches. | Not needed. |
-| 5 | [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Simplifies the creation of Mod Configuration Menus. | Not needed. |
-| 6 | [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Fixes the "mfg" console command and adds some more fixes. | Not needed. |
-| 7 | [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Fixes various Skyrim SE (and AE) engine issues. Remember that part 2: **"Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager.** This is required or the SKSE64 plugin won't load.". | Not needed. In my experience, SSE Engine Fixes fixed an error with the race description in one of my modded modlists. |
-| 8 | [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | SKSE plugin which fixes auroras getting stuck when transitioning between world spaces. | Not needed. |
-| 9 | [WIDeadBodyCleanupScript Crash Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/62413) | Fixes a rare crash when saving due to wideadbodycleanupscript. | Not needed. |
-| 10 | [CritterSpawn Congestion Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | A fix for the bug spawner, clogging your script engine, causing stacks to be dumped and bugs to be spawned. | Not needed. |
-| 11 | [NPC AI Process Position Fix - NG.](https://www.nexusmods.com/skyrimspecialedition/mods/69326) | Skyrim's engine has a limitation where it can only update an NPC’s AI process position for one hour at most if that NPC is loaded in currently loaded cells (a high AI Process one). | Not needed. |
-| 12 | [High Gate Ruins Puzzle Reset Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/53643) | Fixes High Gate Ruins puzzle not resetting properly, blocking off half the dungeon on subsequent visits. | Not needed. |
-| 13 | [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Collection of fixes, tweaks, and performance improvements for Skyrim's script engine. 100% configurable. Install/Uninstall anytime. | Not needed. |
-| 14 | [UIExtensions.](https://www.nexusmods.com/skyrimspecialedition/mods/17561) | Adds various custom menus to Skyrim for modder use. | [UIExtensions - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/89636) |
-| 15 | [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | Fixes a couple of things in the behavior of tavern workers. | [Tavern AI Fix - Spanish Castellano Español](https://www.nexusmods.com/skyrimspecialedition/mods/94086) |
-| 16 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
-| 17 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
-| 18 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
-| 19 | [Delete Hawk Nests.](https://www.nexusmods.com/skyrimspecialedition/mods/105994) | Deletes the floating hawk nests caused by forest mods by replacing the mesh. No world edits. | Not needed. |
-| 20 | [Light Limit Fix. ](https://www.nexusmods.com/skyrimspecialedition/mods/99548) | [Requires Community Shaders.], [requires d3dcompiler](https://www.nexusmods.com/skyrimspecialedition/mods/31963) Unlimited dynamic light sources such as torches and magic lights.
+| 2 | [Actor Limit Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/32349) | Increases the number of actors that can move, make facial expressions, and have their lips synced to their voice lines at any given time. | Not needed. |
+| 3 | [Scrambled Bugs.](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | A collection of engine bug fixes and patches. | Not needed. |
+| 4 | [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Simplifies the creation of Mod Configuration Menus. | Not needed. |
+| 5 | [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Fixes the "mfg" console command and adds some more fixes. | Not needed. |
+| 6 | [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Fixes various Skyrim SE (and AE) engine issues. Remember that part 2: **"Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager.** This is required or the SKSE64 plugin won't load.". | Not needed. In my experience, SSE Engine Fixes fixed an error with the race description in one of my modded modlists. |
+| 7 | [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | SKSE plugin which fixes auroras getting stuck when transitioning between world spaces. | Not needed. |
+| 8 | [WIDeadBodyCleanupScript Crash Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/62413) | Fixes a rare crash when saving due to wideadbodycleanupscript. | Not needed. |
+| 9 | [CritterSpawn Congestion Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | A fix for the bug spawner, clogging your script engine, causing stacks to be dumped and bugs to be spawned. | Not needed. |
+| 10 | [NPC AI Process Position Fix - NG.](https://www.nexusmods.com/skyrimspecialedition/mods/69326) | Skyrim's engine has a limitation where it can only update an NPC’s AI process position for one hour at most if that NPC is loaded in currently loaded cells (a high AI Process one). | Not needed. |
+| 11 | [High Gate Ruins Puzzle Reset Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/53643) | Fixes High Gate Ruins puzzle not resetting properly, blocking off half the dungeon on subsequent visits. | Not needed. |
+| 12 | [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Collection of fixes, tweaks, and performance improvements for Skyrim's script engine. 100% configurable. Install/Uninstall anytime. | Not needed. |
+| 13 | [UIExtensions.](https://www.nexusmods.com/skyrimspecialedition/mods/17561) | Adds various custom menus to Skyrim for modder use. | [UIExtensions - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/89636) |
+| 14 | [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | Fixes a couple of things in the behavior of tavern workers. | [Tavern AI Fix - Spanish Castellano Español](https://www.nexusmods.com/skyrimspecialedition/mods/94086) |
+| 15 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
+| 16 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
+| 17 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
+| 18 | [Delete Hawk Nests.](https://www.nexusmods.com/skyrimspecialedition/mods/105994) | Deletes the floating hawk nests caused by forest mods by replacing the mesh. No world edits. | Not needed. |
+| 19 | [Light Limit Fix. ](https://www.nexusmods.com/skyrimspecialedition/mods/99548) | [Requires Community Shaders.], [requires d3dcompiler](https://www.nexusmods.com/skyrimspecialedition/mods/31963) Unlimited dynamic light sources such as torches and magic lights.
 Doubled the portal-strict light limit (7 to 15). Split meshes are no longer required. Contact shadows for all lights. Shadows for first-person torches and light spells. |
-| 21 | [Community Shaders.](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. Also fixes bugs. [Requires Auto Parallax.]([Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473)) | SKSE plugin which automatically disables parallax on meshes that have missing height textures or conflict with single-pass shaders. | Not needed. |
-| 22 | [Auto Parallax.](https://www.nexusmods.com/skyrimspecialedition/mods/79473) | todo | Not needed. |
-| 23 | [d3dcompiler.](https://www.nexusmods.com/skyrimspecialedition/mods/31963) | Injects fixed parallax shaders into Skyrim SE/AE. **MANUAL INSTALLATION** | Not needed. It's just a .dll in the folder of the game. |
-| Total in this category: | 23 mods | | |
+| 20 | [Community Shaders.](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. Also fixes bugs. [Requires Auto Parallax.]([Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473)) | SKSE plugin which automatically disables parallax on meshes that have missing height textures or conflict with single-pass shaders. | Not needed. |
+| 21 | [Auto Parallax.](https://www.nexusmods.com/skyrimspecialedition/mods/79473) | todo | Not needed. |
+| 22 | [d3dcompiler.](https://www.nexusmods.com/skyrimspecialedition/mods/31963) | Injects fixed parallax shaders into Skyrim SE/AE. **MANUAL INSTALLATION** | Not needed. It's just a .dll in the folder of the game. |
+| Total in this category: | 22 mods | | |
 
 <img src="fixes/recursion_monitor1.jpg"> <img src="fixes/recursion_monitor2.jpg">
 
