@@ -257,6 +257,13 @@ Tested and discarded:
 
 <details><summary>Screenshots. </summary> <img src="animals/witcher_horse_expansion1.jpg"> <img src="animals/witcher_horse_expansion2.jpg"> <img src="animals/witcher_horse_expansion4.jpg"> <img src="animals/witcher_horse_expansion7.jpg"> <img src="animals/witcher_horse_expansion9.jpg"> <img src="preview/herds/1.jpg"/> </details>
 
+# Northbourne NPCs
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Northbourne NPCs Resources.](https://www.nexusmods.com/skyrimspecialedition/mods/101466) | 
+
+
 # NPC's
 
 | Mod | Brief explanation | Spanish translation |
