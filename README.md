@@ -62,8 +62,10 @@ Doubled the portal-strict light limit (7 to 15). Split meshes are no longer requ
 |----------|----------|----------|----------|
 | 1 | [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
 | 2 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Fixes bugs and inconsistencies for Skyrim's weapons, armor, clothing, jewelry, and clutter items. | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
-| 3 | [Sons of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/68656) | Replacer for guards of all cities. | [Sons of Skyrim - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86018) | | 4 | [Sons of Skyrim desaturated **4k textures**]( | Pick 4k textures. Pick the Survival Warm keyword. | Not needed. |
-| Total in this category: | 4 mods | | |
+| 3 | [Sons of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/68656) | Replacer for guards of all cities. | [Sons of Skyrim - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86018) | 
+| Total in this category: | 3 mods | | |
+
+SONS OF SKYRIM FIXES NO! IT MESSES WITH THE SPANISH TRANSLATION OF THE MARKARTH GUARDS!!! JAUME 3/12/2023
 
 <details><summary>Screenshots examples.</summary> <img src="armor/yalda.jpg"> <img src="armor/sons_of_skyrim1.jpg"> <img src="armor/sons_of_skyrim2.jpg"> <img src="armor/sons_of_skyrim3.jpg"> <img src="armor/sons_of_skyrim4.jpg"> <img src="armor/sons_of_skyrim5.jpg"> <img src="armor/sons_of_skyrim6.jpg"> <img src="armor/sons_of_skyrim7.jpg"> <img src="armor/sons_of_skyrim8.jpg"> <img src="armor/sons_of_skyrim9.jpg"> <img src="armor/sons_of_skyrim10.jpg"> <img src="armor/sons_of_skyrim11.jpg"> </details>
 
@@ -79,25 +81,27 @@ Doubled the portal-strict light limit (7 to 15). Split meshes are no longer requ
 | 6 | [JS Solitude Sewer Cover SE.](https://www.nexusmods.com/skyrimspecialedition/mods/104980) | A 3D remake of the Solitude Sewer Cover. Comes in 1k, 2k, and 4k (recommended) versions. No ESP. | Not needed. |
 | 7 | [Additional Dremora faces.](https://www.nexusmods.com/skyrimspecialedition/mods/97946) | This mod adds new faces for Dremora, including female ones. | todo |
 | 8 | [Sconces of Skyrim - Markarth Braziers Improved.](https://www.nexusmods.com/skyrimspecialedition/mods/67386) | Requires SMIM. | Not needed. |
-| 9 | [SMIM - Static Mesh Improvement Mod.](https://www.nexusmods.com/skyrimspecialedition/mods/659) | Install the EVERYTHING version. | Not needed. |
-| Total in this category: | 7 mods | | |
+| 9 | [SMIM - Static Mesh Improvement Mod.](https://www.nexusmods.com/skyrimspecialedition/mods/659) | Install the EVERYTHING version. | [Static Mesh Improvement Mod - Spanish Castellano Espanol.](https://www.nexusmods.com/skyrimspecialedition/mods/94137) (Uploaded 24 Jun 2023) |
+| 10 | [Kanjs - Bird Nests and Eggs - up to 4k.](https://www.nexusmods.com/skyrimspecialedition/mods/64905) | Retexture and remesh of all bird nests and eggs. | Not needed. |
+| 11 | [Glorious Doors of Skyrim (GDOS) SE.](https://www.nexusmods.com/skyrimspecialedition/mods/32376) | All-In-One pack. | todo |
+| Total in this category: | 11 mods | | |
 
-<details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> </details>
+<details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> <img src="meshes/glorious_doors_of_skyrim1.jpg"> <img src="meshes/glorious_doors_of_skyrim2.jpg"> <img src="meshes/glorious_doors_of_skyrim3.jpg"> <img src="meshes/glorious_doors_of_skyrim4.jpg"> <img src="meshes/glorious_doors_of_skyrim5.jpg"> <img src="meshes/glorious_doors_of_skyrim6.jpg"> <img src="meshes/glorious_doors_of_skyrim7.jpg"> <img src="meshes/JS_Purses_and Septims_SE.jpg"> Before: <br> <img src="meshes/Cathedral - 3D Rocky Shores before.jpg"> <br> After <br> <img src="meshes/Cathedral - 3D Rocky Shores after.jpg"> </details>
 
 # GUI
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Elegant, PC-friendly interface mod with many advanced features. | Not needed. Gives problems (Jaume 14/11/23). |
-| [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Adds a looting menu akin to the one present in Fallout 4. | Not needed. |
-| [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Retexture of Quick Loot to match SkyUI's colour scheme. | Not needed. |
-| [TrueHUD - HUD Additions.](https://www.nexusmods.com/skyrimspecialedition/mods/62775) | Impressive HUD: <br> <img src="gui/truehud.jpg"> | [TrueHUD - HUD Additions - Spanish - Castellano - Español.](https://www.nexusmods.com/skyrimspecialedition/mods/93935) |
-| [The Elder Scrolls Legends - Loading Screens.](https://www.nexusmods.com/skyrimspecialedition/mods/37929) | 110 high quality and lore friendly artworks for loading screens. | [The Elder Scrolls Legends - Loading Screens - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/89506) |
-| [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/90526) | Icons and colors for alchemical ingredients. | Not needed. |
-| [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/89823) | Icons and colors for food and other ingestible items. | Not needed. |
-| [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428) | Navigate all message boxes with the Left/Right and Activate (E) keys. Also fixes the clickable area of buttons so they are easier to select with the mouse. | Not needed. |
-| [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429) | todo | Not needed. |
-| [Constructible Object Custom Keyword System.](https://www.nexusmods.com/skyrimspecialedition/mods/81409) | Improves the usability of the Constructible Object Menu with SkyUI with an extensible keyword-based category system. | [Crafting Categories for SkyUI - Constructible Object Custom Keyword System -Spanish - Español - Castellano.](https://www.nexusmods.com/skyrimspecialedition/mods/93728) |
+| Number | Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [SkyUI.](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Elegant, PC-friendly interface mod with many advanced features. | Not needed. Gives problems (Jaume 14/11/23). |
+| 2 | [Quick Loot RE.](https://www.nexusmods.com/skyrimspecialedition/mods/21085) | Adds a looting menu akin to the one present in Fallout 4. | Not needed. |
+| 3 | [SkyUI-Style Quick Loot RE and EE Retexture.](https://www.nexusmods.com/skyrimspecialedition/mods/51017) | Retexture of Quick Loot to match SkyUI's colour scheme. | Not needed. |
+| 4 | [TrueHUD - HUD Additions.](https://www.nexusmods.com/skyrimspecialedition/mods/62775) | Impressive HUD: <br> <img src="gui/truehud.jpg"> | [TrueHUD - HUD Additions - Spanish - Castellano - Español.](https://www.nexusmods.com/skyrimspecialedition/mods/93935) |
+| 5 | [The Elder Scrolls Legends - Loading Screens.](https://www.nexusmods.com/skyrimspecialedition/mods/37929) | 110 high quality and lore friendly artworks for loading screens. | [The Elder Scrolls Legends - Loading Screens - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/89506) |
+| 6 | [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/90526) | Icons and colors for alchemical ingredients. | Not needed. |
+| 7 | [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.).](https://www.nexusmods.com/skyrimspecialedition/mods/89823) | Icons and colors for food and other ingestible items. | Not needed. |
+| 8 | [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428) | Navigate all message boxes with the Left/Right and Activate (E) keys. Also fixes the clickable area of buttons so they are easier to select with the mouse. | Not needed. |
+| 9 | [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429) | todo | Not needed. |
+| 10 | [Constructible Object Custom Keyword System.](https://www.nexusmods.com/skyrimspecialedition/mods/81409) | Improves the usability of the Constructible Object Menu with SkyUI with an extensible keyword-based category system. | [Crafting Categories for SkyUI - Constructible Object Custom Keyword System -Spanish - Español - Castellano.](https://www.nexusmods.com/skyrimspecialedition/mods/93728) |
 
 - Tested and discarded:
   -	Morehud. TRUEHUD IS 1000 TIMES BETTER!!!! (11/11/23 Jaume).
@@ -165,15 +169,16 @@ review of apocalypse
 | 3 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
 | 4 | [The Great Town of Karthwasten SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33032) | [The Great Town of Karthwasten SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41399) |
 | 5 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) |
-| Total in this category: | 5 mods | | |
+| 6 | [SKY CITY - Markarth Rising.](https://www.nexusmods.com/skyrimspecialedition/mods/22482) | Overhaul of Markarth. | todo, russian translation available |
+| Total in this category: | 6 mods | | |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
 # Lighting
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Enhanced Lights and FX.](https://www.nexusmods.com/skyrimspecialedition/mods/2424) | (indispensable in Skyrim, in Fallout 4 no). | Not needed. |
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Enhanced Lights and FX.](https://www.nexusmods.com/skyrimspecialedition/mods/2424) | (Indispensable in Skyrim, in Fallout 4 no). | Not needed. |
 
 # Landscape
 
