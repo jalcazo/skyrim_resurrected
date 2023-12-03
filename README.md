@@ -22,6 +22,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 12 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Allows Papyrus scripts to be aware and also allows other DLLs to support zmerge merges.  | Not needed. |
 | 13 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | Inserts interesting information, including item icons, into the inventory interface. | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
 | 14 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
+| 15 | [Headpart Whitelist.](https://www.nexusmods.com/skyrimspecialedition/mods/106126) | SKSE plugin that removes unnecessary NPC only/broken headparts from Racemenu. | Not needed. | 
 | Total in this category: | 14 mods | | |
 
 # Fixes/helpers
