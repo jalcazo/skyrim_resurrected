@@ -182,11 +182,11 @@ review of apocalypse
 | 1 | [Enhanced Lights and FX.](https://www.nexusmods.com/skyrimspecialedition/mods/2424) | (Indispensable in Skyrim, in Fallout 4 no). | [Enhanced Lights and FX 3.06 Spanish Con instalador by xlwarrior.](https://www.nexusmods.com/skyrimspecialedition/mods/41042) |
 | 2 | [Enhanced Volumetric Lighting and Shadows (EVLaS).](https://www.nexusmods.com/skyrimspecialedition/mods/63725) | Impressive volumetric lights | Not needed. |
 | 3 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
-| 4 | [Ambient Lighting Combined - ELFX with Shadows.](https://www.nexusmods.com/skyrimspecialedition/mods/40604) | Takes Shadows and adds those changes into ELFX into a combined internal ambiance. More lights, effects, shadows, and a lot of work to make it happen. The goal is to not only combine all of ELFX + Shadows but also redo and revamp cells that need work and increase the aesthetic and fantasy feel. | [Ambient Lighting Combinados - ELFX con Shadows (Traducido)](https://www.nexusmods.com/skyrimspecialedition/mods/41144) | 
 | Total in this category: | 4 mods | | |
 
 Tested and discarded:
     - Realistic lighting overhaul.
+    - Ambient Lighting Combined - ELFX with Shadows. **Even with the Spanish translations gives english names in doors in Markarth. Jaume 3/12/2023.**
 
 # Landscape
 
@@ -417,7 +417,7 @@ Tested and discarded:
 | [RUSTIC DEATH HOUND and GARGOYLE - Special Edition.](https://www.nexusmods.com/skyrimspecialedition/mods/17740) | todo | Not needed. |
 | [Dwemer Tech Glowmapped.](https://www.nexusmods.com/skyrimspecialedition/mods/47802) | todo | Not needed. |
 | [Kanjs - Master Spell Tomes.](https://www.nexusmods.com/skyrimspecialedition/mods/105990) | Remeshes and retexture of The Master Spell Tomes up to 4K with some animated emissive light. | Not needed. |
-| [Skyland - Markarth.](https://www.nexusmods.com/skyrimspecialedition/mods/64785) | Complete texture overhaul of high-quality textures featuring dark old stone carvings, metalwork, dungeons, and more. Using real-world references of Mayan ruins and old Nordic carvings, this is the most realistic Markarth texture overhaul. | Not needed. |
+| [Skyland - Markarth.](https://www.nexusmods.com/skyrimspecialedition/mods/64785) | Complete texture overhaul of high-quality textures featuring dark old stone carvings, metalwork, dungeons, and more. Using real-world references to Mayan ruins and old Nordic carvings, this is the most realistic Markarth texture overhaul. | Not needed. |
 
 # Forts
 
