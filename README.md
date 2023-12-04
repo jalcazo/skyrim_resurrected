@@ -368,15 +368,29 @@ Tested and discarded:
 | [Creation Club Basket Distribution - Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/74577) | Integrates the baskets from Bloodchill Manor, Hendraheim, Myrwatch Tower, Shadowfoot Sanctum and Tundra Homestead to Skyrim holds. Also includes additional baskets to cover the variations that doesn't exist in the original Cleation Club plugins. | Not needed. |
 | Bruma Clutter for Skyrim Imperials - Base Object Swapper (BOS).](https://www.nexusmods.com/skyrimspecialedition/mods/74178) | "Beyond Skyrim Bruma includes many imperial themed items that you can't find in Skyrim without an integration patch. This mod replaces many items from Skyrim for their Bruma counterparts only in imperial houses. Now you can feel like imperials have their own culture and that they're not just smaller nords." | Not needed. |
 
-# Interiors
+# Interiors, Whiterun
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the spanish one, or the name of the door will be overriden! | [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
-| [JK's Dragonsreach.](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Famous palace in Whiterun. | [JK's Dragonsreach - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37336) |
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the Spanish one or the name of the door will be overridden! | [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
+| 2 | [JK's Dragonsreach.](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Famous palace in Whiterun. | [JK's Dragonsreach - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37336) |
 | [JK's Warmaiden's.](https://www.nexusmods.com/skyrimspecialedition/mods/33685) | Famous shop in Whiterun. | [JK's Warmaiden's - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37364) |
-| [Snazzy Interiors - Vittoria Vici's House.](https://www.nexusmods.com/skyrimspecialedition/mods/100475) | Complete overhaul of Vittoria Vici's house in Solitude. ESL flagged. | [Snazzy Interiors - Vittoria Vici's House - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/102908) |
-| [JK's Arnleif and Sons Trading Company.](https://www.nexusmods.com/skyrimspecialedition/mods/54166) | Markarth shop overhaul. | [JK's Arnleif and Sons Trading Company - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85994) |
+| 3 | [HS Whiterun - Jorrvaskr. ESL Flagged.](https://www.nexusmods.com/skyrimspecialedition/mods/79389) | The companion's house (Fighter's Guild in Morrowind). | [HS Whiterun - Jorrvaskr - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94264) |
+| Total in this category: | 14 mods | | |
+
+# Interiors, Solitude
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Snazzy Interiors - Vittoria Vici's House.](https://www.nexusmods.com/skyrimspecialedition/mods/100475) | Complete overhaul of Vittoria Vici's house in Solitude. ESL flagged. | [Snazzy Interiors - Vittoria Vici's House - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/102908) |
+| Total in this category: | 14 mods | | |
+
+# Interiors, Markarth
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [JK's Arnleif and Sons Trading Company.](https://www.nexusmods.com/skyrimspecialedition/mods/54166) | Markarth shop overhaul. | [JK's Arnleif and Sons Trading Company - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85994) |
+| Total in this category: | 14 mods | | |
 
 # Audio / SFX
 
