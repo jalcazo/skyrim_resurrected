@@ -59,12 +59,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|----------|----------|
 | 1 | [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
 | 2 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Fixes bugs and inconsistencies for Skyrim's weapons, armor, clothing, jewelry, and clutter items. | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
-| 3 | [Sons of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/68656) | Replacer for guards of all cities. | [Sons of Skyrim - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86018) | 
+(https://www.nexusmods.com/skyrimspecialedition/mods/86018) | 
 | Total in this category: | 3 mods | | |
 
-SONS OF SKYRIM FIXES NO! IT MESSES WITH THE SPANISH TRANSLATION OF THE MARKARTH GUARDS!!! JAUME 3/12/2023
+- SONS OF SKYRIM NO! Makes Ralof hands and feet invisible. Better use Guard replacer.
+- SONS OF SKYRIM FIXES NO! IT MESSES WITH THE SPANISH TRANSLATION OF THE MARKARTH GUARDS!!! JAUME 3/12/2023
 
-<details><summary>Screenshots examples.</summary> <img src="armor/yalda.jpg"> <img src="armor/sons_of_skyrim1.jpg"> <img src="armor/sons_of_skyrim2.jpg"> <img src="armor/sons_of_skyrim3.jpg"> <img src="armor/sons_of_skyrim4.jpg"> <img src="armor/sons_of_skyrim5.jpg"> <img src="armor/sons_of_skyrim6.jpg"> <img src="armor/sons_of_skyrim7.jpg"> <img src="armor/sons_of_skyrim8.jpg"> <img src="armor/sons_of_skyrim9.jpg"> <img src="armor/sons_of_skyrim10.jpg"> <img src="armor/sons_of_skyrim11.jpg"> </details>
+<details><summary>Screenshots examples.</summary> <img src="armor/yalda.jpg">  </details>
 
 # Meshes
 
