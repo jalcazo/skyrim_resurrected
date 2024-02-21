@@ -158,19 +158,37 @@ review of apocalypse
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
-# Towns / Cities / Places / Villages
+# Whiterun
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
-| 2 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
-| 3 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
-| 4 | [The Great Town of Karthwasten SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33032) | [The Great Town of Karthwasten SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41399) |
-| 5 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) |
-| 6 | [SKY CITY - Markarth Rising.](https://www.nexusmods.com/skyrimspecialedition/mods/22482) | Overhaul of Markarth. | todo, russian translation available |
 | Total in this category: | 6 mods | | |
 
+# Solitude
+
+| 1 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
+
+
+# Riverwood
+
+| Clouds over Riverwood | Translation not needed. Checked the .esp on 21/2/2024 |
+
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
+
+# Markarth
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) |
+| 2 | [SKY CITY - Markarth Rising.](https://www.nexusmods.com/skyrimspecialedition/mods/22482) | Overhaul of Markarth. | todo, russian translation available |
+| Total in this category: | 2 mods | | |
+
+# Misc towns
+
+| 3 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
+| 4 | [The Great Town of Karthwasten SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33032) | [The Great Town of Karthwasten SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41399) |
+
 
 # Lighting
 
