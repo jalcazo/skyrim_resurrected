@@ -1,4 +1,4 @@
-# Skyrim Resurrected 2023 modlist by Jaume Alcazo (WIP)
+# Skyrim Resurrected 2024 modlist by Jaume Alcazo (WIP)
 
 My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Feel free to use the "Adult (NSFW)" section or not, please. Contact me at jaume.alcazo@gmail.com
 
@@ -9,7 +9,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | Skyrim Script Extender (SKSE64). (be sure to check if you install the version for [Steam](https://store.steampowered.com/sub/626153/) or for [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)!). | Essential. A lot of good mods use this as a base. | Para evitar que SKSE64 de Vortex Nexusmods **CAMBIE EL IDIOMA A ENGLISH** hay que primero [instalarlo de Vortex](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files) y luego bajarlo e instalarlo manualmente de [AQUÍ](https://skse.silverlock.org/) (comprobado 10/11/23). |
-| 2 | [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Be sure to pick Anniversary Edition AE or Special Edition SE! | Not needed. |
+| 2 | [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Be sure to pick Anniversary Edition AE or Special Edition SE (just one) when downloading. | Not needed. |
 | 3 | [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | Corrects a lot of bugs. | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
 | 4 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | Alternative starts, skip the standard vanilla or do it, as you wish. | [Alternate Start - Live Another Life - Castellano con voces - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/65264?tab=files) (actualizado 24 junio 2023). |
 | 5 | [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | SKSE plugin that is used add spells/perks/items/shouts, etc. to the NPCs. | Not needed. |
@@ -22,8 +22,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 12 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Allows Papyrus scripts to be aware and also allows other DLLs to support zmerge merges.  | Not needed. |
 | 13 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | Inserts interesting information, including item icons, into the inventory interface. | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
 | 14 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
-| 15 | [Headpart Whitelist.](https://www.nexusmods.com/skyrimspecialedition/mods/106126) | SKSE plugin that removes unnecessary NPC only/broken headparts from Racemenu. | Not needed. | 
-| Total in this category: | 14 mods | | |
+| 15 | [Racemenu.](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=description) | todo | [RaceMenu - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64182) |
+| 16 | [Headpart Whitelist.](https://www.nexusmods.com/skyrimspecialedition/mods/106126) | SKSE plugin that removes unnecessary NPC only/broken headparts from Racemenu. | Not needed. | 
+| Total in this category: | 16 mods | | |
 
 # Fixes/helpers
 
@@ -34,7 +35,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 3 | [Scrambled Bugs.](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | A collection of engine bug fixes and patches. | Not needed. |
 | 4 | [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Simplifies the creation of Mod Configuration Menus. | Not needed. |
 | 5 | [Mfg Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Fixes the "mfg" console command and adds some more fixes. | Not needed. |
-| 6 | [SSE Engine Fixes (skse64 plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/17230) (part 1 by vortex, part 2 MANUAL INSTALLATION) | Fixes various Skyrim SE (and AE) engine issues. Remember that part 2: **"Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager.** This is required or the SKSE64 plugin won't load.". | Not needed. In my experience, SSE Engine Fixes fixed an error with the race description in one of my modded modlists. |
 | 7 | [Aurora Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/77834) | SKSE plugin which fixes auroras getting stuck when transitioning between world spaces. | Not needed. |
 | 8 | [WIDeadBodyCleanupScript Crash Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/62413) | Fixes a rare crash when saving due to wideadbodycleanupscript. | Not needed. |
 | 9 | [CritterSpawn Congestion Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | A fix for the bug spawner, clogging your script engine, causing stacks to be dumped and bugs to be spawned. | Not needed. |
@@ -46,10 +46,6 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 15 | [SSE Display Tweaks.](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | todo | todo |
 | 16 | [SSE FPS Stabilizer.](https://www.nexusmods.com/skyrimspecialedition/mods/38438) | todo | todo |
 | 17 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
-| 18 | [Light Limit Fix.](https://www.nexusmods.com/skyrimspecialedition/mods/99548) | [Requires Community Shaders.](https://www.nexusmods.com/skyrimspecialedition/mods/86492), [requires d3dcompiler](https://www.nexusmods.com/skyrimspecialedition/mods/31963) | Unlimited dynamic light sources such as torches and magic lights. Doubled the portal-strict light limit (7 to 15). Split meshes are no longer required. Contact shadows for all lights. Shadows for first-person torches and light spells. [Good description here.](https://www.resetera.com/threads/the-light-limit-fix-for-skyrim-has-been-released.759828/) | Not needed. |
-| 19 | [Community Shaders.](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. Also fixes bugs. [Requires Auto Parallax.]([Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473)) | SKSE plugin which automatically disables parallax on meshes that have missing height textures or conflict with single-pass shaders. | Not needed. |
-| 20 | [Auto Parallax.](https://www.nexusmods.com/skyrimspecialedition/mods/79473) | todo | Not needed. |
-| 21 | [d3dcompiler.](https://www.nexusmods.com/skyrimspecialedition/mods/31963) | Injects fixed parallax shaders into Skyrim SE/AE. **MANUAL INSTALLATION** | Not needed. It's just a .dll in the folder of the game. |
 | Total in this category: | 21 mods | | |
 
 <img src="fixes/recursion_monitor1.jpg"> <img src="fixes/recursion_monitor2.jpg">
@@ -63,12 +59,14 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|----------|----------|
 | 1 | [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
 | 2 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Fixes bugs and inconsistencies for Skyrim's weapons, armor, clothing, jewelry, and clutter items. | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
-| 3 | [Sons of Skyrim.](https://www.nexusmods.com/skyrimspecialedition/mods/68656) | Replacer for guards of all cities. | [Sons of Skyrim - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/86018) | 
 | Total in this category: | 3 mods | | |
 
-SONS OF SKYRIM FIXES NO! IT MESSES WITH THE SPANISH TRANSLATION OF THE MARKARTH GUARDS!!! JAUME 3/12/2023
+(https://www.nexusmods.com/skyrimspecialedition/mods/86018)
 
-<details><summary>Screenshots examples.</summary> <img src="armor/yalda.jpg"> <img src="armor/sons_of_skyrim1.jpg"> <img src="armor/sons_of_skyrim2.jpg"> <img src="armor/sons_of_skyrim3.jpg"> <img src="armor/sons_of_skyrim4.jpg"> <img src="armor/sons_of_skyrim5.jpg"> <img src="armor/sons_of_skyrim6.jpg"> <img src="armor/sons_of_skyrim7.jpg"> <img src="armor/sons_of_skyrim8.jpg"> <img src="armor/sons_of_skyrim9.jpg"> <img src="armor/sons_of_skyrim10.jpg"> <img src="armor/sons_of_skyrim11.jpg"> </details>
+- SONS OF SKYRIM NO! Makes Ralof hands and feet invisible. Better use Guard replacer.
+- SONS OF SKYRIM FIXES NO! IT MESSES WITH THE SPANISH TRANSLATION OF THE MARKARTH GUARDS!!! JAUME 3/12/2023
+
+<details><summary>Screenshots examples.</summary> <img src="armor/yalda.jpg">  </details>
 
 # Meshes
 
@@ -161,19 +159,37 @@ review of apocalypse
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
-# Towns / Cities / Places / Villages
+# Whiterun
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
-| 2 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
-| 3 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
-| 4 | [The Great Town of Karthwasten SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33032) | [The Great Town of Karthwasten SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41399) |
-| 5 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) |
-| 6 | [SKY CITY - Markarth Rising.](https://www.nexusmods.com/skyrimspecialedition/mods/22482) | Overhaul of Markarth. | todo, russian translation available |
 | Total in this category: | 6 mods | | |
 
+# Solitude
+
+| 1 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
+
+
+# Riverwood
+
+| Clouds over Riverwood | Translation not needed. Checked the .esp on 21/2/2024 |
+
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
+
+# Markarth
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) |
+| 2 | [SKY CITY - Markarth Rising.](https://www.nexusmods.com/skyrimspecialedition/mods/22482) | Overhaul of Markarth. | todo, russian translation available |
+| Total in this category: | 2 mods | | |
+
+# Misc towns
+
+| 3 | [The Great Town of Ivarstead SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | [The Great Town of Ivarstead SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41344) |
+| 4 | [The Great Town of Karthwasten SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/33032) | [The Great Town of Karthwasten SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/41399) |
+
 
 # Lighting
 
@@ -368,15 +384,29 @@ Tested and discarded:
 | [Creation Club Basket Distribution - Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/74577) | Integrates the baskets from Bloodchill Manor, Hendraheim, Myrwatch Tower, Shadowfoot Sanctum and Tundra Homestead to Skyrim holds. Also includes additional baskets to cover the variations that doesn't exist in the original Cleation Club plugins. | Not needed. |
 | Bruma Clutter for Skyrim Imperials - Base Object Swapper (BOS).](https://www.nexusmods.com/skyrimspecialedition/mods/74178) | "Beyond Skyrim Bruma includes many imperial themed items that you can't find in Skyrim without an integration patch. This mod replaces many items from Skyrim for their Bruma counterparts only in imperial houses. Now you can feel like imperials have their own culture and that they're not just smaller nords." | Not needed. |
 
-# Interiors
+# Interiors, Whiterun
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the spanish one, or the name of the door will be overriden! | [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
-| [JK's Dragonsreach.](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Famous palace in Whiterun. | [JK's Dragonsreach - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37336) |
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | JK's Belethor's General Goods. DON'T INSTALL THE ENGLISH! | Just the Spanish one or the name of the door will be overridden! | [JK's Belethor's General Goods - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37339) |
+| 2 | [JK's Dragonsreach.](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Famous palace in Whiterun. | [JK's Dragonsreach - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37336) |
 | [JK's Warmaiden's.](https://www.nexusmods.com/skyrimspecialedition/mods/33685) | Famous shop in Whiterun. | [JK's Warmaiden's - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37364) |
-| [Snazzy Interiors - Vittoria Vici's House.](https://www.nexusmods.com/skyrimspecialedition/mods/100475) | Complete overhaul of Vittoria Vici's house in Solitude. ESL flagged. | [Snazzy Interiors - Vittoria Vici's House - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/102908) |
-| [JK's Arnleif and Sons Trading Company.](https://www.nexusmods.com/skyrimspecialedition/mods/54166) | Markarth shop overhaul. | [JK's Arnleif and Sons Trading Company - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85994) |
+| 3 | [HS Whiterun - Jorrvaskr. ESL Flagged.](https://www.nexusmods.com/skyrimspecialedition/mods/79389) | The companion's house (Fighter's Guild in Morrowind). | [HS Whiterun - Jorrvaskr - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94264) |
+| Total in this category: | 14 mods | | |
+
+# Interiors, Solitude
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Snazzy Interiors - Vittoria Vici's House.](https://www.nexusmods.com/skyrimspecialedition/mods/100475) | Complete overhaul of Vittoria Vici's house in Solitude. ESL flagged. | [Snazzy Interiors - Vittoria Vici's House - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/102908) |
+| Total in this category: | 14 mods | | |
+
+# Interiors, Markarth
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [JK's Arnleif and Sons Trading Company.](https://www.nexusmods.com/skyrimspecialedition/mods/54166) | Markarth shop overhaul. | [JK's Arnleif and Sons Trading Company - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85994) |
+| Total in this category: | 14 mods | | |
 
 # Audio / SFX
 
