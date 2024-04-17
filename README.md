@@ -204,7 +204,7 @@ Tested and discarded:
     - Realistic lighting overhaul.
     - Ambient Lighting Combined - ELFX with Shadows. **Even with the Spanish translations gives english names in doors in Markarth. Jaume 3/12/2023.**
 
-# Landscape
+# Landscape / Locations / Special trees / Mountains / Waterfalls, etc.
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
@@ -215,8 +215,9 @@ Tested and discarded:
 | [The Marshlands.](https://www.nexusmods.com/skyrimspecialedition/mods/23062) | todo | Not needed. |
 | [Immersive Shortcuts of Skyrim SE AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104702) | todo | Not needed. |
 | [Natural Waterfalls - Dragonborn.](https://www.nexusmods.com/skyrimspecialedition/mods/103170) | Natural Waterfalls. Now on Solstheim. | [Natural Waterfalls - Dragonborn - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/104871) |
+| [Skyfall's Sleeping Hist Tree Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/116792?tab=description) | Overhaul of a particular tree, showcased very well [here at 3:27](https://www.youtube.com/watch?v=e0khCNr9oTc) | Not needed. |
 
-# Alchemy
+# Alchemy / Potions / Ingredients / Food
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
