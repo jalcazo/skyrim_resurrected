@@ -413,7 +413,7 @@ Tested and discarded:
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Celtic Music in Skyrim - SE.](https://www.nexusmods.com/skyrimspecialedition/mods/2980?tab=files) | todo | Not needed. | :tv: [2 Hours of Celtic Music by Adrian von Ziegler (Part 1/3)](https://www.youtube.com/watch?v=jiwuQ6UHMQg) |
+| 1 | [Celtic Music in Skyrim - SE.](https://www.nexusmods.com/skyrimspecialedition/mods/2980?tab=files) | This Modification adds 79 new celtic, fantasy and viking music tracks to Skyrim. A Brand new atmosphere in the world of Skyrim now available for SE. | Not needed. | :tv: [2 Hours of Celtic Music by Adrian von Ziegler (Part 1/3)](https://www.youtube.com/watch?v=jiwuQ6UHMQg) |
 | 2 | [Sound Record Distributor.](https://www.nexusmods.com/skyrimspecialedition/mods/77815) | SKSE framework which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches. | Not needed. | todo |
 | 3 | [Wildwood Echoes](https://www.nexusmods.com/skyrimspecialedition/mods/112008) | Utilizes Sound Record Distributor to place new ambient sounds in the forests of Skyrim. Including (but not limited to) many natural tree sounds, wind gusts, frogs croaking, wolves howling, distant dogs barking, and more! | Not needed. | [Wildwood Echoes - Pine Forest Day.](https://www.youtube.com/watch?v=M5R0xX8KXNA) |
 | 4 | [Whispering Tomes of Apocrypha.](https://www.nexusmods.com/skyrimspecialedition/mods/113423) | Utilizes Sound Record Distributor to revamp the sounds of Apocrypha. | Not needed. | :tv: [Whispering Tomes Exteriors.](https://www.youtube.com/watch?v=oFSMDwAq598) |
@@ -426,7 +426,8 @@ Tested and discarded:
 | 11 | [Whales Off The Coast.](https://www.nexusmods.com/skyrimspecialedition/mods/111681) | Uses Sound Record Distributor to play distant whale sounds while exploring coastal regions. | Not needed. | :tv: [Whales Off The Coast](https://www.youtube.com/watch?v=ycyP1SMnbyA) |
 | 12 | [Dungeon Sounds Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/66600) | Complete revamp of the original mod with highly modular fomod! | Not needed. | :tv: [Dungeon Sounds Overhaul 2.0 - Caves](https://www.youtube.com/watch?v=KwFbaf2QaGk) |
 | 13 | [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | todo | Not needed. | todo |
-| Total in this category: | 13 mods | | | |
+| 14 | [Immersive Music.](https://www.nexusmods.com/skyrimspecialedition/mods/16402) | Immersive Music adds 16 hours of carefully curated music that perfectly fits Skyrim. | Not needed. | :tv: [3 Hours of Ambient Fantasy - Immersive Music](https://www.youtube.com/watch?v=2PGcoOORV98) |
+| Total in this category: | 14 mods | | | |
 
 # Character creation / presets / roleplaying / RPG
 
