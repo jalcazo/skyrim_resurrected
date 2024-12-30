@@ -413,7 +413,7 @@ Tested and discarded:
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Celtic Music in Skyrim - SE.](https://www.nexusmods.com/skyrimspecialedition/mods/2980?tab=files) | todo | Not needed. | [2 Hours of Celtic Music by Adrian von Ziegler (Part 1/3)](https://www.youtube.com/watch?v=jiwuQ6UHMQg) |
+| 1 | [Celtic Music in Skyrim - SE.](https://www.nexusmods.com/skyrimspecialedition/mods/2980?tab=files) | todo | Not needed. | :tv: [2 Hours of Celtic Music by Adrian von Ziegler (Part 1/3)](https://www.youtube.com/watch?v=jiwuQ6UHMQg) |
 | 2 | [Sound Record Distributor.](https://www.nexusmods.com/skyrimspecialedition/mods/77815) | SKSE framework which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches. | Not needed. | todo |
 | 3 | [Wildwood Echoes](https://www.nexusmods.com/skyrimspecialedition/mods/112008) | Utilizes Sound Record Distributor to place new ambient sounds in the forests of Skyrim. Including (but not limited to) many natural tree sounds, wind gusts, frogs croaking, wolves howling, distant dogs barking, and more! | Not needed. | [Wildwood Echoes - Pine Forest Day.](https://www.youtube.com/watch?v=M5R0xX8KXNA) |
 | 4 | [Whispering Tomes of Apocrypha.](https://www.nexusmods.com/skyrimspecialedition/mods/113423) | Utilizes Sound Record Distributor to revamp the sounds of Apocrypha. | Not needed. | todo |
