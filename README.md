@@ -416,8 +416,10 @@ Tested and discarded:
 | 1 | [Celtic Music in Skyrim - SE.](https://www.nexusmods.com/skyrimspecialedition/mods/2980?tab=files) | todo | Not needed. | :tv: [2 Hours of Celtic Music by Adrian von Ziegler (Part 1/3)](https://www.youtube.com/watch?v=jiwuQ6UHMQg) |
 | 2 | [Sound Record Distributor.](https://www.nexusmods.com/skyrimspecialedition/mods/77815) | SKSE framework which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches. | Not needed. | todo |
 | 3 | [Wildwood Echoes](https://www.nexusmods.com/skyrimspecialedition/mods/112008) | Utilizes Sound Record Distributor to place new ambient sounds in the forests of Skyrim. Including (but not limited to) many natural tree sounds, wind gusts, frogs croaking, wolves howling, distant dogs barking, and more! | Not needed. | [Wildwood Echoes - Pine Forest Day.](https://www.youtube.com/watch?v=M5R0xX8KXNA) |
-| 4 | [Whispering Tomes of Apocrypha.](https://www.nexusmods.com/skyrimspecialedition/mods/113423) | Utilizes Sound Record Distributor to revamp the sounds of Apocrypha. | Not needed. | todo |
+| 4 | [Whispering Tomes of Apocrypha.](https://www.nexusmods.com/skyrimspecialedition/mods/113423) | Utilizes Sound Record Distributor to revamp the sounds of Apocrypha. | Not needed. | :tv: [Whispering Tomes Exteriors.](https://www.youtube.com/watch?v=oFSMDwAq598) |
 | 5 | [Tyler Cunningham Combat Music Pack.](https://www.nexusmods.com/skyrimspecialedition/mods/105581) | Combat Music pack replacer. | Not needed. | [Video review.](https://www.youtube.com/watch?v=LUNm-YENAe0) |
+| 6 | [Blackreach Eerie Ambience.](
+| 7 | [Ambient Warfare.](https://www.nexusmods.com/skyrimspecialedition/mods/113118) | Utilizes Sound Record Distributor to add ambient sounds of war to exterior regions. | Not needed. | :tv: [Ambient Warfare Subtle.](https://www.youtube.com/watch?v=S6iLoiYujrw) |
 | 6 | [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | todo | Not needed. | todo |
 | Total in this category: | 6 mods | | | |
 
