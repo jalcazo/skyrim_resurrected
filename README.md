@@ -420,8 +420,10 @@ Tested and discarded:
 | 5 | [Tyler Cunningham Combat Music Pack.](https://www.nexusmods.com/skyrimspecialedition/mods/105581) | Combat Music pack replacer. | Not needed. | [Video review.](https://www.youtube.com/watch?v=LUNm-YENAe0) |
 | 6 | [Blackreach Eerie Ambience.](
 | 7 | [Ambient Warfare.](https://www.nexusmods.com/skyrimspecialedition/mods/113118) | Utilizes Sound Record Distributor to add ambient sounds of war to exterior regions. | Not needed. | :tv: [Ambient Warfare Subtle.](https://www.youtube.com/watch?v=S6iLoiYujrw) |
-| 6 | [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | todo | Not needed. | todo |
-| Total in this category: | 6 mods | | | |
+| 8 | [Nordic Winds.](https://www.nexusmods.com/skyrimspecialedition/mods/112370) | Utilizes Sound Record Distributor to replace regional wind loops with more unique varieties. | Not needed. | :tv: [Nordic Winds 1](https://www.youtube.com/watch?v=PhxdKTSBbg0) |
+| 9 | [Distant Dragon Roars.](https://www.nexusmods.com/skyrimspecialedition/mods/112185) | Simple mod utilizing Sound Record Distributor to take vanilla distant dragon roars and add them as ambient sounds to exterior regions. | Not needed. | :tv: [Distant Vanilla Dragons.](https://www.youtube.com/watch?v=6drbVsNFFKI) |
+| 10 | [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | todo | Not needed. | todo |
+| Total in this category: | 10 mods | | | |
 
 # Character creation / presets / roleplaying / RPG
 
