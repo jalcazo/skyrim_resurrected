@@ -418,12 +418,15 @@ Tested and discarded:
 | 3 | [Wildwood Echoes](https://www.nexusmods.com/skyrimspecialedition/mods/112008) | Utilizes Sound Record Distributor to place new ambient sounds in the forests of Skyrim. Including (but not limited to) many natural tree sounds, wind gusts, frogs croaking, wolves howling, distant dogs barking, and more! | Not needed. | [Wildwood Echoes - Pine Forest Day.](https://www.youtube.com/watch?v=M5R0xX8KXNA) |
 | 4 | [Whispering Tomes of Apocrypha.](https://www.nexusmods.com/skyrimspecialedition/mods/113423) | Utilizes Sound Record Distributor to revamp the sounds of Apocrypha. | Not needed. | :tv: [Whispering Tomes Exteriors.](https://www.youtube.com/watch?v=oFSMDwAq598) |
 | 5 | [Tyler Cunningham Combat Music Pack.](https://www.nexusmods.com/skyrimspecialedition/mods/105581) | Combat Music pack replacer. | Not needed. | [Video review.](https://www.youtube.com/watch?v=LUNm-YENAe0) |
-| 6 | [Blackreach Eerie Ambience.](
+| 6 | [Blackreach Eerie Ambience.](https://www.nexusmods.com/skyrimspecialedition/mods/112114) | 30+ new sound effects to transform Blackreach into a truly eerie atmosphere. | Not needed. | :tv: | [Blackreach Eerie Ambience V2 0](https://www.youtube.com/watch?v=lL8no3N71Fs) |
 | 7 | [Ambient Warfare.](https://www.nexusmods.com/skyrimspecialedition/mods/113118) | Utilizes Sound Record Distributor to add ambient sounds of war to exterior regions. | Not needed. | :tv: [Ambient Warfare Subtle.](https://www.youtube.com/watch?v=S6iLoiYujrw) |
 | 8 | [Nordic Winds.](https://www.nexusmods.com/skyrimspecialedition/mods/112370) | Utilizes Sound Record Distributor to replace regional wind loops with more unique varieties. | Not needed. | :tv: [Nordic Winds 1](https://www.youtube.com/watch?v=PhxdKTSBbg0) |
 | 9 | [Distant Dragon Roars.](https://www.nexusmods.com/skyrimspecialedition/mods/112185) | Simple mod utilizing Sound Record Distributor to take vanilla distant dragon roars and add them as ambient sounds to exterior regions. | Not needed. | :tv: [Distant Vanilla Dragons.](https://www.youtube.com/watch?v=6drbVsNFFKI) |
-| 10 | [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | todo | Not needed. | todo |
-| Total in this category: | 10 mods | | | |
+| 10 | [Murder of Songbirds.](https://www.nexusmods.com/skyrimspecialedition/mods/111766) | Utilizes Sound Record Distributor to play several varieties of bird (and bat) sounds throughout all regions of Skyrim. Including (but not limited to) hawks, crows, owls, seagulls, & woodpeckers. | Not needed. | :tv: [Murder of Songbirds 1](https://www.youtube.com/watch?v=cwUVfGG5dOM) |
+| 11 | [Whales Off The Coast.](https://www.nexusmods.com/skyrimspecialedition/mods/111681) | Uses Sound Record Distributor to play distant whale sounds while exploring coastal regions. | Not needed. | :tv: [Whales Off The Coast](https://www.youtube.com/watch?v=ycyP1SMnbyA) |
+| 12 | [Dungeon Sounds Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/66600) | Complete revamp of the original mod with highly modular fomod! | Not needed. | :tv: [Dungeon Sounds Overhaul 2.0 - Caves](https://www.youtube.com/watch?v=KwFbaf2QaGk) |
+| 13 | [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER).](https://www.nexusmods.com/skyrimspecialedition/mods/46500) | todo | Not needed. | todo |
+| Total in this category: | 13 mods | | | |
 
 # Character creation / presets / roleplaying / RPG
 
