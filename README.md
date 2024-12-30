@@ -429,6 +429,8 @@ Tested and discarded:
 | 14 | [Immersive Music.](https://www.nexusmods.com/skyrimspecialedition/mods/16402) | Immersive Music adds 16 hours of carefully curated music that perfectly fits Skyrim. | Not needed. | :tv: [3 Hours of Ambient Fantasy - Immersive Music](https://www.youtube.com/watch?v=2PGcoOORV98) |
 | Total in this category: | 14 mods | | | |
 
+Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](https://www.youtube.com/watch?v=XXqmFLV-aGo)
+
 # Character creation / presets / roleplaying / RPG
 
 | Mod | Brief explanation | Spanish translation |
