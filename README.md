@@ -477,11 +477,10 @@ Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](
 
 # Dungeons
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Unique Vampire Dens SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/14762) (Adds six new, unique, hidden vampire dens in various cities around the world). | [Unique Vampire Dens SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/43686) |
-| [Dungeons - Revisited.](https://www.nexusmods.com/skyrimspecialedition/mods/51798) | todo | todo |
-| Bleak Falls Barrow Revisited. | ONLY INSTALL THE SPANISH VERSION! If you install both, and overwrite with spanish then the door name is incorrect. Jaume 14/11/23. You only need this one. | [Bleak falls barrow - Revisited-Spanish by xlwarrior.](https://www.nexusmods.com/skyrimspecialedition/mods/43163) |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Unique Vampire Dens SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/14762) (Adds six new, unique, hidden vampire dens in various cities around the world). | [Unique Vampire Dens SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/43686) | :tv: todo |
+| 2 | Bleak Falls Barrow Revisited. | ONLY INSTALL THE SPANISH VERSION! If you install both, and overwrite with spanish then the door name is incorrect. Jaume 14/11/23. You only need this one. | [Bleak falls barrow - Revisited-Spanish by xlwarrior.](https://www.nexusmods.com/skyrimspecialedition/mods/43163) |:tv: todo |
 
 # Grim and Gore
 
