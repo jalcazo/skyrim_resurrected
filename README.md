@@ -72,11 +72,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 4 | [Night Mother.](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | See screenshots below. | Not needed. |
 | 5 | [JS Purses and Septims SE.](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | See screenshots below. | [JS Purses and Septims SE - Latino.](https://www.nexusmods.com/skyrimspecialedition/mods/71667) | [ElSopa - Training Dummies Redone.](https://www.nexusmods.com/skyrimspecialedition/mods/102948) | todo | Not needed. |
 | 6 | [JS Solitude Sewer Cover SE.](https://www.nexusmods.com/skyrimspecialedition/mods/104980) | A 3D remake of the Solitude Sewer Cover. Comes in 1k, 2k, and 4k (recommended) versions. No ESP. | Not needed. |
-| 8 | [Sconces of Skyrim - Markarth Braziers Improved.](https://www.nexusmods.com/skyrimspecialedition/mods/67386) | Requires SMIM. | Not needed. |
-| 9 | [SMIM - Static Mesh Improvement Mod.](https://www.nexusmods.com/skyrimspecialedition/mods/659) | Install the EVERYTHING version. | [Static Mesh Improvement Mod - Spanish Castellano Espanol.](https://www.nexusmods.com/skyrimspecialedition/mods/94137) (Uploaded 24 Jun 2023) |
-| 10 | [Kanjs - Bird Nests and Eggs - up to 4k.](https://www.nexusmods.com/skyrimspecialedition/mods/64905) | Retexture and remesh of all bird nests and eggs. | Not needed. |
-| 11 | [Glorious Doors of Skyrim (GDOS) SE.](https://www.nexusmods.com/skyrimspecialedition/mods/32376) | All-In-One pack. | todo |
-| Total in this category: | 11 mods | | |
+| 7 | [Kanjs - Bird Nests and Eggs - up to 4k.](https://www.nexusmods.com/skyrimspecialedition/mods/64905) | Retexture and remesh of all bird nests and eggs. | Not needed. |
+| 8 | [Glorious Doors of Skyrim (GDOS) SE.](https://www.nexusmods.com/skyrimspecialedition/mods/32376) | All-In-One pack. | todo |
+| Total in this category: | 8 mods | | |
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> <img src="meshes/glorious_doors_of_skyrim1.jpg"> <img src="meshes/glorious_doors_of_skyrim2.jpg"> <img src="meshes/glorious_doors_of_skyrim3.jpg"> <img src="meshes/glorious_doors_of_skyrim4.jpg"> <img src="meshes/glorious_doors_of_skyrim5.jpg"> <img src="meshes/glorious_doors_of_skyrim6.jpg"> <img src="meshes/glorious_doors_of_skyrim7.jpg"> <img src="meshes/JS_Purses_and Septims_SE.jpg"> Before: <br>
 
