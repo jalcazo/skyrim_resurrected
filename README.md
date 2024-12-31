@@ -57,15 +57,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Number | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| 1 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Fixes bugs and inconsistencies for Skyrim's weapons, armor, clothing, jewelry, and clutter items. | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
 | Total in this category: | 1 mods | | |
-
-(https://www.nexusmods.com/skyrimspecialedition/mods/86018)
 
 - SONS OF SKYRIM NO! Makes Ralof hands and feet invisible. Better use Guard replacer.
 - SONS OF SKYRIM FIXES NO! IT MESSES WITH THE SPANISH TRANSLATION OF THE MARKARTH GUARDS!!! JAUME 3/12/2023
-
-<details><summary>Screenshots examples.</summary> <img src="armor/yalda.jpg">  </details>
 
 # Meshes
 
