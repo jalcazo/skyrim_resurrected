@@ -131,7 +131,7 @@ review of apocalypse
 
 | Number | Mod |  Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Valhalla Combat.](https://www.nexusmods.com/skyrimspecialedition/mods/64741) | Not needed. | :tv: [Skyrim Mods Showcase - Valhalla Combat](https://www.youtube.com/watch?v=HYuSdUPaXEg) |
+| 1 | [Valhalla Combat.](https://www.nexusmods.com/skyrimspecialedition/mods/64741) | Script-free timed blocking, projectile parrying, stun and execution, and non-intrusive stamina management to push Skyrim's combat to modern standards. | [Valhalla Combat - Spanish (S)](https://www.nexusmods.com/skyrimspecialedition/mods/73675?tab=files&file_id=557682&nmm=1) | :tv: [Skyrim Mods Showcase - Valhalla Combat](https://www.youtube.com/watch?v=HYuSdUPaXEg) |
 | 2 | [Locational Damage(SKSE Plugin).](https://www.nexusmods.com/skyrimspecialedition/mods/46932) | Not needed. ((This mod makes it possible to do extra damage and stagger etc. effect depending on the body part when the attack hits the actor. No ESP file.) | :tv: todo |
 | 3 | [Loading Screen Truce AE.](https://www.nexusmods.com/skyrimspecialedition/mods/104522) Disables NPC combat AI temporarily during the loading screen. | Not needed. | :tv: todo |
 | 4 | [Dynamic Impact - Slash Effects X.](https://www.nexusmods.com/skyrimspecialedition/mods/86071) | Not needed. | :tv: todo |
