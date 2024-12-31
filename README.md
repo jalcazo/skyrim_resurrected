@@ -154,9 +154,10 @@ review of apocalypse
 
 # Whiterun
 
-| Number | Mod | Brief explanation | Spanish translation |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|
 | 1 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
+| 2 | [Witcherun - A Verdant Whiterun Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/135928) | A whiterun overhaul using witcher plant assets! | Not needed. | :tv: todo |
 | Total in this category: | 6 mods | | |
 
 # Solitude
