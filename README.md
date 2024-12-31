@@ -78,7 +78,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> <img src="meshes/glorious_doors_of_skyrim1.jpg"> <img src="meshes/glorious_doors_of_skyrim2.jpg"> <img src="meshes/glorious_doors_of_skyrim3.jpg"> <img src="meshes/glorious_doors_of_skyrim4.jpg"> <img src="meshes/glorious_doors_of_skyrim5.jpg"> <img src="meshes/glorious_doors_of_skyrim6.jpg"> <img src="meshes/glorious_doors_of_skyrim7.jpg"> <img src="meshes/JS_Purses_and Septims_SE.jpg"></details>
 
-# GUI
+# GUI / Interface / User Interface
 
 | Number | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
@@ -93,8 +93,9 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 9 | [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429) | todo | Not needed. |
 | 10 | [Constructible Object Custom Keyword System.](https://www.nexusmods.com/skyrimspecialedition/mods/81409) | Improves the usability of the Constructible Object Menu with SkyUI with an extensible keyword-based category system. | [Crafting Categories for SkyUI - Constructible Object Custom Keyword System -Spanish - Español - Castellano.](https://www.nexusmods.com/skyrimspecialedition/mods/93728) |
 
-- Tested and discarded:
-  -	Morehud. TRUEHUD IS 1000 TIMES BETTER!!!! (11/11/23 Jaume).
+Avoid:
+  -	Morehud: Because Truehud is 1000 times better. (11/11/23 Jaume).
+  -	Quickloot EE: instacrashes on main menu.
 
 # Magic / Spells
 
@@ -536,3 +537,4 @@ Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](
 <details><summary>Screenshots.</summary> <img src="preview/statuettes/5.jpg"/>  <img src="adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE2.jpg> <img src="adults/new_mara_statue_SE3.jpg> <img src="adults/new_mara_statue_SE4.jpg> <img src="adults/new_mara_statue_SE5.jpg> <img src="adults/new_mara_statue_SE6.jpg> <img src="adults/new_mara_statue_SE7.jpg> <img src="adults/new_mara_statue_SE8.jpg> <img src="adults/new_gray_fox_bust1.jpg"> <img src="adults/new_gray_fox_bust2.jpg"> <img src="adults/new_gray_fox_bust3.jpg"> <img src="adults/new_gray_fox_bust4.jpg"> <img src="adults/new_gray_fox_bust5.jpg"> <img src="adults/new_gray_fox_bust6.jpg"> <img src="adults/new_gray_fox_bust7.jpg"> <img src="adults/new_gray_fox_bust8.jpg"> <img src="adults/new_gray_fox_bust9.jpg"> </details>
 
 a
+
