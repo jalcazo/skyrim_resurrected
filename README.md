@@ -57,9 +57,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 | Number | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| 1 | [Yaldabaoth Armor.](https://www.nexusmods.com/skyrimspecialedition/mods/104528) | Cool new armor. | [Armadura y espada de Yaldabaoth el Demiurgo SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/104824) |
-| 2 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Fixes bugs and inconsistencies for Skyrim's weapons, armor, clothing, jewelry, and clutter items. | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
-| Total in this category: | 3 mods | | |
+| 1 | [Weapons Armor Clothing and Clutter Fixes.](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Fixes bugs and inconsistencies for Skyrim's weapons, armor, clothing, jewelry, and clutter items. | [Weapons Armor Clothing and Clutter Fixes - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37795) |
+| Total in this category: | 1 mods | | |
 
 (https://www.nexusmods.com/skyrimspecialedition/mods/86018)
 
