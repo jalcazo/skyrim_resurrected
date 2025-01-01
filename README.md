@@ -161,6 +161,7 @@ review of apocalypse
 | 2 | [Witcherun - A Verdant Whiterun Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/135928) | A whiterun overhaul using witcher plant assets! | Not needed. | :tv: todo |
 | 3 | [The Great City Of Dawnstar SSE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/19491) | Makes Dawnstar the city it always should have been. | [The Great City Of Dawnstar SSE Edition - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/82018) | :tv: [Skyrim SE - City Overhaul Mod: The Great City of Dawnstar](https://www.youtube.com/watch?v=7A4J1mYQEVU) |
 | 4 | [The Great City Of Morthal SSE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/19592) | Makes Morthal the city it always should have been. | [The Great City Of Morthal SSE Edition - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/82327?tab=files&file_id=347808&nmm=1) | :tv: [Skyrim SE Mods: The Great City Of Morthal](https://www.youtube.com/watch?v=am107iWf60E) |
+| 5 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) | :tv: todo |
 | Total in this category: | 4 mods | | |
 
 # Solitude
@@ -168,17 +169,10 @@ review of apocalypse
 | 1 | [JK's Solitude Outskirts (flagged ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | [JK's Solitude Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/104038) |
 
 
-# Riverwood
-
 | Clouds over Riverwood | Translation not needed. Checked the .esp on 21/2/2024 |
 
 <details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
 
-# Markarth
-
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
-| 1 | [JK's Markarth Outskirts.](https://www.nexusmods.com/skyrimspecialedition/mods/93006) | An enhanced Markarth Outskirts overhaul. | [JK's Markarth Outskirts - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/95842) |
 | 2 | [SKY CITY - Markarth Rising.](https://www.nexusmods.com/skyrimspecialedition/mods/22482) | Overhaul of Markarth. | todo, russian translation available |
 | Total in this category: | 2 mods | | |
 
@@ -192,13 +186,9 @@ review of apocalypse
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| 1 | [Enhanced Lights and FX.](https://www.nexusmods.com/skyrimspecialedition/mods/2424) | (Indispensable in Skyrim, in Fallout 4 no). | [Enhanced Lights and FX 3.06 Spanish Con instalador by xlwarrior.](https://www.nexusmods.com/skyrimspecialedition/mods/41042) |
-| 2 | [Enhanced Volumetric Lighting and Shadows (EVLaS).](https://www.nexusmods.com/skyrimspecialedition/mods/63725) | Impressive volumetric lights | Not needed. |
 | 3 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
-| Total in this category: | 4 mods | | |
 
 Tested and discarded:
-    - Realistic lighting overhaul.
     - Ambient Lighting Combined - ELFX with Shadows. **Even with the Spanish translations gives english names in doors in Markarth. Jaume 3/12/2023.**
 
 # Landscape / Locations / Special trees / Mountains / Waterfalls, etc.
