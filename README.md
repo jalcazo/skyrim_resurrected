@@ -156,8 +156,8 @@ review of apocalypse
 # Cities
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
-|----------|----------|----------|----------|
-| 1 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) |
+|----------|----------|----------|----------|----------|
+| 1 | [Fortified Whiterun.](https://www.nexusmods.com/skyrimspecialedition/mods/40094) | Fortified Whiterun seeks to bring realistic and logical defenses to our most beloved city. | [Fortified Whiterun - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/48142) | :tv: todo |
 | 2 | [Witcherun - A Verdant Whiterun Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/135928) | A whiterun overhaul using witcher plant assets! | Not needed. | :tv: todo |
 | 3 | [The Great City Of Dawnstar SSE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/19491) | Makes Dawnstar the city it always should have been. | [The Great City Of Dawnstar SSE Edition - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/82018) | :tv: [Skyrim SE - City Overhaul Mod: The Great City of Dawnstar](https://www.youtube.com/watch?v=7A4J1mYQEVU) |
 | 4 | [The Great City Of Morthal SSE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/19592) | Makes Morthal the city it always should have been. | [The Great City Of Morthal SSE Edition - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/82327?tab=files&file_id=347808&nmm=1) | :tv: [Skyrim SE Mods: The Great City Of Morthal](https://www.youtube.com/watch?v=am107iWf60E) |
