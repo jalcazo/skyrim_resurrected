@@ -337,16 +337,23 @@ Tested and discarded:
 
 # Map
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Flat World Map Framework (FWMF).](https://www.nexusmods.com/skyrimspecialedition/mods/29932) (This mod changes default 3D Skyrim map to a flat one). | Not needed. Framework for all below. |
-| [Skyrim Paper Map by Caro Tuts for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/62705?tab=files) | Not needed. |
-| [Skuldafn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/73489) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Beyond Skyrim Bruma Paper Map by Mirhayasu for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/64037) | Not needed. |
-| [Dayspring Canyon Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/61917) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Forgotten Vale Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/54628) | Not needed. |
-| [Soul Cairn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/55387) | ``` TODO. TO BE DONE 🚧 ``` |
-| [Blackreach Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/53878?tab=files) | ``` TODO. TO BE DONE 🚧 ``` |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers. | [Atlas Map Markers SE - Updated with MCM - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/38331) | :tv: todo |
+| 2 | [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123?tab=files&file_id=546180&nmm=1) | CoMAP is an SKSE based framework that allows the adding of custom map/compass marker designs, editing marker discovery music and changing marker assignments without any need for an esp. Ships with a large variety of built in marker types for you to use and premade config files for various mods. | :tv: todo |
+
+# Paper map (optional)
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Flat World Map Framework (FWMF).](https://www.nexusmods.com/skyrimspecialedition/mods/29932) (This mod changes default 3D Skyrim map to a flat one). | Not needed. Framework for all below. | :tv: todo |
+| 2 | [Skyrim Paper Map by Caro Tuts for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/62705?tab=files) | Not needed. | :tv: todo |
+| 3 | [Skuldafn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/73489) | ``` TODO. TO BE DONE 🚧 ``` | :tv: todo |
+| 4 | [Beyond Skyrim Bruma Paper Map by Mirhayasu for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/64037) | Not needed. | :tv: todo |
+| 5 | [Dayspring Canyon Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/61917) | ``` TODO. TO BE DONE 🚧 ``` | :tv: todo |
+| 6 | [Forgotten Vale Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/54628) | Not needed. | :tv: todo |
+| 7 | [Soul Cairn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/55387) | ``` TODO. TO BE DONE 🚧 ``` | :tv: todo |
+| 8 |[Blackreach Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/53878?tab=files) | ``` TODO. TO BE DONE 🚧 ``` | :tv: todo |
 
 # Immersion
 
