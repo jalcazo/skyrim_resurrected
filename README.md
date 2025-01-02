@@ -340,7 +340,9 @@ Tested and discarded:
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers. | [Atlas Map Markers SE - Updated with MCM - Spanish Translation](https://www.nexusmods.com/skyrimspecialedition/mods/38331) | :tv: todo |
-| 2 | [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123?tab=files&file_id=546180&nmm=1) | CoMAP is an SKSE based framework that allows the adding of custom map/compass marker designs, editing marker discovery music and changing marker assignments without any need for an esp. Ships with a large variety of built in marker types for you to use and premade config files for various mods. | :tv: todo |
+| 2 | [Atlas Map Markers Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/137793?tab=description) |Atlas Overhaul aims to bring the locations of the original Atlas Map Markers more in line with vanilla Skyrim's naming conventions, with a focus on lore consistency! Includes an overhaul of the CoMAP markers for Atlas, the base game and Anniversary Edition. | todo | :tv: todo |
+| 3 | [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123?tab=files&file_id=546180&nmm=1) | CoMAP is an SKSE based framework that allows the adding of custom map/compass marker designs, editing marker discovery music and changing marker assignments without any need for an esp. Ships with a large variety of built in marker types for you to use and premade config files for various mods. | :tv: todo |
+| Total in this category: | 3 mods | | |
 
 # Paper map (optional)
 
@@ -354,6 +356,7 @@ Tested and discarded:
 | 6 | [Forgotten Vale Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/54628) | Not needed. | :tv: todo |
 | 7 | [Soul Cairn Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/55387) | ``` TODO. TO BE DONE 🚧 ``` | :tv: todo |
 | 8 |[Blackreach Paper Map for FWMF.](https://www.nexusmods.com/skyrimspecialedition/mods/53878?tab=files) | ``` TODO. TO BE DONE 🚧 ``` | :tv: todo |
+| Total in this category: | 8 mods | | |
 
 # Immersion
 
