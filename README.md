@@ -53,6 +53,17 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 - Tested and discarded:
     - Delete hawk nests. Causes purple textures on regular nests.
 
+# Community shaders
+
+| Number | Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. | Not needed. | :tv: [Skyrim Community Shaders: AMAZING Graphics and Performance](https://www.youtube.com/watch?v=tKWPfMLw3r8) and [ENB Becoming Obsolete? Community Shaders Latest Features](https://www.youtube.com/watch?v=wYD8NGtk3K4) |
+| 2 | [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) | Community Shaders feature which adds a collection of realistic wetness and weather effects to Skyrim. Supports SE, AE, and VR. | Not needed. | :tv: todo |
+
+| Total in this category: | 1 mods | | |
+
+
+
 # Armor, armors
 
 | Number | Mod |  Brief explanation | Spanish translation |
