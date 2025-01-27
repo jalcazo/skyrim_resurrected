@@ -63,11 +63,17 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 4 | [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) | Community Shaders feature which adds a collection of realistic wetness and weather effects to Skyrim. Supports SE, AE, and VR. | Not needed. | :tv: todo |
 | 5 | [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185/) | Community Shaders feature which casts shadows from clouds. Supports SE, AE, and VR. | Not needed. | :tv: todo |
 | 6 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
-| Total in this category: | 6 mods | | |
+| 7 | [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817) | Community Shaders feature which enables rough terrain shadows with infinite distance, in game and on world maps. Supports SE, AE, and VR. | Not needed. | :tv: todo |
+| 8 | [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762) | Community Shaders feature which simulates water caustic effects and adds optimised parallax support. | Not needed. | :tv: todo |
+| Total in this category: | 8 mods | | |
 
 <details><summary>Ambient occlusion of Skylighting (before/after animations), to avoid the ugly flat lighting of gamebryo games: </summary> <img src="community/skylighting1_gifanimat.webp"> <img src="community/skylighting2_gifanimat.webp"><img src="community/skylighting3_gifanimat.webp"><img src="community/skylighting4_gifanimat.webp"><img src="community/skylighting5_gifanimat.webp"></details>
 
 <details><summary>Indirect illumination (some before/after animations): </summary> <img src="community/ssgi_gifanimat1.webp"> <img src="community/ssgi_gifanimat2.webp"><img src="community/ssgi_gifanimat3.webp"><img src="community/ssgi4.webp"><img src="community/ssgi5.webp"><img src="community/ssgi6.webp"><img src="community/ssgi7.webp"><img src="community/ssgi8.webp"><img src="community/ssgi9.webp"></details>
+
+<video width="600" height="338" controls>
+  <source src="community/water_effects1.mp4" type="video/mp4">
+</video>
 
 # Armor, armors
 
@@ -203,6 +209,7 @@ review of apocalypse
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
+| [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557) | Some mods add lights with this mod. Jaume 27/1/2025. SKSE based framework for attaching real lights to objects and actors, via configurable .JSON files | Not needed. | :tv: todo |
 
 Tested and discarded:
     - Ambient Lighting Combined - ELFX with Shadows. **Even with the Spanish translations gives english names in doors in Markarth. Jaume 3/12/2023.**
