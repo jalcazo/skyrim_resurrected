@@ -58,9 +58,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | Number | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. | Not needed. | :tv: [Skyrim Community Shaders: AMAZING Graphics and Performance](https://www.youtube.com/watch?v=tKWPfMLw3r8) and [ENB Becoming Obsolete? Community Shaders Latest Features](https://www.youtube.com/watch?v=wYD8NGtk3K4) |
-| 2 | [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) | Community Shaders feature which adds a collection of realistic wetness and weather effects to Skyrim. Supports SE, AE, and VR. | Not needed. | :tv: todo |
-
-| Total in this category: | 1 mods | | |
+| 2 | [Skylighting](https://www.nexusmods.com/skyrimspecialedition/mods/139352) | Advanced Community Shaders feature which simulates large scale world-space ambient occlusion. Supports SE, AE, and VR. | Not needed. | :tv: todo |
+| 3 | [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) | Community Shaders feature which adds a collection of realistic wetness and weather effects to Skyrim. Supports SE, AE, and VR. | Not needed. | :tv: todo |
+| 4 | [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185/) | Community Shaders feature which casts shadows from clouds. Supports SE, AE, and VR. | Not needed. | :tv: todo |
+| Total in this category: | 4 mods | | |
 
 
 
