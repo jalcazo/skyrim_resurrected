@@ -59,12 +59,15 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 |----------|----------|----------|----------|
 | 1 | [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) | Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. | Not needed. | :tv: [Skyrim Community Shaders: AMAZING Graphics and Performance](https://www.youtube.com/watch?v=tKWPfMLw3r8) and [ENB Becoming Obsolete? Community Shaders Latest Features](https://www.youtube.com/watch?v=wYD8NGtk3K4) |
 | 2 | [Skylighting](https://www.nexusmods.com/skyrimspecialedition/mods/139352) | Advanced Community Shaders feature which simulates large scale world-space ambient occlusion. Supports SE, AE, and VR. | Not needed. | :tv: todo |
-| 3 | [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) | Community Shaders feature which adds a collection of realistic wetness and weather effects to Skyrim. Supports SE, AE, and VR. | Not needed. | :tv: todo |
-| 4 | [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185/) | Community Shaders feature which casts shadows from clouds. Supports SE, AE, and VR. | Not needed. | :tv: todo |
-| 5 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
-| Total in this category: | 4 mods | | |
+| 3 | [Screen Space Global Illumination (SSGI)](https://www.nexusmods.com/skyrimspecialedition/mods/130375) | Community Shaders feature which simulates ambient occlusion (AO) and indirect lighting (IL) using screen space information. Supports SE and AE. | Not needed. | :tv: todo |
+| 4 | [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) | Community Shaders feature which adds a collection of realistic wetness and weather effects to Skyrim. Supports SE, AE, and VR. | Not needed. | :tv: todo |
+| 5 | [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185/) | Community Shaders feature which casts shadows from clouds. Supports SE, AE, and VR. | Not needed. | :tv: todo |
+| 6 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
+| Total in this category: | 6 mods | | |
 
-<details><summary>Ambient occlusion of Skylighting (before/after animations): </summary> <img src="community/skylighting1_gifanimat.jpg"> <img src="community/skylighting2_gifanimat.jpg"><img src="community/skylighting3_gifanimat.jpg"><img src="community/skylighting4_gifanimat.jpg"><img src="community/skylighting5_gifanimat.jpg"></details>
+<details><summary>Ambient occlusion of Skylighting (before/after animations), to avoid the ugly flat lighting of gamebryo games: </summary> <img src="community/skylighting1_gifanimat.webp"> <img src="community/skylighting2_gifanimat.webp"><img src="community/skylighting3_gifanimat.webp"><img src="community/skylighting4_gifanimat.webp"><img src="community/skylighting5_gifanimat.webp"></details>
+
+<details><summary>Indirect illumination (some before/after animations): </summary> <img src="community/ssgi_gifanimat1.webp"> <img src="community/ssgi_gifanimat2.webp"><img src="community/ssgi_gifanimat3.webp"><img src="community/ssgi4.webp"><img src="community/ssgi5.webp"><img src="community/ssgi6.webp"><img src="community/ssgi7.webp"><img src="community/ssgi8.webp"><img src="community/ssgi9.webp"></details>
 
 # Armor, armors
 
