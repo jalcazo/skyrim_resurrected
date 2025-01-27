@@ -75,6 +75,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
   <source src="community/water_effects1.mp4" type="video/mp4">
 </video>
 
+![](community/water_effects1.mp4)
+
+[Download or watch the video](community/water_effects1.mp4)
+
 # Armor, armors
 
 | Number | Mod |  Brief explanation | Spanish translation |
