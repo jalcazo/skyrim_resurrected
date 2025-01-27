@@ -61,9 +61,10 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 2 | [Skylighting](https://www.nexusmods.com/skyrimspecialedition/mods/139352) | Advanced Community Shaders feature which simulates large scale world-space ambient occlusion. Supports SE, AE, and VR. | Not needed. | :tv: todo |
 | 3 | [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) | Community Shaders feature which adds a collection of realistic wetness and weather effects to Skyrim. Supports SE, AE, and VR. | Not needed. | :tv: todo |
 | 4 | [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185/) | Community Shaders feature which casts shadows from clouds. Supports SE, AE, and VR. | Not needed. | :tv: todo |
+| 5 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
 | Total in this category: | 4 mods | | |
 
-
+<details><summary>Ambient occlusion of Skylighting (before/after animations): </summary> <img src="community/skylighting1_gifanimat.jpg"> <img src="community/skylighting2_gifanimat.jpg"><img src="community/skylighting3_gifanimat.jpg"><img src="community/skylighting4_gifanimat.jpg"><img src="community/skylighting5_gifanimat.jpg"></details>
 
 # Armor, armors
 
@@ -199,7 +200,6 @@ review of apocalypse
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| 3 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
 
 Tested and discarded:
     - Ambient Lighting Combined - ELFX with Shadows. **Even with the Spanish translations gives english names in doors in Markarth. Jaume 3/12/2023.**
