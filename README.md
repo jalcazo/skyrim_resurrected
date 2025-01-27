@@ -65,19 +65,16 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 6 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
 | 7 | [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817) | Community Shaders feature which enables rough terrain shadows with infinite distance, in game and on world maps. Supports SE, AE, and VR. | Not needed. | :tv: todo |
 | 8 | [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762) | Community Shaders feature which simulates water caustic effects and adds optimised parallax support. | Not needed. | :tv: todo |
-| Total in this category: | 8 mods | | |
+| 9 | [Subsurface Scattering](https://www.nexusmods.com/skyrimspecialedition/mods/114114) | Community Shaders feature which adds screen-space subsurface scattering to characters, to simulate realistic skin. | Not needed. | :tv: todo |
+| Total in this category: | 9 mods | | |
 
 <details><summary>Ambient occlusion of Skylighting (before/after animations), to avoid the ugly flat lighting of gamebryo games: </summary> <img src="community/skylighting1_gifanimat.webp"> <img src="community/skylighting2_gifanimat.webp"><img src="community/skylighting3_gifanimat.webp"><img src="community/skylighting4_gifanimat.webp"><img src="community/skylighting5_gifanimat.webp"></details>
 
 <details><summary>Indirect illumination (some before/after animations): </summary> <img src="community/ssgi_gifanimat1.webp"> <img src="community/ssgi_gifanimat2.webp"><img src="community/ssgi_gifanimat3.webp"><img src="community/ssgi4.webp"><img src="community/ssgi5.webp"><img src="community/ssgi6.webp"><img src="community/ssgi7.webp"><img src="community/ssgi8.webp"><img src="community/ssgi9.webp"></details>
 
-<video width="600" height="338" controls>
-  <source src="community/water_effects1.mp4" type="video/mp4">
-</video>
+<details><summary>Water effects (some before/after animations): </summary> <img src="community/water_effects1.gif"> <img src="community/water_effects2.gif"><img src="community/water_effects3.gif"></details>
 
-![](community/water_effects1.mp4)
-
-[Download or watch the video](community/water_effects1.mp4)
+<details><summary>Wetness effects (some before/after animations): </summary> <img src="community/wetness_effects1.webp"> <img src="community/wetness_effects2.webp"><img src="community/wetness_effects3.webp"><img src="community/wetness_effects4.webp"><img src="community/wetness_effects5.webp"></details>
 
 # Armor, armors
 
