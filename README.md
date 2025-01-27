@@ -64,7 +64,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 5 | [Grass Lighting.](https://www.nexusmods.com/skyrimspecialedition/mods/86502) | Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting, and emulated complex grass. | Not needed. |
 | Total in this category: | 4 mods | | |
 
-<details><summary>Ambient occlusion of Skylighting (before/after animations): </summary> <img src="community/skylighting1_gifanimat.webp"> <img src="community/skylighting2_gifanimat.webp"><img src="community/skylighting3_gifanimat.webp"><img src="community/skylighting4_gifanimat.webp"><img src="community/skylighting5_gifanimat.webp"></details>
+<details><summary>Ambient occlusion of Skylighting (before/after animations), to avoid the ugly flat lighting of gamebryo games: </summary> <img src="community/skylighting1_gifanimat.webp"> <img src="community/skylighting2_gifanimat.webp"><img src="community/skylighting3_gifanimat.webp"><img src="community/skylighting4_gifanimat.webp"><img src="community/skylighting5_gifanimat.webp"></details>
 
 # Armor, armors
 
