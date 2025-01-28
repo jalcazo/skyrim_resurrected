@@ -66,7 +66,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 7 | [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817) | Community Shaders feature which enables rough terrain shadows with infinite distance, in game and on world maps. Supports SE, AE, and VR. | Not needed. | :tv: todo |
 | 8 | [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762) | Community Shaders feature which simulates water caustic effects and adds optimised parallax support. | Not needed. | :tv: todo |
 | 9 | [Subsurface Scattering](https://www.nexusmods.com/skyrimspecialedition/mods/114114) | Community Shaders feature which adds screen-space subsurface scattering to characters, to simulate realistic skin. | Not needed. | :tv: todo |
-| Total in this category: | 9 mods | | |
+| 10 | [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308) | A texture mod that makes use of Community Shaders' PBR feature and covers large parts of the game. | Not needed. | :tv: todo |
+| Total in this category: | 10 mods | | |
 
 <details><summary>Ambient occlusion of Skylighting (before/after animations), to avoid the ugly flat lighting of gamebryo games: </summary> <img src="community/skylighting1_gifanimat.webp"> <img src="community/skylighting2_gifanimat.webp"><img src="community/skylighting3_gifanimat.webp"><img src="community/skylighting4_gifanimat.webp"><img src="community/skylighting5_gifanimat.webp"></details>
 
@@ -75,6 +76,8 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 <details><summary>Water effects (some before/after animations): </summary> <img src="community/water_effects1.gif"> <img src="community/water_effects2.gif"><img src="community/water_effects3.gif"></details>
 
 <details><summary>Wetness effects (some before/after animations): </summary> <img src="community/wetness_effects1.webp"> <img src="community/wetness_effects2.webp"><img src="community/wetness_effects3.webp"><img src="community/wetness_effects4.webp"><img src="community/wetness_effects5.webp"></details>
+
+<details><summary>PBR Skyrim: </summary> <img src="community/PBRskyrim1.jpg"> <img src="community/PBRskyrim2.jpg"><img src="community/PBRskyrim3.jpg"><img src="community/PBRskyrim4.jpg"><img src="community/PBRskyrim5.jpg"></details>
 
 # Armor, armors
 
