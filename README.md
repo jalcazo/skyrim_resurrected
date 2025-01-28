@@ -77,7 +77,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <details><summary>Wetness effects (some before/after animations): </summary> <img src="community/wetness_effects1.webp"> <img src="community/wetness_effects2.webp"><img src="community/wetness_effects3.webp"><img src="community/wetness_effects4.webp"><img src="community/wetness_effects5.webp"></details>
 
-<details><summary>PBR Skyrim: </summary> <img src="community/PBRskyrim1.jpg"> <img src="community/PBRskyrim2.jpg"><img src="community/PBRskyrim3.jpg"><img src="community/PBRskyrim4.jpg"><img src="community/PBRskyrim5.jpg"></details>
+<details><summary>PBR Skyrim</summary> <img src="community/PBRskyrim1.jpg"> <img src="community/PBRskyrim2.jpg"><img src="community/PBRskyrim3.jpg"><img src="community/PBRskyrim4.jpg"><img src="community/PBRskyrim5.jpg"><img src="community/PBRskyrim6.jpg"></details>
 
 # Armor, armors
 
