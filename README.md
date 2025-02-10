@@ -283,16 +283,15 @@ Tested and discarded:
 | [Animallica SE - Skyrim Wildlife Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20456) | [Animallica SE - Skyrim Wildlife Overhaul Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/20590) |
 | [Fluffworks (Fluffy Animals).](https://www.nexusmods.com/skyrimspecialedition/mods/56361) | Not needed. Better looking fur in animals. |
 | [Fluffworks (Fluffy Animals) - Domestic Goat with Bell.](https://www.nexusmods.com/skyrimspecialedition/mods/64744) | Not needed. |
-| [Herds SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/13880) | Adds dynamic herders with their animals and camps to Skyrim, purchasable & milkable cows & goats, and more. | [Herds SSE SPANISH.](https://www.nexusmods.com/skyrimspecialedition/mods/13980) (Translation by the great and only Mansadum!) |
 | [Bears of the North.](https://www.nexusmods.com/skyrimspecialedition/mods/47541) | Visual overhaul of the bears of Skyrim. Bigger, badder bears fit for the harsh northern lands they roam. | [Bears of the North Spanish by xlwarrior.](https://www.nexusmods.com/skyrimspecialedition/mods/47691) |
 
 <details><summary>Screenshots. </summary> <img src="animals/witcher_horse_expansion1.jpg"> <img src="animals/witcher_horse_expansion2.jpg"> <img src="animals/witcher_horse_expansion4.jpg"> <img src="animals/witcher_horse_expansion7.jpg"> <img src="animals/witcher_horse_expansion9.jpg"> <img src="preview/herds/1.jpg"/> </details>
 
 # Northbourne NPCs
 
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
-| 1 | [Northbourne NPCs Resources.](https://www.nexusmods.com/skyrimspecialedition/mods/101466) | 
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Northbourne NPCs Resources.](https://www.nexusmods.com/skyrimspecialedition/mods/101466) | :tv: todo |
 
 
 # NPC's
@@ -303,40 +302,41 @@ Tested and discarded:
 
 <details><summary>Screenshots example (here you have Zaria and Aduri Sarethi). </summary> <img src="npcs/pandorables/zaria_aduri-sarethi.jpg"> </details>
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Pandorable's NPCs - males.](https://www.nexusmods.com/skyrimspecialedition/mods/42043) | FALTA |
-| [Pandorable's NPCs - males 2.](https://www.nexusmods.com/skyrimspecialedition/mods/50617) (Another 60 lads). | [Pandorable's NPCs - males 2 - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/101485) |
-| [Pandorable's NPCs - Dawnguard (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files) | [Pandorable's NPCs - Dawnguard - Spanish Translation (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101056?tab=files) | 
-| [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650) | Spanish translation marked redundant by Vortex. |
-| [Dibella's Blessing.](https://www.nexusmods.com/skyrimspecialedition/mods/82606) (Apparance overhaul for 233 female characters from Skyrim). | [Dibella's Blessing - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/83704?tab=files) |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Pandorable's NPCs - males.](https://www.nexusmods.com/skyrimspecialedition/mods/42043) | FALTA | :tv: todo |
+| 2 | [Pandorable's NPCs - males 2.](https://www.nexusmods.com/skyrimspecialedition/mods/50617) (Another 60 lads). | [Pandorable's NPCs - males 2 - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/101485) | :tv: todo |
+| 3 | [Pandorable's NPCs - Dawnguard (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files) | [Pandorable's NPCs - Dawnguard - Spanish Translation (USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101056) | :tv: todo |
+| 4 | [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650) | Spanish translation marked redundant by Vortex. | :tv: todo |
+| 5 | [Dibella's Blessing.](https://www.nexusmods.com/skyrimspecialedition/mods/82606) (Apparance overhaul for 233 female characters from Skyrim). | [Dibella's Blessing - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/83704) | :tv: todo |
 
 <details><summary>Screenshots example for Dibella's Blessing (here you have Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="npcs/dibellas/markarth_bothela_eola.jpg"> <img src="npcs/dibellas/hroki_marise.jpg"> <img src="npcs/dibellas/karliah_voldsea.jpg"> </details>
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [KS Hairdos SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/6817) | Not needed. |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [KS Hairdos SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/6817) | Not needed. | :tv: todo |
 
 # Items
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [The Elder Scrolls Online Imports.](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | ``` TODO. TO BE DONE 🚧 ``` |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [The Elder Scrolls Online Imports.](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | ``` TODO. TO BE DONE 🚧 ``` | :tv: todo |
 
 # Expansions / DLC sized expansions
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Skyrim Sewers 4.](https://www.nexusmods.com/skyrimspecialedition/mods/9320) | [Skyrim Sewers 4 - Spanish Translation by Zedox.](https://www.nexusmods.com/skyrimspecialedition/mods/100402 |
-| [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | [Beyond Skyrim Bruma SPANISH (by Jaume y Rubenoky).](https://www.nexusmods.com/skyrimspecialedition/mods/14508?tab=files) | a | b |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [GLENMORIL SE](https://www.nexusmods.com/skyrimspecialedition/mods/32998) | Witch Hunter's Quest, Armors and weapons. | [Glenmoril SE SPANISH](https://www.nexusmods.com/skyrimspecialedition/mods/33014) | [Skyrim Meets Bloodborne - Glenmoril | Skyrim Mods](https://www.youtube.com/watch?v=9_mIaZnINaA) |
+| 2 | [Skyrim Sewers 4.](https://www.nexusmods.com/skyrimspecialedition/mods/9320) | [Skyrim Sewers 4 - Spanish Translation by Zedox.](https://www.nexusmods.com/skyrimspecialedition/mods/100402 | :tv: todo |
+| 3 | [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | [Beyond Skyrim Bruma SPANISH (by Jaume y Rubenoky).](https://www.nexusmods.com/skyrimspecialedition/mods/14508?tab=files) | a | b | :tv: todo |
 
 # Flora
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| [Folkvangr - Grass and Landscape Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/44899) | - | Not needed. |
-| [Kemper's Lavender Field Tundra (RED VERSION)](https://www.nexusmods.com/skyrimspecialedition/mods/104103) | - | Not needed. |
-| [Kempers Lavender Tundra - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/105128) | - | Not needed. |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Folkvangr - Grass and Landscape Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/44899) | - | Not needed. | :tv: todo |
+| 2 | [Kemper's Lavender Field Tundra (RED VERSION)](https://www.nexusmods.com/skyrimspecialedition/mods/104103) | - | Not needed. | :tv: todo |
+| 3 | [Kempers Lavender Tundra - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/105128) | - | Not needed. | :tv: todo |
 
 <details><summary>Screenshots example for Folkvangr </summary> <img src="flora/folkvangr1.jpg"> <img src="flora/folkvangr2.jpg"> <img src="flora/folkvangr3.jpg"> <img src="flora/folkvangr4.jpg"> </details>
 
